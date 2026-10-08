@@ -1,0 +1,3 @@
+Store ID,Store,Type,Issue,Action,Metric,Known Priority,Owner,Deadline
+ICON-ACTIVITY,მაღაზია — Store Activity Review,Activity review,"No sessions, order attempts or deliveries in reporting month",Confirm listing status and investigate absent demand or order activity,,0,,
+ICON-CLOSURE,Closure verification location,Closure verification,Inferred closed: 3 consecutive zero-uptime months after operating history,Confirm lifecycle status before treating closure as permanent,,0,,

@@ -1,0 +1,891 @@
+[
+  {
+    "case": "Actions_6",
+    "sbu": "PETS",
+    "partner_name": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი",
+    "actions": 6,
+    "reviews": [
+      {
+        "Store ID": "PRIVATE-MISSING",
+        "Store": "Pet supplies branch G, Rustaveli Avenue 15",
+        "Type": "Data quality",
+        "Issue": "Missing scoring evidence: PNA",
+        "Action": "Reconcile current activity, lifecycle, missing inputs and benchmark coverage",
+        "Metric": "",
+        "Sort": 0,
+        "Known Priority": 8.465849628572396,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "Pet supplies branch 1, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "Pet supplies branch 1, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "Pet supplies branch 1, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-2",
+        "Store": "Pet supplies branch 2, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-2",
+        "Store": "Pet supplies branch 2, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-2",
+        "Store": "Pet supplies branch 2, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-3",
+        "Store": "Pet supplies branch 3, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-3",
+        "Store": "Pet supplies branch 3, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-3",
+        "Store": "Pet supplies branch 3, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-4",
+        "Store": "Pet supplies branch 4, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-4",
+        "Store": "Pet supplies branch 4, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-4",
+        "Store": "Pet supplies branch 4, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-5",
+        "Store": "Pet supplies branch 5, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-5",
+        "Store": "Pet supplies branch 5, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-5",
+        "Store": "Pet supplies branch 5, Rustaveli Avenue 15",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-AVAIL",
+        "Store": "Pet supplies branch L, Rustaveli Avenue 15",
+        "Type": "Availability review",
+        "Issue": "Uptime 88.0% vs target 95.0%",
+        "Action": "Restore availability during scheduled opening hours",
+        "Metric": "Uptime",
+        "Sort": 4,
+        "Known Priority": 0.17684210526315777,
+        "Owner": "",
+        "Deadline": ""
+      }
+    ],
+    "slides": [
+      {
+        "page": 1,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი Business Review"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "პეტფუდი — საერთაშორისო პარტნიორი და შინაური ცხოველების მომსახურების ცენტრი Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions · 1/3"
+      },
+      {
+        "page": 14,
+        "title": "Priority Opportunities & Actions · 2/3"
+      },
+      {
+        "page": 15,
+        "title": "Priority Opportunities & Actions · 3/3"
+      },
+      {
+        "page": 16,
+        "title": "Operational & Data Review · 1/5"
+      },
+      {
+        "page": 17,
+        "title": "Operational & Data Review · 2/5"
+      },
+      {
+        "page": 18,
+        "title": "Operational & Data Review · 3/5"
+      },
+      {
+        "page": 19,
+        "title": "Operational & Data Review · 4/5"
+      },
+      {
+        "page": 20,
+        "title": "Operational & Data Review · 5/5"
+      },
+      {
+        "page": 21,
+        "title": "Operational & Data Review · Store Coverage"
+      },
+      {
+        "page": 22,
+        "title": "Discussion"
+      },
+      {
+        "page": 23,
+        "title": "Action Plan · 1/3"
+      },
+      {
+        "page": 24,
+        "title": "Action Plan · 2/3"
+      },
+      {
+        "page": 25,
+        "title": "Action Plan · 3/3"
+      },
+      {
+        "page": 26,
+        "title": "Action Plan"
+      },
+      {
+        "page": 27,
+        "title": "Thank You"
+      },
+      {
+        "page": 28,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 29,
+        "title": "Store Overview"
+      },
+      {
+        "page": 30,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 31,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 32,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 33,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 34,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 35,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 36,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 37,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 38,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Empty",
+    "sbu": "PETS",
+    "partner_name": "PetFood",
+    "actions": 0,
+    "reviews": [],
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood Business Review"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Discussion"
+      },
+      {
+        "page": 16,
+        "title": "Action Plan"
+      },
+      {
+        "page": 17,
+        "title": "Thank You"
+      },
+      {
+        "page": 18,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 19,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "sbu": "FLOWERS",
+    "partner_name": "PetFood",
+    "actions": 0,
+    "reviews": [
+      {
+        "Store ID": "PRIVATE-DATA",
+        "Store": "Pet supplies branch A, Rustaveli Avenue 15",
+        "Type": "Data quality",
+        "Issue": "Missing scoring evidence: PNA",
+        "Action": "Reconcile current activity, lifecycle, missing inputs and benchmark coverage",
+        "Metric": "",
+        "Sort": 0,
+        "Known Priority": 0.0,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-HYGIENE",
+        "Store": "Pet supplies branch E, Rustaveli Avenue 15",
+        "Type": "Opening-hours hygiene",
+        "Issue": "Observed uptime 40.0%; verify configured opening hours",
+        "Action": "Verify and correct configured store opening hours",
+        "Metric": "Uptime",
+        "Sort": 3,
+        "Known Priority": 0.0,
+        "Owner": "",
+        "Deadline": ""
+      }
+    ],
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood Business Review"
+      },
+      {
+        "page": 2,
+        "title": "FLOWERS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "FLOWERS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs FLOWERS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs FLOWERS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs FLOWERS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs FLOWERS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of FLOWERS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review · Store Coverage"
+      },
+      {
+        "page": 16,
+        "title": "Discussion"
+      },
+      {
+        "page": 17,
+        "title": "Action Plan"
+      },
+      {
+        "page": 18,
+        "title": "Thank You"
+      },
+      {
+        "page": 19,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 20,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 21,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "sbu": "PETS",
+    "partner_name": "PetFood International · თბილისი / München",
+    "actions": 2,
+    "reviews": [
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "PetFood International — Veterinary Nutrition & Animal Care · São Paulo / München / Αθήνα — Central Flagship Store, Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "PetFood International — Veterinary Nutrition & Animal Care · São Paulo / München / Αθήνα — Central Flagship Store, Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-0",
+        "Store": "PetFood International — Veterinary Nutrition & Animal Care · São Paulo / München / Αθήνα — Central Flagship Store, Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "ცხოველების კვებისა და მოვლის ცენტრი · München / São Paulo / Αθήνα — Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "CVR 2.5% vs SBU 26.4%; denominator 4,000",
+        "Action": "Review assortment, pricing and the conversion journey; verify the sample before escalation",
+        "Metric": "CVR",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "ცხოველების კვებისა და მოვლის ცენტრი · München / São Paulo / Αθήνα — Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "Cancels 22.0% vs SBU 2.5%; denominator 1,000",
+        "Action": "Review partner-cancelled orders and resolve the main failure reasons; verify the sample before escalation",
+        "Metric": "Cancels",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "PRIVATE-ID-1",
+        "Store": "ცხოველების კვებისა და მოვლის ცენტრი · München / São Paulo / Αθήνα — Rustaveli Avenue 123",
+        "Type": "Critical observation",
+        "Issue": "PNA 45.0% vs SBU 6.1%; denominator 1,000",
+        "Action": "Review stock accuracy and availability of affected products; verify the sample before escalation",
+        "Metric": "PNA",
+        "Sort": 2,
+        "Known Priority": 85.29846809201433,
+        "Owner": "",
+        "Deadline": ""
+      }
+    ],
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood International · თბილისი / München Business Review"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood International · თბილისი / München vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood International · თბილისი / München vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood International · თბილისი / München Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood International · თბილისი / München Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood International · თბილისი / München Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood International · თბილისი / München Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review · 1/2"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review · 2/2"
+      },
+      {
+        "page": 16,
+        "title": "Discussion"
+      },
+      {
+        "page": 17,
+        "title": "Action Plan"
+      },
+      {
+        "page": 18,
+        "title": "Action Plan"
+      },
+      {
+        "page": 19,
+        "title": "Thank You"
+      },
+      {
+        "page": 20,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 21,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 22,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Store_States",
+    "sbu": "PETS",
+    "partner_name": "PetFood",
+    "actions": 0,
+    "reviews": [
+      {
+        "Store ID": "ICON-ACTIVITY",
+        "Store": "მაღაზია — Store Activity Review",
+        "Type": "Activity review",
+        "Issue": "No sessions, order attempts or deliveries in reporting month",
+        "Action": "Confirm listing status and investigate absent demand or order activity",
+        "Metric": "",
+        "Sort": 1,
+        "Known Priority": 0.0,
+        "Owner": "",
+        "Deadline": ""
+      },
+      {
+        "Store ID": "ICON-CLOSURE",
+        "Store": "Closure verification location",
+        "Type": "Closure verification",
+        "Issue": "Inferred closed: 3 consecutive zero-uptime months after operating history",
+        "Action": "Confirm lifecycle status before treating closure as permanent",
+        "Metric": "",
+        "Sort": 1,
+        "Known Priority": 0.0,
+        "Owner": "",
+        "Deadline": ""
+      }
+    ],
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood Business Review"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Discussion"
+      },
+      {
+        "page": 16,
+        "title": "Action Plan"
+      },
+      {
+        "page": 17,
+        "title": "Thank You"
+      },
+      {
+        "page": 18,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 19,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 20,
+        "title": "Store Diagnostics"
+      }
+    ]
+  }
+]

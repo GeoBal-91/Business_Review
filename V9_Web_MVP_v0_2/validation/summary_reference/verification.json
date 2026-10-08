@@ -1,0 +1,24 @@
+[
+  {
+    "case": "Actions_6",
+    "exact_coordinate_pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "slide_count": 38,
+    "all_other_shapes_unchanged": true,
+    "audit_entries_equal": 23
+  },
+  {
+    "case": "Empty",
+    "exact_coordinate_pages": [
+      14
+    ],
+    "slide_count": 19,
+    "all_other_shapes_unchanged": true,
+    "audit_entries_equal": 23
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "case": "Actions_6",
+    "slides": 38,
+    "summary_icon_pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "summary_icons": 15,
+    "unchanged_audit_entries": 23,
+    "only_summary_icons_and_label_spacing_changed": true
+  },
+  {
+    "case": "Empty",
+    "slides": 19,
+    "summary_icon_pages": [
+      14
+    ],
+    "summary_icons": 3,
+    "unchanged_audit_entries": 23,
+    "only_summary_icons_and_label_spacing_changed": true
+  }
+]

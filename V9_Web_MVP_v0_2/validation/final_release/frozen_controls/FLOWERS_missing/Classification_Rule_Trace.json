@@ -1,0 +1,238 @@
+[
+  {
+    "Store ID": "PRIVATE-DATA",
+    "assessable": false,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.2,
+        "benchmark": 0.039466666666666664,
+        "denominator": 1000.0,
+        "gap": 0.16053333333333336,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": null,
+        "benchmark": 0.07772020725388601,
+        "denominator": 400.0,
+        "gap": null,
+        "commercial": true,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.025,
+        "benchmark": 0.08393782383419689,
+        "denominator": 400.0,
+        "gap": -0.058937823834196885,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.95,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": 0.0,
+        "commercial": false,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      }
+    },
+    "current_store_coverage_complete": true,
+    "operating_commercial_stores": 2,
+    "store_gmv_share": 0.9900990099009901,
+    "top_two_by_current_gmv": true,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [],
+    "material_operational_kpis": [],
+    "meaningful_corroboration": [],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-HYGIENE",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.4,
+        "benchmark": 0.039466666666666664,
+        "denominator": 30.0,
+        "gap": 0.3605333333333334,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": false,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.0,
+        "benchmark": 0.07772020725388601,
+        "denominator": 10.0,
+        "gap": -0.07772020725388601,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.0,
+        "benchmark": 0.08393782383419689,
+        "denominator": 10.0,
+        "gap": -0.08393782383419689,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.4,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.5499999999999999,
+        "commercial": false,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      }
+    },
+    "current_store_coverage_complete": true,
+    "operating_commercial_stores": 2,
+    "store_gmv_share": 0.009900990099009901,
+    "top_two_by_current_gmv": true,
+    "top_two_exposure_guard": false,
+    "qualified_adverse_domains": [],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [],
+    "material_operational_kpis": [],
+    "meaningful_corroboration": [],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  }
+]

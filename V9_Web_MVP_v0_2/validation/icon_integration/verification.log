@@ -1,0 +1,2 @@
+PASS: icon mapping, native picture objects, exact asset bytes, aspect ratios, no text overlap, pagination/content parity, 22 audit files per case, frozen source integrity
+PASS: all eight sources now have true alpha transparency

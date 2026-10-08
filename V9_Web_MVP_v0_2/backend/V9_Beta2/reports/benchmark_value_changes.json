@@ -1,0 +1,394 @@
+[
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "# Delivered Orders",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "# Delivered Orders",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "# Delivered Orders",
+    "old": 0,
+    "new": 2
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "\u20ac AOV",
+    "old": null,
+    "new": 15.1040025
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "\u20ac AOV",
+    "old": null,
+    "new": 19.05858
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "\u20ac AOV",
+    "old": null,
+    "new": 52.037808999999996
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% CVR",
+    "old": 0.0,
+    "new": 0.010416666666666666
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% CVR",
+    "old": 0.0,
+    "new": 0.019230769230769232
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% PNA Orders",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "% PNA Orders",
+    "old": null,
+    "new": 1.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% PNA Orders",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% Cancels DTP",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "% Cancels DTP",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% Cancels DTP",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% Uptime",
+    "old": 0.11965565672020126,
+    "new": 0.22372804714168099
+  },
+  {
+    "sbu": "OTHER",
+    "month": "August",
+    "column": "% Uptime",
+    "old": 0.11846208964536196,
+    "new": 0.24363389929330495
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "% Uptime",
+    "old": 0.11240920729284203,
+    "new": 0.25859945861880973
+  },
+  {
+    "sbu": "OTHER",
+    "month": "February",
+    "column": "% Uptime",
+    "old": 0.11498343933862046,
+    "new": 0.24637933462169584
+  },
+  {
+    "sbu": "OTHER",
+    "month": "January",
+    "column": "% Uptime",
+    "old": 0.11789919618725989,
+    "new": 0.2393405370013348
+  },
+  {
+    "sbu": "OTHER",
+    "month": "July",
+    "column": "% Uptime",
+    "old": 0.12070207940461798,
+    "new": 0.23187072001382392
+  },
+  {
+    "sbu": "OTHER",
+    "month": "June",
+    "column": "% Uptime",
+    "old": 0.1131677373383942,
+    "new": 0.24708713688640954
+  },
+  {
+    "sbu": "OTHER",
+    "month": "March",
+    "column": "% Uptime",
+    "old": 0.11119588190439057,
+    "new": 0.23277611186309516
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% Uptime",
+    "old": 0.12422462012203767,
+    "new": 0.24500629982884026
+  },
+  {
+    "sbu": "OTHER",
+    "month": "November",
+    "column": "% Uptime",
+    "old": 0.1188215520142183,
+    "new": 0.25495130083839734
+  },
+  {
+    "sbu": "OTHER",
+    "month": "October",
+    "column": "% Uptime",
+    "old": 0.12085812238729023,
+    "new": 0.25635362319177646
+  },
+  {
+    "sbu": "OTHER",
+    "month": "September",
+    "column": "% Uptime",
+    "old": 0.10981771784084501,
+    "new": 0.2490022137861433
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "\u20ac GMV",
+    "old": 0.0,
+    "new": 15.1040025
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "\u20ac GMV",
+    "old": 0.0,
+    "new": 19.05858
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "\u20ac GMV",
+    "old": 0.0,
+    "new": 104.07561799999999
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "Sessions Store",
+    "old": 44,
+    "new": 96
+  },
+  {
+    "sbu": "OTHER",
+    "month": "August",
+    "column": "Sessions Store",
+    "old": 47,
+    "new": 78
+  },
+  {
+    "sbu": "OTHER",
+    "month": "February",
+    "column": "Sessions Store",
+    "old": 63,
+    "new": 114
+  },
+  {
+    "sbu": "OTHER",
+    "month": "January",
+    "column": "Sessions Store",
+    "old": 65,
+    "new": 167
+  },
+  {
+    "sbu": "OTHER",
+    "month": "July",
+    "column": "Sessions Store",
+    "old": 51,
+    "new": 102
+  },
+  {
+    "sbu": "OTHER",
+    "month": "June",
+    "column": "Sessions Store",
+    "old": 70,
+    "new": 153
+  },
+  {
+    "sbu": "OTHER",
+    "month": "March",
+    "column": "Sessions Store",
+    "old": 69,
+    "new": 177
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "Sessions Store",
+    "old": 45,
+    "new": 104
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "Number of Total Orders",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Number of Total Orders",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "Number of Total Orders",
+    "old": 0,
+    "new": 2
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Pna Orders Cancellations Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Pna Orders Partial Removal Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Pna Orders Replacement Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Pna Orders Total Removal Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Pna Orders Wm Rate",
+    "old": null,
+    "new": 1.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Number of Pna Orders",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Number of Products with Pna",
+    "old": 0,
+    "new": 1
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "Average Canceled Orders Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "Average Canceled Orders Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "Average Canceled Orders Rate",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% DH Fail Rate (15 min)",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "% DH Fail Rate (15 min)",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% DH Fail Rate (15 min)",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "April",
+    "column": "% HC Orders",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "December",
+    "column": "% HC Orders",
+    "old": null,
+    "new": 0.0
+  },
+  {
+    "sbu": "OTHER",
+    "month": "May",
+    "column": "% HC Orders",
+    "old": null,
+    "new": 0.0
+  }
+]

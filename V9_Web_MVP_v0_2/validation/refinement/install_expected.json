@@ -1,0 +1,8 @@
+{
+  "web/presentation_update.py": "371c72d0743b3867bc255815439c952f7951933e8b8931ad78ee5e6943b8db08",
+  "web/meeting_workspace.py": null,
+  "web/version.py": "e10ddb9560cb08c52b60cc068913aab433b5fca599c5a1642d66f98cc6b861ab",
+  "tests/test_meeting_workspace.py": null,
+  "tests/refinement_fixtures.py": null,
+  "PRESENTATION_REFINEMENT_REPORT.md": null
+}

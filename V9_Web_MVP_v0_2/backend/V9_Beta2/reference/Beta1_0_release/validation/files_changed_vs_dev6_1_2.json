@@ -1,0 +1,114 @@
+{
+  "base": "Untouched user-uploaded V9_dev6_1_2.zip",
+  "scope": "Source/tests/docs; regenerated decks/audits separately inventoried",
+  "modified": [
+    {
+      "file": "CHANGELOG.md",
+      "beta_sha256": "00c749271cdd92d268b9a00a2016d2f748b80808d5f4f633b904d440e6b7f62f",
+      "dev6_1_2_sha256": "3125d7891ee48686a4f2dc652b80a23af8ea3718e3395be91bc1667cd5309f3b"
+    },
+    {
+      "file": "README.md",
+      "beta_sha256": "cd15e69897d0e8465fc349a77eb6f5e54400615deac1d767015913d2205105cc",
+      "dev6_1_2_sha256": "1f68f4f6cd45027d333386d97145b316409aeb740abf7c6cd8226b738e9667c6"
+    },
+    {
+      "file": "RELEASE.json",
+      "beta_sha256": "9560790882222c6d290633b14a9a61bde6511ffc6e0ba3603c800dfcfbe724fb",
+      "dev6_1_2_sha256": "560c2161a2530abde042190dd4d2a2e19687ff15f965ae8f783caa99e87bf047"
+    },
+    {
+      "file": "main.py",
+      "beta_sha256": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+      "dev6_1_2_sha256": "96a3034a987ee8babdaa3f165d69bee416d6171edaa3ff953a5508607e03a07d"
+    },
+    {
+      "file": "presentation.py",
+      "beta_sha256": "d1229bd38ce071f4cc2faee8ec52ba939a09ad07551ae0cedc4d2cd4067940c9",
+      "dev6_1_2_sha256": "24637659b19ad6b61c50142cd408fe80953ededff3bd1ec4c1e1dfa319335716"
+    },
+    {
+      "file": "slides_stores.py",
+      "beta_sha256": "4b118c80dc63247f5655828809e1cdde5756b0b9e951f599ac27546aaf7c8355",
+      "dev6_1_2_sha256": "fed4513a5cbccc14cb942821194234b978399979fcef46c487cc8b6cc5b7bac2"
+    },
+    {
+      "file": "tests/dev6_1_1_frozen_baseline.json",
+      "beta_sha256": "843c365d42dc8577d968621cd22a35fe56826da17b6e8fc737aff83d475eb889",
+      "dev6_1_2_sha256": "12655633a639ecc90d8f5a319d2dd7897458ee2621c190374c6bcdc227a9e396"
+    },
+    {
+      "file": "tests/dev6_1_presentation_baseline.json",
+      "beta_sha256": "563f6430831b13d90f712122bb418f83c1c5fb81abc7179e1468ba73470960d6",
+      "dev6_1_2_sha256": "9ed576569acdbd22e0e3772c09706bd4110b2663b30ff7e5042d14ae887fd10a"
+    },
+    {
+      "file": "tests/test_hardening.py",
+      "beta_sha256": "051282dd2035cd6660becb2e4953cda7e2d8a49ce955fb3e4d3a350b34aee212",
+      "dev6_1_2_sha256": "7c3de4cca7c952ae394dea9d8b4ec067ee8c4959e1cf735a7966ce72a70b28bc"
+    },
+    {
+      "file": "tests/test_integration.py",
+      "beta_sha256": "a44681785183866b404eae09262c9978afa4d50d5d29243a0da2e45713e0ecf6",
+      "dev6_1_2_sha256": "4a87602c202f100de88a97216f59fc941a56a79320e875fe07fc291e966a6a82"
+    },
+    {
+      "file": "tests/test_presentation_hardening.py",
+      "beta_sha256": "d001d35a6f3b12db8322c7bee698684eb2b4a412e4043271f72962b852f45823",
+      "dev6_1_2_sha256": "9805c6384aa7fbf2ef6b30f6ac16f88597af15adb2d19df30b3d22f781e73806"
+    },
+    {
+      "file": "tests/test_presentation_navigation.py",
+      "beta_sha256": "efe8ac968d54251170d1ea7ff9217af56944d39021ba09c382265040cb4643b8",
+      "dev6_1_2_sha256": "e971ae7237dddc274b6fb3d05bc2624e0527f573112cf4e2a6e42c336b15130a"
+    },
+    {
+      "file": "tests/test_presentation_patch.py",
+      "beta_sha256": "a71f8d27a9aa716d2d93a7609c281d040ec00e7db4f68668162696d297a88a1b",
+      "dev6_1_2_sha256": "6a4ee7e57770eb329804df8a2f5e9263705eb20f236bcba5aa7608c4b9e49bc7"
+    }
+  ],
+  "added": [
+    {
+      "file": "BETA1_0_CHANGELOG.md",
+      "beta_sha256": "00c749271cdd92d268b9a00a2016d2f748b80808d5f4f633b904d440e6b7f62f"
+    },
+    {
+      "file": "BETA_VALIDATION_GUIDE.md",
+      "beta_sha256": "6a5d6c2ec0d86ba339810128662bb093de84706c6ce5d31faa2c5667b107c425"
+    },
+    {
+      "file": "REGRESSION_RESULT.md",
+      "beta_sha256": "c409f28bff255db5a998e9ed2320ea16dba40b67c5389ed5527f563ed71fe220"
+    },
+    {
+      "file": "beta_presentation.py",
+      "beta_sha256": "2ec508df12230570b2312240963928d9986ee5f46951cee24b3def82b576b5a7"
+    },
+    {
+      "file": "beta_validation.py",
+      "beta_sha256": "a1daaf5097b53a53f4b5250eb0079599ddf54a0ebafb001287dd66f89c0d0e95"
+    },
+    {
+      "file": "tests/beta_baseline.json",
+      "beta_sha256": "dff44fa0580583e1079c1702d55bc2e0008849e7b546a8f6deeb876fe764b6ad"
+    },
+    {
+      "file": "tests/beta_fixtures.py",
+      "beta_sha256": "1650c0f4bcfe7b6c6bfbdf514b81c99af2a968d52f677ab2d54538b594538aaf"
+    },
+    {
+      "file": "tests/build_beta_examples.py",
+      "beta_sha256": "0a60cd20a6da1af7241d285d03d0fda39d373e855a434f43069fd38b875a5252"
+    },
+    {
+      "file": "tests/test_beta_presentation.py",
+      "beta_sha256": "07f64825926b3cc4c057d7f7b0f54a4470eb619bb8adf7f3ee3634f1dc98d78f"
+    },
+    {
+      "file": "tests/test_beta_validation.py",
+      "beta_sha256": "ff18f5b711928356a6de63596427d28863bccf61ddf18c5423c6d3ee16e79620"
+    }
+  ],
+  "frozen_engine": "60 files verified in final_artifact_verification.json"
+}

@@ -1,0 +1,21 @@
+{
+  "source_path": "/Users/giorgibalarjishvili/Desktop/PHARMACY_OTC Beta Testing/abc.pptx",
+  "source_sha256": "3788f5e4239540c6dba10bbd01327a6aa57aa3401e6c042420363e87a7c5b6c2",
+  "source_slide": 13,
+  "source_text": "Top GMV Stores\n2026-08\n\n\nStore\nGMV\nCommercial status\nOperational status\n\n1\nChabua Amirejibi Highway 1 0179 Tbilisi T'bilisi Georgia\n€11,211\nConversion Opportunity\nHealthy\n\n2\nVarketili-3 II micro-district 3 0011 Tbilisi Tbilisi Georgia\n€0\nNo Activity\nNot applicable\n\nTop Stores\n100.0%\nTop 2 stores generated 100.0% of total partner GMV in August 2026.\nReported partner GMV: €11,211",
+  "scope": "Real deck presentation replay. Raw pharmacy workbook unavailable; no claim of raw-data analytical replay.",
+  "display_rows": [
+    {
+      "store": "Chabua Amirejibi Highway 1 0179 Tbilisi T'bilisi Georgia",
+      "gmv": 11211.0,
+      "commercial": "Conversion Opportunity",
+      "operational": "Healthy"
+    },
+    {
+      "store": "Varketili-3 II micro-district 3 0011 Tbilisi Tbilisi Georgia",
+      "gmv": 0.0,
+      "commercial": "No Activity",
+      "operational": "Not applicable"
+    }
+  ]
+}

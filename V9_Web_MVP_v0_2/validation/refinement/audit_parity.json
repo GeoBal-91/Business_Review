@@ -1,0 +1,172 @@
+[
+  {
+    "case": "Actions_1",
+    "identical_uploaded_bytes": true,
+    "audit_files_matched": 23,
+    "normalized": [
+      "temporary/configured file paths in run_audit.json",
+      "presentation_version in web_run.json only"
+    ],
+    "files": [
+      "Beta_Validation_Partner.csv",
+      "Beta_Validation_Schema.json",
+      "Beta_Validation_Stores.csv",
+      "Beta_Validation_Stores_V2_1.csv",
+      "Business_Actions.csv",
+      "Business_Classification.csv",
+      "Business_Classification.json",
+      "Classification_Rule_Trace.json",
+      "Classification_Schema.json",
+      "Classification_Summary.json",
+      "actions.csv",
+      "coverage.csv",
+      "metric_records.json",
+      "metrics.csv",
+      "monthly.csv",
+      "opportunities.csv",
+      "partner_comparisons.csv",
+      "reviews.csv",
+      "run_audit.json",
+      "sbu_history.csv",
+      "store_history.csv",
+      "stores.csv",
+      "web_run.json"
+    ]
+  },
+  {
+    "case": "Actions_2",
+    "identical_uploaded_bytes": true,
+    "audit_files_matched": 23,
+    "normalized": [
+      "temporary/configured file paths in run_audit.json",
+      "presentation_version in web_run.json only"
+    ],
+    "files": [
+      "Beta_Validation_Partner.csv",
+      "Beta_Validation_Schema.json",
+      "Beta_Validation_Stores.csv",
+      "Beta_Validation_Stores_V2_1.csv",
+      "Business_Actions.csv",
+      "Business_Classification.csv",
+      "Business_Classification.json",
+      "Classification_Rule_Trace.json",
+      "Classification_Schema.json",
+      "Classification_Summary.json",
+      "actions.csv",
+      "coverage.csv",
+      "metric_records.json",
+      "metrics.csv",
+      "monthly.csv",
+      "opportunities.csv",
+      "partner_comparisons.csv",
+      "reviews.csv",
+      "run_audit.json",
+      "sbu_history.csv",
+      "store_history.csv",
+      "stores.csv",
+      "web_run.json"
+    ]
+  },
+  {
+    "case": "Actions_6",
+    "identical_uploaded_bytes": true,
+    "audit_files_matched": 23,
+    "normalized": [
+      "temporary/configured file paths in run_audit.json",
+      "presentation_version in web_run.json only"
+    ],
+    "files": [
+      "Beta_Validation_Partner.csv",
+      "Beta_Validation_Schema.json",
+      "Beta_Validation_Stores.csv",
+      "Beta_Validation_Stores_V2_1.csv",
+      "Business_Actions.csv",
+      "Business_Classification.csv",
+      "Business_Classification.json",
+      "Classification_Rule_Trace.json",
+      "Classification_Schema.json",
+      "Classification_Summary.json",
+      "actions.csv",
+      "coverage.csv",
+      "metric_records.json",
+      "metrics.csv",
+      "monthly.csv",
+      "opportunities.csv",
+      "partner_comparisons.csv",
+      "reviews.csv",
+      "run_audit.json",
+      "sbu_history.csv",
+      "store_history.csv",
+      "stores.csv",
+      "web_run.json"
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "identical_uploaded_bytes": true,
+    "audit_files_matched": 23,
+    "normalized": [
+      "temporary/configured file paths in run_audit.json",
+      "presentation_version in web_run.json only"
+    ],
+    "files": [
+      "Beta_Validation_Partner.csv",
+      "Beta_Validation_Schema.json",
+      "Beta_Validation_Stores.csv",
+      "Beta_Validation_Stores_V2_1.csv",
+      "Business_Actions.csv",
+      "Business_Classification.csv",
+      "Business_Classification.json",
+      "Classification_Rule_Trace.json",
+      "Classification_Schema.json",
+      "Classification_Summary.json",
+      "actions.csv",
+      "coverage.csv",
+      "metric_records.json",
+      "metrics.csv",
+      "monthly.csv",
+      "opportunities.csv",
+      "partner_comparisons.csv",
+      "reviews.csv",
+      "run_audit.json",
+      "sbu_history.csv",
+      "store_history.csv",
+      "stores.csv",
+      "web_run.json"
+    ]
+  },
+  {
+    "case": "Empty",
+    "identical_uploaded_bytes": true,
+    "audit_files_matched": 23,
+    "normalized": [
+      "temporary/configured file paths in run_audit.json",
+      "presentation_version in web_run.json only"
+    ],
+    "files": [
+      "Beta_Validation_Partner.csv",
+      "Beta_Validation_Schema.json",
+      "Beta_Validation_Stores.csv",
+      "Beta_Validation_Stores_V2_1.csv",
+      "Business_Actions.csv",
+      "Business_Classification.csv",
+      "Business_Classification.json",
+      "Classification_Rule_Trace.json",
+      "Classification_Schema.json",
+      "Classification_Summary.json",
+      "actions.csv",
+      "coverage.csv",
+      "metric_records.json",
+      "metrics.csv",
+      "monthly.csv",
+      "opportunities.csv",
+      "partner_comparisons.csv",
+      "reviews.csv",
+      "run_audit.json",
+      "sbu_history.csv",
+      "store_history.csv",
+      "stores.csv",
+      "web_run.json"
+    ]
+  }
+]

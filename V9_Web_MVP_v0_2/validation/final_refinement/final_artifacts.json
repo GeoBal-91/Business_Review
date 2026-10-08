@@ -1,0 +1,56 @@
+{
+  "decks": [
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_1.pptx",
+      "sha256": "08ff4d9d3b1f5b0d84b964ec6848e4720b2679cabfe73c1a5fd882ab1d16496c",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_1.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_2.pptx",
+      "sha256": "b109f995f75b67f7ba5aef37456524b876ea547bc6cc1e93813c11c5abe812f6",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_2.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_6.pptx",
+      "sha256": "860d95c2c357a39b1ec0d4d25134f48d0e97f95a2af23c21fc161173f914cf32",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_6.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Empty.pptx",
+      "sha256": "5e750c6bd01dea9f704e9f449d8f1e2b165d0ff35d1979fe2fd5c18bac9b915e",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Empty.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/FLOWERS_missing.pptx",
+      "sha256": "45332dade94e992785debfa0fa17c298e50cdd11c1b9100045f3c26429848fdb",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/FLOWERS_missing.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Long_Mixed_Unicode.pptx",
+      "sha256": "ef8978f9d9bb2c34e0eab49adfd8281fa41f5ca1a46040891718c82e4d20dc0e",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Long_Mixed_Unicode.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Missing_Missing.pptx",
+      "sha256": "c06b87e498d9ac909d62e4a2b712b34fdc0824ada1bc2cec496ff550dccca024",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Missing_Missing.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Positive_Missing.pptx",
+      "sha256": "4f3a67b08d92e33ce33a1a16647041b9c785b7119757166b0e0982a5a137b8a9",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Positive_Missing.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Zero_Missing.pptx",
+      "sha256": "42b82a84b3f18c9e1b8249f3b1851473f6e4bf6c12eb5d82640a519b5992ffe4",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Missing.pdf"
+    },
+    {
+      "pptx": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Zero_Zero.pptx",
+      "sha256": "1b13d3bbdf86816450d3d9692a5bceaf12145cbf33e6064c1feec3d946cbe72c",
+      "pdf": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Zero.pdf"
+    }
+  ],
+  "external_frozen_files_unchanged": 308,
+  "visual_review": "Representative affected slides visually inspected as documented in FINAL_REFINEMENT_VALIDATION_REPORT.md; no overlap, clipping or overflow found in final inspected renders."
+}

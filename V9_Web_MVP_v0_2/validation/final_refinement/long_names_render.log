@@ -1,0 +1,3 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Long_Mixed_Unicode.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Long_Mixed_Unicode.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Long_Mixed_Unicode.pdf
+Rendered Long_Mixed_Unicode

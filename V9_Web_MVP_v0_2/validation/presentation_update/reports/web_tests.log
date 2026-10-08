@@ -1,0 +1,15 @@
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_blocking_validation (test_web.WebSmoke.test_blocking_validation) ... ok
+test_catalog (test_web.WebSmoke.test_catalog) ... ok
+test_cleanup_failure_and_timeout (test_web.WebSmoke.test_cleanup_failure_and_timeout) ... ok
+test_generate_parity_isolation_and_cleanup (test_web.WebSmoke.test_generate_parity_isolation_and_cleanup) ... ok
+test_streamlit_flow (test_web.WebSmoke.test_streamlit_flow) ... 2026-09-18 08:17:26.967 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_upload_boundaries (test_web.WebSmoke.test_upload_boundaries) ... ok
+test_valid_metadata (test_web.WebSmoke.test_valid_metadata) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 42.607s
+
+OK

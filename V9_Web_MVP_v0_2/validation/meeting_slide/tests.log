@@ -1,0 +1,54 @@
+/Users/giorgibalarjishvili/.matplotlib is not a writable directory
+Matplotlib created a temporary cache directory at /var/folders/w5/t2_86l616cvbs8hvdl5f_jl80000gn/T/matplotlib-s1waxryx because there was an issue with the default path (/Users/giorgibalarjishvili/.matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib is building the font cache; this may take a moment.
+test_direct_worker_rejects_missing_name (test_partner_name.PartnerName.test_direct_worker_rejects_missing_name) ... ok
+test_normalization_and_invalid_values (test_partner_name.PartnerName.test_normalization_and_invalid_values) ... ok
+test_ui_name_required_and_changes_reuse_validation (test_partner_name.PartnerName.test_ui_name_required_and_changes_reuse_validation) ... 2026-09-18 20:12:45.148 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_worker_names_precedence_and_complete_audit_parity (test_partner_name.PartnerName.test_worker_names_precedence_and_complete_audit_parity) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+test_pair_preserves_unknown_and_true_zero_separately (test_presentation_update.ChartRendering.test_pair_preserves_unknown_and_true_zero_separately) ... ok
+test_signed_pair_uses_series_fills_and_explicit_negative_handling (test_presentation_update.ChartRendering.test_signed_pair_uses_series_fills_and_explicit_negative_handling) ... ok
+test_zero_counts_and_missing_percentage_do_not_get_misleading_axes (test_presentation_update.ChartRendering.test_zero_counts_and_missing_percentage_do_not_get_misleading_axes) ... ok
+test_benchmark_directions_missing_and_incomplete (test_presentation_update.MeetingLayout.test_benchmark_directions_missing_and_incomplete) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+test_cards_values_units_wording_and_geometry (test_presentation_update.MeetingLayout.test_cards_values_units_wording_and_geometry) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_combo_charts_have_partner_only_native_data_and_gap_month (test_presentation_update.PresentationUpdate.test_combo_charts_have_partner_only_native_data_and_gap_month) ... ok
+test_exact_comparison_values_and_growth (test_presentation_update.PresentationUpdate.test_exact_comparison_values_and_growth) ... ok
+test_flow_and_original_slides_unchanged (test_presentation_update.PresentationUpdate.test_flow_and_original_slides_unchanged) ... ok
+test_missing_series_and_partial_benchmarks_are_not_zero (test_presentation_update.PresentationUpdate.test_missing_series_and_partial_benchmarks_are_not_zero) ... ok
+test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve (test_presentation_update.PresentationUpdate.test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve) ... ok
+test_operational_preserves_all_text_and_adds_three_charts (test_presentation_update.PresentationUpdate.test_operational_preserves_all_text_and_adds_three_charts) ... ok
+test_render_does_not_mutate_analysis_or_any_audit (test_presentation_update.PresentationUpdate.test_render_does_not_mutate_analysis_or_any_audit) ... ok
+test_logo_reuses_validation_and_reset_clears_sbu (test_ui_state.UIState.test_logo_reuses_validation_and_reset_clears_sbu) ... 2026-09-18 20:13:45.354 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_blocking_validation (test_web.WebSmoke.test_blocking_validation) ... ok
+test_catalog (test_web.WebSmoke.test_catalog) ... ok
+test_cleanup_failure_and_timeout (test_web.WebSmoke.test_cleanup_failure_and_timeout) ... ok
+test_generate_parity_isolation_and_cleanup (test_web.WebSmoke.test_generate_parity_isolation_and_cleanup) ... ok
+test_presentation_version_invalidates_cached_result (test_web.WebSmoke.test_presentation_version_invalidates_cached_result) ... ok
+test_streamlit_flow (test_web.WebSmoke.test_streamlit_flow) ... 2026-09-18 20:14:05.159 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_upload_boundaries (test_web.WebSmoke.test_upload_boundaries) ... ok
+test_valid_metadata (test_web.WebSmoke.test_valid_metadata) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 93.608s
+
+OK

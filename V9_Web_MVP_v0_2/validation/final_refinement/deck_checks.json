@@ -1,0 +1,62 @@
+[
+  {
+    "case": "Actions_1",
+    "actions": 1,
+    "review_items": 3,
+    "passed": true
+  },
+  {
+    "case": "Actions_2",
+    "actions": 2,
+    "review_items": 6,
+    "passed": true
+  },
+  {
+    "case": "Actions_6",
+    "actions": 6,
+    "review_items": 20,
+    "passed": true
+  },
+  {
+    "case": "FLOWERS_missing",
+    "actions": 0,
+    "review_items": 2,
+    "passed": true
+  },
+  {
+    "case": "Empty",
+    "actions": 0,
+    "review_items": 0,
+    "passed": true
+  },
+  {
+    "case": "Zero_Missing",
+    "actions": 0,
+    "review_items": 0,
+    "passed": true
+  },
+  {
+    "case": "Missing_Missing",
+    "actions": 0,
+    "review_items": 0,
+    "passed": true
+  },
+  {
+    "case": "Zero_Zero",
+    "actions": 1,
+    "review_items": 4,
+    "passed": true
+  },
+  {
+    "case": "Positive_Missing",
+    "actions": 0,
+    "review_items": 4,
+    "passed": true
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "actions": 2,
+    "review_items": 6,
+    "passed": true
+  }
+]

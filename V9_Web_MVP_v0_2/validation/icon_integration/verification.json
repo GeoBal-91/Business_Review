@@ -1,0 +1,126 @@
+{
+  "cases": [
+    {
+      "case": "Actions_6",
+      "icon_counts": {
+        "icon_data_quality.png": 1,
+        "icon_critical_observation.png": 18,
+        "icon_availability_review.png": 1,
+        "icon_priority_action.png": 6,
+        "icon_agreed_action.png": 8,
+        "icon_next_checkin.png": 4
+      },
+      "audit_files_equal": 22,
+      "prior_deck_content_and_pagination_equal": true
+    },
+    {
+      "case": "Empty",
+      "icon_counts": {
+        "icon_agreed_action.png": 2,
+        "icon_next_checkin.png": 1
+      },
+      "audit_files_equal": 22,
+      "prior_deck_content_and_pagination_equal": true
+    },
+    {
+      "case": "FLOWERS_missing",
+      "icon_counts": {
+        "icon_data_quality.png": 1,
+        "icon_opening_hours.png": 1,
+        "icon_agreed_action.png": 2,
+        "icon_next_checkin.png": 1
+      },
+      "audit_files_equal": 22,
+      "prior_deck_content_and_pagination_equal": true
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "icon_counts": {
+        "icon_critical_observation.png": 6,
+        "icon_priority_action.png": 2,
+        "icon_agreed_action.png": 4,
+        "icon_next_checkin.png": 2
+      },
+      "audit_files_equal": 22,
+      "prior_deck_content_and_pagination_equal": true
+    },
+    {
+      "case": "Store_States",
+      "icon_counts": {
+        "icon_store_review.png": 2,
+        "icon_agreed_action.png": 2,
+        "icon_next_checkin.png": 1
+      },
+      "audit_files_equal": 22,
+      "prior_deck_content_and_pagination_equal": false
+    }
+  ],
+  "review_types_verified": [
+    "Activity review",
+    "Availability review",
+    "Closure verification",
+    "Critical observation",
+    "Data quality",
+    "Opening-hours hygiene"
+  ],
+  "all_8_approved_assets_embedded_unchanged": true,
+  "backend_code_and_external_reference_unchanged": true,
+  "source_transparency": {
+    "icon_agreed_action.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_availability_review.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_data_quality.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_critical_observation.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_opening_hours.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_store_review.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_next_checkin.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    "icon_priority_action.png": {
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  }
+}

@@ -1,0 +1,281 @@
+--- V9_Beta1_1/beta_presentation.py
++++ V9_Beta2/beta_presentation.py
+@@ -8,7 +8,7 @@
+ from presentation_hardening import recommendation_pages, action_focus, _next_review
+ from theme import ASSETS_DIR, GREEN, GREY, WHITE, DARK
+ 
+-VERSION = 'V9 Beta 1.0'
++VERSION = 'V9_Beta2'
+ METHOD_TITLE = 'How We Prioritize Opportunities'
+ ACTION_TITLE = 'Priority Opportunities & Actions'
+ CREAM = RGBColor(255, 251, 237)
+@@ -51,7 +51,7 @@
+         add_text(slide, question, x + .20, 2.28, 3.46, .54, size=13, bold=True)
+         add_text(slide, body, x + .20, 2.99, 3.46, 1.63, size=11)
+     box(slide, .65, 4.97, 5.95, 1.05, WHITE, BORDER)
+-    add_text(slide, 'MAIN ACTION KPI', .85, 5.12, 5.53, .24, size=12, bold=True, color=GREEN)
++    add_text(slide, 'PRIMARY ACTION KPI', .85, 5.12, 5.53, .24, size=12, bold=True, color=GREEN)
+     add_text(slide, 'The KPI with the strongest paired business case for action at that store.',
+              .85, 5.51, 5.53, .37, size=12)
+     box(slide, 6.81, 4.97, 6.00, 1.05, AMBER)
+--- V9_Beta1_1/beta_validation.py
++++ V9_Beta2/beta_validation.py
+@@ -64,7 +64,7 @@
+ 
+ def validation_schema():
+     return {
+-        'release': 'V9_Beta1_0', 'purpose': 'Manual Beta research only; no automatic calibration',
++        'release': 'V9_Beta2', 'purpose': 'Manual Beta research only; no automatic calibration',
+         'missing_values': 'Blank analytical cells mean unavailable, not zero. Rates are fractions; scores are 0–100 methodology scores, not percentages.',
+         'opportunity_rank': 'Existing displayed AnalysisResult opportunity rank only; blank for unselected stores, including eligible stores beyond the executive limit.',
+         'recommended_action': 'Selected action text where displayed, otherwise existing store Recommended Focus; incomplete leading issues are diagnostic only.',
+--- V9_Beta1_1/business_classification.py
++++ V9_Beta2/business_classification.py
+@@ -253,7 +253,7 @@
+                                                'Likely Operational Driver', 'Low Scale Flag', 'Ultra Low Scale Flag',
+                                                'Human Review Required']}})
+     summary = counts(enriched)
+-    summary.update({'version': 'V9_Beta1_1', 'calibration_rules': 'V2.1', 'sbu': result.settings.partner_sbu,
++    summary.update({'version': 'V9_Beta2', 'calibration_rules': 'V2.1', 'sbu': result.settings.partner_sbu,
+                     'reporting_period': result.summary['reporting_period'],
+                     'operating_commercial_stores': operating_count, 'selected_triage_actions': len(actions),
+                     'base_priority_threshold': 5.0, 'threshold_status': 'Provisional',
+--- V9_Beta1_1/config.py
++++ V9_Beta2/config.py
+@@ -1,4 +1,4 @@
+-"""V9 Dev6.1 settings. Importing this module does not read data or create files."""
++"""V9_Beta2 settings. Importing this module does not read data or create files."""
+ from dataclasses import dataclass
+ from datetime import date
+ from pathlib import Path
+@@ -7,7 +7,7 @@
+ PARTNER_SBU = "JEWELRY"
+ INPUT_FILE = BASE_DIR / "partner_data.xlsx"
+ SUBBUSINESS_FILE = BASE_DIR / "subbusiness_unit_data.xlsx"
+-OUTPUT_FILE = BASE_DIR / "Partner_Business_Review_V9_dev6_1.pptx"
++OUTPUT_FILE = BASE_DIR / "Partner_Business_Review_V9_Beta2.pptx"
+ 
+ # Official contract: source % CVR, session-weighted at partner/SBU level.
+ # Delivered / sessions is a reconciliation diagnostic, never a scoring option.
+--- V9_Beta1_1/main.py
++++ V9_Beta2/main.py
+@@ -40,9 +40,9 @@
+ 
+ 
+ def main(argv=None):
+-    parser = argparse.ArgumentParser(description='V9 Beta 1.0 partner business review')
++    parser = argparse.ArgumentParser(description='V9_Beta2 partner business review')
+     parser.add_argument('--partner',type=Path); parser.add_argument('--benchmark',type=Path)
+-    parser.add_argument('--output',type=Path,default=BASE_DIR/'Partner_Business_Review_V9_Beta1_0.pptx'); parser.add_argument('--sbu')
++    parser.add_argument('--output',type=Path,default=BASE_DIR/'Partner_Business_Review_V9_Beta2.pptx'); parser.add_argument('--sbu')
+     parser.add_argument('--cvr-mode',choices=['reported'],help='Official reported CVR only; delivered/session is diagnostic')
+     parser.add_argument('--priority-model',choices=['paired','simple_product'])
+     parser.add_argument('--reporting-period'); parser.add_argument('--allow-partial-period',action='store_true')
+--- V9_Beta1_1/main_v2_1.py
++++ V9_Beta2/main_v2_1.py
+@@ -1,4 +1,4 @@
+-"""Controlled Beta 1.1 entry point. The Beta 1.0 main.py stays byte-identical."""
++"""V9_Beta2 entry point with preserved V2.1 classification."""
+ import argparse
+ from dataclasses import replace
+ from pathlib import Path
+@@ -12,16 +12,24 @@
+ 
+ 
+ def main(argv=None):
+-    parser = argparse.ArgumentParser(description='V9 Beta 1.1 · V2.1 business classification above frozen Beta 1.0 analytics')
++    parser = argparse.ArgumentParser(description='V9_Beta2 · preserved V2.1 business classification')
+     parser.add_argument('--partner', type=Path)
+     parser.add_argument('--benchmark', type=Path)
+     parser.add_argument('--sbu')
+-    parser.add_argument('--output', type=Path, default=BASE_DIR / 'Partner_Business_Review_V9_Beta1_1.pptx')
++    parser.add_argument('--list-sbus', action='store_true', help='Print supported SBU values from the benchmark as JSON')
++    parser.add_argument('--output', type=Path, default=BASE_DIR / 'Partner_Business_Review_V9_Beta2.pptx')
+     parser.add_argument('--reporting-period')
+     parser.add_argument('--allow-partial-period', action='store_true')
+     parser.add_argument('--analysis-only', action='store_true')
+     parser.add_argument('--triage-settings', type=Path, help='JSON with isolated tolerance/review heuristic settings')
+     args = parser.parse_args(argv)
++    if args.list_sbus:
++        from sbu_catalog import supported_sbus
++        try:
++            print(json.dumps(supported_sbus(args.benchmark or Settings().subbusiness_file)))
++        except (DataValidationError, OSError) as exc:
++            parser.exit(2, str(exc) + '\n')
++        return
+     changes = {key: value for key, value in {'input_file': args.partner, 'subbusiness_file': args.benchmark,
+                 'partner_sbu': args.sbu, 'output_file': args.output, 'reporting_period': args.reporting_period}.items() if value is not None}
+     if args.allow_partial_period:
+--- V9_Beta1_1/presentation.py
++++ V9_Beta2/presentation.py
+@@ -55,6 +55,7 @@
+     output = Path(output or result.settings.output_file)
+     output.parent.mkdir(parents=True, exist_ok=True)
+     prs = Presentation()
++    prs.core_properties.version = 'V9_Beta2'
+     prs.slide_width, prs.slide_height = Inches(13.333), Inches(7.5)
+     ctx = context(result)
+     with TemporaryDirectory(prefix='dev61-charts-') as tmp:
+--- V9_Beta1_1/presentation_hardening.py
++++ V9_Beta2/presentation_hardening.py
+@@ -23,12 +23,17 @@
+ 
+ 
+ def top_gmv_rows(result):
+-    """Select observed finite current GMV for this slide only; keep rank keys."""
++    """Select positive finite GMV from the current population for this slide only."""
+     stores, period = result.stores, result.data.reporting_period
+-    eligible = ((stores['Period'] == period)
++    current_ids = result.data.store_monthly.loc[
++        result.data.store_monthly['Period'] == period, 'Store ID']
++    eligible = (stores['Store ID'].isin(current_ids)
++                & (stores['Period'] == period)
+                 & (stores['Last Observed Period'] == period)
+-                & (stores['Store Status'] != 'Unknown')
+-                & np.isfinite(stores[G]))
++                & ~stores['Store Status'].astype(str).str.upper().isin(['UNKNOWN', 'MISSING_CURRENT'])
++                & (stores['Data Quality'] != 'Missing current data')
++                & np.isfinite(stores[G])
++                & (stores[G] > 0))
+     return stores.loc[eligible].sort_values(
+         [G, 'Store ID'], ascending=[False, True], na_position='last').head(6).copy()
+ 
+--- V9_Beta1_1/presentation_polish.py
++++ V9_Beta2/presentation_polish.py
+@@ -131,7 +131,7 @@
+     if current_coverage_incomplete(result):
+         return count, None, 'GMV share not assessed — incomplete store coverage.'
+     if not count:
+-        return count, None, 'No stores to display.'
++        return count, None, 'No positive-GMV stores available for the current period.'
+     numerator = displayed[G].sum(skipna=False)
+     if not present(total) or not present(numerator):
+         return count, None, 'GMV share not assessed — missing GMV evidence.'
+@@ -154,7 +154,7 @@
+         for value, (x, width) in zip(values, columns):
+             add_text(slide, value, x, y + .06, width, .62, size=10)
+     if displayed.empty:
+-        add_text(slide, 'No stores to display.', .85, 2.4, 8, .6, size=15)
++        add_text(slide, 'No positive-GMV stores available for the current period.', .85, 2.4, 8, .6, size=15)
+     box(slide, 9.48, 1.55, 3.19, 5.33, AMBER)
+     add_text(slide, 'Top Stores', 9.70, 1.77, 2.7, .32, size=15, bold=True)
+     add_picture_contain(slide, ASSETS_DIR / 'goldCrownCelebration.png', 9.78, 2.15, 2.55, 1.87)
+--- V9_Beta1_1/tests/test_beta_presentation.py
++++ V9_Beta2/tests/test_beta_presentation.py
+@@ -267,10 +267,10 @@
+             for title in ['Executive Summary','Partner vs PHARMACY_OTC','Operational Health']:
+                 body=slide_text(prs,title);self.assertIn('In line with',body);self.assertNotIn(COVERAGE_BENCHMARK_NOTE,body)
+ 
+-    def test_top_gmv_missing_current_excluded_observed_zero_retained(self):
++    def test_top_gmv_missing_current_and_observed_zero_excluded(self):
+         self.assertEqual(top_gmv_rows(current_partial())['Store ID'].tolist(),['Small'])
+         a=run([fixture('Observed zero',**{G:0}),fixture('Observed positive')])
+-        self.assertEqual(top_gmv_rows(a)['Store ID'].tolist(),['Observed positive','Observed zero'])
++        self.assertEqual(top_gmv_rows(a)['Store ID'].tolist(),['Observed positive'])
+ 
+     def test_singular_plural_main_deck_no_priority_bands(self):
+         a=one_opportunity();body=text_of(full_deck(a))
+--- V9_Beta1_1/tests/test_beta_validation.py
++++ V9_Beta2/tests/test_beta_validation.py
+@@ -134,7 +134,7 @@
+     def test_same_uploaded_inputs_all_analytical_csv_and_metric_json_bytes_identical(self):
+         root=Path(__file__).parents[1]
+         baseline=json.loads((root/'tests/beta_baseline.json').read_text())
+-        a=run_analysis(Settings())
++        a=run_analysis(Settings(subbusiness_file=root/'tests/beta1_1_benchmark_reference.xlsx'))
+         with tempfile.TemporaryDirectory() as tmp:
+             export_analysis(a,tmp)
+             for name,digest in baseline['uploaded_analytical_exports'].items():
+--- V9_Beta1_1/tests/test_presentation_hardening.py
++++ V9_Beta2/tests/test_presentation_hardening.py
+@@ -103,14 +103,15 @@
+ 
+     def test_infinite_values_excluded_at_presentation_boundary(self):
+         a=run([fixture('A'),fixture('B'),fixture('C')])
++        a.stores[G] = a.stores[G].astype(float)
+         a.stores.loc[a.stores['Store ID']=='A',G]=np.inf
+         a.stores.loc[a.stores['Store ID']=='B',G]=-np.inf
+         self.assertEqual(top_gmv_rows(a)['Store ID'].tolist(),['C'])
+ 
+-    def test_observed_zero_gmv_remains_eligible(self):
++    def test_observed_zero_gmv_excluded(self):
+         a=run([fixture('Zero',**{G:0}),fixture('Positive')])
+-        self.assertEqual(top_gmv_rows(a)['Store ID'].tolist(),['Positive','Zero'])
+-        self.assertEqual(top_gmv_rows(a).iloc[-1][G],0)
++        self.assertEqual(top_gmv_rows(a)['Store ID'].tolist(),['Positive'])
++        self.assertGreater(top_gmv_rows(a).iloc[-1][G],0)
+ 
+     def test_noncurrent_or_unobserved_records_excluded(self):
+         a=run([fixture('A'),fixture('B'),fixture('C')])
+@@ -135,7 +136,7 @@
+         a=run([fixture(**{G:np.nan})])
+         self.assertTrue(top_gmv_rows(a).empty)
+         text=slide_text(full_deck(a),'Top GMV Stores')
+-        self.assertIn('No stores to display.',text)
++        self.assertIn('No positive-GMV stores available for the current period.',text)
+         self.assertIn('0 stores displayed',text)
+ 
+ 
+@@ -210,7 +211,7 @@
+         from config import Settings
+         root=Path(__file__).parents[1]
+         baseline=json.loads((root/'tests/dev6_1_1_frozen_baseline.json').read_text())
+-        a=run_analysis(Settings(input_file=str(root/'partner_data.xlsx'),subbusiness_file=str(root/'subbusiness_unit_data.xlsx')))
++        a=run_analysis(Settings(input_file=str(root/'partner_data.xlsx'),subbusiness_file=str(root/'tests/beta1_1_benchmark_reference.xlsx')))
+         with tempfile.TemporaryDirectory() as tmp:
+             export_analysis(a,Path(tmp))
+             for name,digest in baseline['analytical_exports'].items():
+--- V9_Beta1_1/tests/test_regression.py
++++ V9_Beta2/tests/test_regression.py
+@@ -162,8 +162,8 @@
+     def test_closed_excluded_from_operating_uptime(self):
+         a=run([fixture(),zero('B',**{'Lifecycle Status':'closed'})])
+         self.assertEqual(a.data.monthly.iloc[0][U],.95)
+-    def test_missing_cohort_uptime_not_healthy_average(self):
+-        a=run([fixture(),fixture('B',**{U:np.nan})]); self.assertTrue(pd.isna(a.data.monthly.iloc[0][U]))
++    def test_missing_cohort_uptime_preserves_assessed_average(self):
++        a=run([fixture(),fixture('B',**{U:np.nan})]); self.assertEqual(a.data.monthly.iloc[0][U], .95)
+         self.assertEqual(a.data.monthly.iloc[0]['Uptime Value Coverage'],.5)
+     def test_flowers_action_follows_eligible_cvr_and_toggle(self):
+         for exclude in [True,False]:
+--- V9_Beta1_1/tests/test_v2_1.py
++++ V9_Beta2/tests/test_v2_1.py
+@@ -327,7 +327,7 @@
+ 
+     def test_beta11_visible_version_and_native_bounds(self):
+         joined='\n'.join('\n'.join(texts(s)) for s in self.prs.slides)
+-        self.assertIn('V9 Beta 1.1',joined);self.assertNotIn('V9 Beta 1.0',joined)
++        self.assertIn('V9_Beta2',joined);self.assertNotIn('V9 Beta 1.0',joined)
+         for i,slide in enumerate(self.prs.slides):
+             for s in slide.shapes:
+                 self.assertGreaterEqual(s.left,-9144);self.assertGreaterEqual(s.top,-9144)
+--- V9_Beta1_1/triage_exports.py
++++ V9_Beta2/triage_exports.py
+@@ -44,7 +44,7 @@
+     write_json(folder / 'Classification_Rule_Trace.json', triage.traces)
+     write_json(folder / 'Classification_Summary.json', triage.summary)
+     write_json(folder / 'Classification_Schema.json', {
+-        'version': 'V2.1', 'engine': 'Frozen Beta 1.0',
++        'version': 'V2.1', 'engine': 'V9_Beta2 (frozen V9_Beta1_1 analytics)',
+         'files': {'stores.csv': 'Original engine rows, unchanged', 'actions.csv': 'Original engine actions, unchanged',
+                   'Business_Classification.csv': 'Original store fields plus separate V2.1 classification metadata',
+                   'Business_Actions.csv': 'Selected ACTION rows with evidence-aware wording; same numerical sort keys',
+--- V9_Beta1_1/triage_presentation.py
++++ V9_Beta2/triage_presentation.py
+@@ -15,7 +15,7 @@
+ from ppt_core import add_text
+ from theme import GREEN, GREY, WHITE, DARK
+ 
+-VERSION = 'V9 Beta 1.1'
++VERSION = 'V9_Beta2'
+ REASONS = {'BASE_PRIORITY': 'Base Priority', 'SINGLE_STORE_OVERRIDE': 'Single-Store Override',
+            'MULTI_KPI_ESCALATION': 'Multi-KPI Escalation',
+            'SEVERE_PRIMARY_CORROBORATION': 'Severe CVR + Corroboration',
+@@ -231,6 +231,6 @@
+                     for run in para.runs:
+                         run.text = run.text.replace('V9 Beta 1.0', VERSION)
+     augment_diagnostics(prs, triage)
+-    prs.core_properties.version = 'V9_Beta1_1'
++    prs.core_properties.version = 'V9_Beta2'
+     prs.save(output)
+     return output

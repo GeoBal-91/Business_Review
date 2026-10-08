@@ -1,0 +1,116 @@
+[
+  {
+    "case": "Actions_1",
+    "pptx_sha256": "08ff4d9d3b1f5b0d84b964ec6848e4720b2679cabfe73c1a5fd882ab1d16496c",
+    "titles": [
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-0",
+        "full_text": "#1 · პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "font_pt": 15.5,
+        "automatic_resizing": false
+      }
+    ]
+  },
+  {
+    "case": "Actions_2",
+    "pptx_sha256": "b109f995f75b67f7ba5aef37456524b876ea547bc6cc1e93813c11c5abe812f6",
+    "titles": [
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-0",
+        "full_text": "#1 · პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "font_pt": 10.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-1",
+        "full_text": "#2 · Pet supplies branch 1, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      }
+    ]
+  },
+  {
+    "case": "Actions_6",
+    "pptx_sha256": "860d95c2c357a39b1ec0d4d25134f48d0e97f95a2af23c21fc161173f914cf32",
+    "titles": [
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-0",
+        "full_text": "#1 · პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "font_pt": 10.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-1",
+        "full_text": "#2 · Pet supplies branch 1, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 14,
+        "store_id": "PRIVATE-ID-2",
+        "full_text": "#3 · Pet supplies branch 2, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 14,
+        "store_id": "PRIVATE-ID-3",
+        "full_text": "#4 · Pet supplies branch 3, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 15,
+        "store_id": "PRIVATE-ID-4",
+        "full_text": "#5 · Pet supplies branch 4, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 15,
+        "store_id": "PRIVATE-ID-5",
+        "full_text": "#6 · Pet supplies branch 5, Rustaveli Avenue 15",
+        "font_pt": 12.5,
+        "automatic_resizing": false
+      }
+    ]
+  },
+  {
+    "case": "Zero_Zero",
+    "pptx_sha256": "1b13d3bbdf86816450d3d9692a5bceaf12145cbf33e6064c1feec3d946cbe72c",
+    "titles": [
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-0",
+        "full_text": "#1 · პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი, ჭავჭავაძის გამზირი 123",
+        "font_pt": 15.5,
+        "automatic_resizing": false
+      }
+    ]
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "pptx_sha256": "ef8978f9d9bb2c34e0eab49adfd8281fa41f5ca1a46040891718c82e4d20dc0e",
+    "titles": [
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-0",
+        "full_text": "#1 · PetFood International — Veterinary Nutrition & Animal Care · São Paulo / München / Αθήνα — Central Flagship Store, Rustaveli Avenue 123",
+        "font_pt": 10.5,
+        "automatic_resizing": false
+      },
+      {
+        "slide": 13,
+        "store_id": "PRIVATE-ID-1",
+        "full_text": "#2 · ცხოველების კვებისა და მოვლის ცენტრი · München / São Paulo / Αθήνα — Rustaveli Avenue 123",
+        "font_pt": 10.5,
+        "automatic_resizing": false
+      }
+    ]
+  }
+]

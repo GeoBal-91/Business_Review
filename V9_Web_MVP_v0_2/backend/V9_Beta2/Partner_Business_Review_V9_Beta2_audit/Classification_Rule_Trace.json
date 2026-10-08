@@ -1,0 +1,120 @@
+[
+  {
+    "Store ID": "address:70 vazha pshavela ave, tbilisi 0186 0101 tbilisi t'bilisi georgia",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.0423728813559322,
+        "benchmark": 0.02229625832906202,
+        "denominator": 118.0,
+        "gap": 0.02007662302687018,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.0,
+        "benchmark": 0.12087912087912088,
+        "denominator": 5.0,
+        "gap": -0.12087912087912088,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": false,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.0,
+        "benchmark": 0.10989010989010989,
+        "denominator": 5.0,
+        "gap": -0.10989010989010989,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": false,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.9888982390525167,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": 0.03889823905251677,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      }
+    },
+    "current_store_coverage_complete": true,
+    "operating_commercial_stores": 1,
+    "store_gmv_share": 1.0,
+    "top_two_by_current_gmv": true,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [],
+    "material_operational_kpis": [],
+    "meaningful_corroboration": [],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      }
+    }
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "actual_worker_from_extracted_archive": "PASS",
+  "all_23_audit_files_including_web_provenance": "PASS (temporary paths normalized)",
+  "all_19_slides_and_images_identical": "PASS"
+}

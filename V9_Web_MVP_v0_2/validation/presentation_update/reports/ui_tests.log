@@ -1,0 +1,7 @@
+test_logo_reuses_validation_and_reset_clears_sbu (test_ui_state.UIState.test_logo_reuses_validation_and_reset_clears_sbu) ... 2026-09-18 08:16:36.505 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 22.927s
+
+OK

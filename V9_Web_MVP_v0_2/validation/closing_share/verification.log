@@ -1,0 +1,37 @@
+[
+  {
+    "case": "Actions_6",
+    "changed_slides_only": [
+      8,
+      27
+    ],
+    "chart_width_only": {
+      "old_width_cm": 19.304,
+      "new_width_cm": 20.0,
+      "x_cm": 12.192,
+      "y_cm": 3.683,
+      "height_cm": 11.684
+    },
+    "reporting_period": "August 2026",
+    "audit_entries_unchanged": 23,
+    "all_other_slides_xml_identical": true
+  },
+  {
+    "case": "Empty",
+    "changed_slides_only": [
+      8,
+      17
+    ],
+    "chart_width_only": {
+      "old_width_cm": 19.304,
+      "new_width_cm": 20.0,
+      "x_cm": 12.192,
+      "y_cm": 3.683,
+      "height_cm": 11.684
+    },
+    "reporting_period": "August 2026",
+    "audit_entries_unchanged": 23,
+    "all_other_slides_xml_identical": true
+  }
+]
+PASS: only authorized source/asset changes; frozen analytical reference unchanged.

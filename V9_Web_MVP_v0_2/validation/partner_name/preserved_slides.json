@@ -1,0 +1,34 @@
+[
+  {
+    "fixture": "PETS",
+    "removed": [
+      "Executive Summary"
+    ],
+    "unchanged_slides": 19,
+    "chart_xml_identical": true
+  },
+  {
+    "fixture": "JEWELRY",
+    "removed": [
+      "Executive Summary"
+    ],
+    "unchanged_slides": 19,
+    "chart_xml_identical": true
+  },
+  {
+    "fixture": "FLOWERS_partial_missing",
+    "removed": [
+      "Executive Summary"
+    ],
+    "unchanged_slides": 20,
+    "chart_xml_identical": true
+  },
+  {
+    "fixture": "PETS_zero",
+    "removed": [
+      "Executive Summary"
+    ],
+    "unchanged_slides": 19,
+    "chart_xml_identical": true
+  }
+]

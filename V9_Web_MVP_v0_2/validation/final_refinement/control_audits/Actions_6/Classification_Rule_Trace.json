@@ -1,0 +1,1206 @@
+[
+  {
+    "Store ID": "PRIVATE-AVAIL",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.4,
+        "benchmark": 0.2640490936985056,
+        "denominator": 30.0,
+        "gap": 0.13595090630149442,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": false,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.0,
+        "benchmark": 0.06141932746366819,
+        "denominator": 10.0,
+        "gap": -0.06141932746366819,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.0,
+        "benchmark": 0.025352710300201548,
+        "denominator": 10.0,
+        "gap": -0.025352710300201548,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.88,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.06999999999999995,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": false,
+        "material": true,
+        "meaningful": true,
+        "band": "MATERIALLY_ADVERSE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.0007686395080707148,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": false,
+    "qualified_adverse_domains": [
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-0",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": true,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-1",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": true,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-2",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-3",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-4",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-ID-5",
+    "assessable": true,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.025,
+        "benchmark": 0.2640490936985056,
+        "denominator": 4000.0,
+        "gap": -0.2390490936985056,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": false,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": 0.45,
+        "benchmark": 0.06141932746366819,
+        "denominator": 1000.0,
+        "gap": 0.38858067253633183,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.22,
+        "benchmark": 0.025352710300201548,
+        "denominator": 1000.0,
+        "gap": 0.19464728969979844,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.72,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": -0.22999999999999998,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": true,
+        "material": true,
+        "meaningful": true,
+        "band": "SEVERE"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.15372790161414296,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_severe_kpis": [
+      "CVR",
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "qualified_adverse_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "material_operational_kpis": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "meaningful_corroboration": [
+      "PNA",
+      "Cancels",
+      "Uptime"
+    ],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": true,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": true
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": true,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-MISSING",
+    "assessable": false,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": 0.2,
+        "benchmark": 0.2640490936985056,
+        "denominator": 1000.0,
+        "gap": -0.06404909369850559,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": true,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "ADVERSE"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": null,
+        "benchmark": 0.06141932746366819,
+        "denominator": 400.0,
+        "gap": null,
+        "commercial": true,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": 0.025,
+        "benchmark": 0.025352710300201548,
+        "denominator": 400.0,
+        "gap": -0.0003527103002015468,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": 0.95,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": 0.0,
+        "commercial": true,
+        "assessed": true,
+        "evidence_floor": true,
+        "evidence_complete": true,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "HEALTHY"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": 0.07686395080707148,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": true,
+    "qualified_adverse_domains": [
+      "CVR"
+    ],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [],
+    "material_operational_kpis": [],
+    "meaningful_corroboration": [],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": true,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  },
+  {
+    "Store ID": "PRIVATE-OLD",
+    "assessable": false,
+    "supported_paired_model": true,
+    "signals": {
+      "CVR": {
+        "metric": "CVR",
+        "raw_rate": null,
+        "benchmark": 0.2640490936985056,
+        "denominator": null,
+        "gap": null,
+        "commercial": true,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      },
+      "PNA": {
+        "metric": "PNA",
+        "raw_rate": null,
+        "benchmark": 0.06141932746366819,
+        "denominator": null,
+        "gap": null,
+        "commercial": true,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      },
+      "Cancels": {
+        "metric": "Cancels",
+        "raw_rate": null,
+        "benchmark": 0.025352710300201548,
+        "denominator": null,
+        "gap": null,
+        "commercial": true,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      },
+      "Uptime": {
+        "metric": "Uptime",
+        "raw_rate": null,
+        "benchmark": 0.95,
+        "denominator": null,
+        "gap": null,
+        "commercial": false,
+        "assessed": false,
+        "evidence_floor": false,
+        "evidence_complete": false,
+        "adverse": false,
+        "severe": false,
+        "material": false,
+        "meaningful": false,
+        "band": "NOT_ASSESSED"
+      }
+    },
+    "current_store_coverage_complete": false,
+    "operating_commercial_stores": 8,
+    "store_gmv_share": null,
+    "top_two_by_current_gmv": false,
+    "top_two_exposure_guard": false,
+    "qualified_adverse_domains": [],
+    "qualified_severe_kpis": [],
+    "qualified_adverse_operational_kpis": [],
+    "material_operational_kpis": [],
+    "meaningful_corroboration": [],
+    "rules": {
+      "BASE_PRIORITY": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": true,
+        "materiality": true,
+        "outcome": false
+      },
+      "SINGLE_STORE_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "MULTI_KPI_ESCALATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "SEVERE_PRIMARY_CORROBORATION": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": true,
+        "outcome": false
+      },
+      "BUSINESS_MATERIALITY_OVERRIDE": {
+        "entry_range": false,
+        "evidence_floor": false,
+        "severe_or_material_condition": false,
+        "materiality": false,
+        "outcome": false
+      }
+    }
+  }
+]

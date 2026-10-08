@@ -1,0 +1,24 @@
+{
+  "version": "V9_Beta2",
+  "visible_version": "V9_Beta2",
+  "base_release": "V9_Beta1_1 (current extracted folder)",
+  "scope": "SBU compatibility and approved Top GMV presentation correction",
+  "supported_sbus": 43,
+  "new_sbus": 17,
+  "production_benchmark_sha256": "126b90a0b3daedf780105a50e8717afddca3089ca069fb9a6b0f6f32972b0b5b",
+  "tests": {
+    "total": 301,
+    "passed": 301,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "carried_forward_with_documented_contract_updates": 239,
+    "beta2_new": 62
+  },
+  "frozen_engine": "Preserved; scoring, lifecycle, pipeline, analysis byte-identical; classification version-literal change only",
+  "classification_rules": "V2.1 unchanged",
+  "readiness": "Ready to become the frozen backend baseline for the Python Web MVP",
+  "validation_limit": "Real Pharmacy abc deck replay passed; original raw Pharmacy workbook unavailable",
+  "rendered_decks": 5,
+  "rendered_slides": 86
+}

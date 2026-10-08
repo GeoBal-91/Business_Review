@@ -1,0 +1,454 @@
+[
+  {
+    "file": "PETS.pptx",
+    "source": "Synthetic regression partner, 12 months; real PETS benchmark",
+    "audit_files_unchanged": 22,
+    "audit_sha256": {
+      "partner_comparisons.csv": "10ac379f37682d61826aa2cd1ad9e0e14e29a152407596501c8252131c922ce4",
+      "Classification_Rule_Trace.json": "dcb8f2e66fb8a195129a1374f9bbe7fee4933208f745f3461c7a23489cf14717",
+      "coverage.csv": "8dad4863b79ceac346bfb43753af26441e37d9946ce41427e49a681b2028bc26",
+      "run_audit.json": "cafb91d26132db432eb450614b74e9345bd11cc12357b071705432ecceee1001",
+      "reviews.csv": "b807281efd943a5864b28ac7163821e6dc755db170dbe597caa1e161c544fa13",
+      "opportunities.csv": "36aaa7b99751ae11d68eb910ad3066a4ffd55ebb67037575a1bac5f18e51e1c3",
+      "Beta_Validation_Stores_V2_1.csv": "7cc5d091506ada0a5536534a0ba5338f6bb364ed9a6fd92119c2f996ae87eb74",
+      "metric_records.json": "8bd19db8e8cd252ad96e354e0d17fba0b956cbc4c2dae5e14bb3cbf2ad833e47",
+      "metrics.csv": "da62eab48050ef7d483313b1d14329ba31f5bff2fe8223169dad0d0a25bafaca",
+      "Classification_Schema.json": "c432c608e70115dcf008754798313918c70a224426a1068aff4b17653b216a02",
+      "Beta_Validation_Stores.csv": "dc9e2ef14b83faa5ce43001ebd462c7572ca1d0ffcec709a1d7f6d32cc8589ec",
+      "sbu_history.csv": "8a961f99f7efb4eeb905b4a39ac1c89f7388154fef15bbe1dd34380b3a21fc9d",
+      "Beta_Validation_Schema.json": "571a9dcfd36c7da1523d26281c59b7e8f2de66ba7c302d7236696209052846c1",
+      "Business_Classification.csv": "87062755440f0a3fd69cc8c76622fe089c8b3059557b618cd1552ecfd9891c6c",
+      "Business_Actions.csv": "2f5a761d4e5778b1a14490fcfda21257749f837e4f907188f102c4ac22f58229",
+      "store_history.csv": "e9f7a72a7e0fdbd595fb75fcf6726aa4b93491512abdc7a10940881fad7c41ab",
+      "Classification_Summary.json": "6d07cfb9b08daeded5d35ecc8d3b8ed6ef90fc24df3f9daf793c53d01efbf261",
+      "Beta_Validation_Partner.csv": "b75af51c68627489e527c2b7a10a5f8e12732eb546067060e1435df30cbb94cb",
+      "Business_Classification.json": "bba3a72032fdeed92fc423935c7a694cf7b7164345108d0ae4dc0f2196eefa20",
+      "monthly.csv": "cf8a8b15585b4e49096c287c6566cff56419eccd2a7d671dae9b59518cee6c96",
+      "stores.csv": "9dddf23c17961c7b1425212ca4f5d6c81f2977406c17f98ce0f2cc1187a07f62",
+      "actions.csv": "f01858ebf87220fc38befc29271e5c285b5825e854c7a90470feebed088d461e"
+    },
+    "slides": [
+      {
+        "number": 1,
+        "title": "Partner Business Review"
+      },
+      {
+        "number": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "number": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "number": 4,
+        "title": "Partner vs PETS"
+      },
+      {
+        "number": 5,
+        "title": "Partner vs PETS \u00b7 Visual"
+      },
+      {
+        "number": 6,
+        "title": "Growth vs PETS"
+      },
+      {
+        "number": 7,
+        "title": "Growth vs PETS \u00b7 Visual"
+      },
+      {
+        "number": 8,
+        "title": "Partner Share of PETS"
+      },
+      {
+        "number": 9,
+        "title": "Executive Summary"
+      },
+      {
+        "number": 10,
+        "title": "Partner Performance & Conversion Evolution"
+      },
+      {
+        "number": 11,
+        "title": "Operational Health"
+      },
+      {
+        "number": 12,
+        "title": "Top GMV Stores"
+      },
+      {
+        "number": 13,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "number": 14,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "number": 15,
+        "title": "Action Plan"
+      },
+      {
+        "number": 16,
+        "title": "Operational & Data Review"
+      },
+      {
+        "number": 17,
+        "title": "Discussion"
+      },
+      {
+        "number": 18,
+        "title": "Thank You"
+      },
+      {
+        "number": 19,
+        "title": "APPENDIX \u2014 Store Diagnostics"
+      },
+      {
+        "number": 20,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "file": "JEWELRY.pptx",
+    "source": "Supplied real partner workbook and JEWELRY benchmark",
+    "audit_files_unchanged": 22,
+    "audit_sha256": {
+      "partner_comparisons.csv": "e222ca78293c81ec16771b4408e98aec3d74b2a73ab6fb5dc5176745ae045994",
+      "Classification_Rule_Trace.json": "9b60d18f6fd240f1248dc3d70182e85de02be927da22161361668e3eeac6a43a",
+      "coverage.csv": "8dad4863b79ceac346bfb43753af26441e37d9946ce41427e49a681b2028bc26",
+      "run_audit.json": "86eac297c7a071d9b8a0ce16a417a87d0f75bc434f4b034ddaab52a522451f7a",
+      "reviews.csv": "b807281efd943a5864b28ac7163821e6dc755db170dbe597caa1e161c544fa13",
+      "opportunities.csv": "d55bb48a0012dec2f3601789fcedf3b95ba094a6a726d97c41fc8c9d145f03e0",
+      "Beta_Validation_Stores_V2_1.csv": "d84fb2eee320a4cd433958a5c95df0b2a43499a451e88753c250466df0de3ef7",
+      "metric_records.json": "91b4cb98968580ee28ad58b1716a972f94ca43a65037e2b880c1cfe906f69ed1",
+      "metrics.csv": "d1f717392ab89b63707bf23fa902672c1ddc1c4ebedb0e7aa175d8fbff5d7b4d",
+      "Classification_Schema.json": "c432c608e70115dcf008754798313918c70a224426a1068aff4b17653b216a02",
+      "Beta_Validation_Stores.csv": "2f481cface866146ff61644c797e9fbfa46524e442f7da22e82d1354869fd63b",
+      "sbu_history.csv": "e76d1af50618f4cb116fbf067cfa4110c28755a0cc3e70fa341927b034569725",
+      "Beta_Validation_Schema.json": "571a9dcfd36c7da1523d26281c59b7e8f2de66ba7c302d7236696209052846c1",
+      "Business_Classification.csv": "a054e5f30be53ff8044b08afc5cf7124edac0177342f0bb731fb21d7f74182cb",
+      "Business_Actions.csv": "44f1155a8b8688e2c45a8a6fddd721432e2f8ac0e544f26f82de3f9035584147",
+      "store_history.csv": "69ddec80107fd02c690e8810d1e77683a5a89530b0db84c8b51c8c26e51b1e06",
+      "Classification_Summary.json": "6028c9617597d6126af49d582325656f381de15b27ae9fc9889ce7719d3e0453",
+      "Beta_Validation_Partner.csv": "e87a53b2fbc2e68a7355fe68bf2b3414ef6494d3b6d24161820b64adb9c41961",
+      "Business_Classification.json": "b8732c4a861b08781b39685b329ca45334619e50ca3b0c85f7307dde1ea57061",
+      "monthly.csv": "ba1ee51202d1f9a4eeb9fadc3d55c96c088ebb95fefceaa932ff7ae77089417b",
+      "stores.csv": "963b1551f65a1a0fd5c8f999bdddf1b97320c4594654d198202bb66aa8142697",
+      "actions.csv": "97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed"
+    },
+    "slides": [
+      {
+        "number": 1,
+        "title": "Partner Business Review"
+      },
+      {
+        "number": 2,
+        "title": "JEWELRY Business Development"
+      },
+      {
+        "number": 3,
+        "title": "JEWELRY Performance Trend"
+      },
+      {
+        "number": 4,
+        "title": "Partner vs JEWELRY"
+      },
+      {
+        "number": 5,
+        "title": "Partner vs JEWELRY \u00b7 Visual"
+      },
+      {
+        "number": 6,
+        "title": "Growth vs JEWELRY"
+      },
+      {
+        "number": 7,
+        "title": "Growth vs JEWELRY \u00b7 Visual"
+      },
+      {
+        "number": 8,
+        "title": "Partner Share of JEWELRY"
+      },
+      {
+        "number": 9,
+        "title": "Executive Summary"
+      },
+      {
+        "number": 10,
+        "title": "Partner Performance & Conversion Evolution"
+      },
+      {
+        "number": 11,
+        "title": "Operational Health"
+      },
+      {
+        "number": 12,
+        "title": "Top GMV Stores"
+      },
+      {
+        "number": 13,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "number": 14,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "number": 15,
+        "title": "Action Plan"
+      },
+      {
+        "number": 16,
+        "title": "Operational & Data Review"
+      },
+      {
+        "number": 17,
+        "title": "Discussion"
+      },
+      {
+        "number": 18,
+        "title": "Thank You"
+      },
+      {
+        "number": 19,
+        "title": "APPENDIX \u2014 Store Diagnostics"
+      },
+      {
+        "number": 20,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "file": "FLOWERS_partial_missing.pptx",
+    "source": "Regression missing July, current store disappearance, missing PNA/uptime; real FLOWERS benchmark",
+    "audit_files_unchanged": 22,
+    "audit_sha256": {
+      "partner_comparisons.csv": "7ce8f0dba5b2f2582a6d70f8af09b6657076f877802f405a5a3431bf122eadc9",
+      "Classification_Rule_Trace.json": "f83ef3fcea3c9748c0ce7df2f993f5cec61638b29d1cf660803b0ab3f36ebcf3",
+      "coverage.csv": "9967255c1fdb6cf1a98ad672f016b0ab389c200a9653be327a66987f19a3084c",
+      "run_audit.json": "037bf0580c60c5b8373e5a4d2ed59440575bb0dd0e5b1adec0290f5a889deffa",
+      "reviews.csv": "23e02facb31383012dfa03a0d31538eb6b60dd6c2c3fa341e8d35174eabec4de",
+      "opportunities.csv": "d55bb48a0012dec2f3601789fcedf3b95ba094a6a726d97c41fc8c9d145f03e0",
+      "Beta_Validation_Stores_V2_1.csv": "abb63bd55600bbe45cbfd9bcfdff4c1f82406cf1bee7531fc6fc67c30c0669f4",
+      "metric_records.json": "3045ab29b58269b66c992bd2003a45a1a5ad8269fc69861b3c9ad9b93e454613",
+      "metrics.csv": "0a0391addbde10e70924f261bd975ab58ab24bc661613b04a99c28271a668210",
+      "Classification_Schema.json": "c432c608e70115dcf008754798313918c70a224426a1068aff4b17653b216a02",
+      "Beta_Validation_Stores.csv": "e3e040aa9ce03e2558918f3d50a3891c1f227171b25e21ea32938c81af2cb1bb",
+      "sbu_history.csv": "38e849df6f5aa25c844d272fd76d840984204c92c072847aa22f736f239fceaa",
+      "Beta_Validation_Schema.json": "571a9dcfd36c7da1523d26281c59b7e8f2de66ba7c302d7236696209052846c1",
+      "Business_Classification.csv": "d184c0465335529a26c02def353304dfbcfbb275cafa5a99ab5d5f3e506a5e2f",
+      "Business_Actions.csv": "44f1155a8b8688e2c45a8a6fddd721432e2f8ac0e544f26f82de3f9035584147",
+      "store_history.csv": "100a323c8c997c1ce813d10bcd0379c3a8f3f0e7671cb97c590b1d43a4248f9b",
+      "Classification_Summary.json": "423ec0f18e7ca9ce69342e270265860968dd5f398540953b97d1a0d63696fa97",
+      "Beta_Validation_Partner.csv": "6d6cb5946afabd4e57dd989a7c7f696ab18536b15ca476a95bc08df4a6ae1863",
+      "Business_Classification.json": "1b3de9606bfbc47918b39e8d35c16ebf1f0053370298d9f54189104e1352a722",
+      "monthly.csv": "7a9197903c838a4925d87808c3a2f573996dd9999c29b99f83849efbc7343fe8",
+      "stores.csv": "b931f084b81560ad295a953f27087f9e2c24b47909c730177f57248c7ba5addf",
+      "actions.csv": "97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed"
+    },
+    "slides": [
+      {
+        "number": 1,
+        "title": "Partner Business Review"
+      },
+      {
+        "number": 2,
+        "title": "FLOWERS Business Development"
+      },
+      {
+        "number": 3,
+        "title": "FLOWERS Performance Trend"
+      },
+      {
+        "number": 4,
+        "title": "Partner vs FLOWERS"
+      },
+      {
+        "number": 5,
+        "title": "Partner vs FLOWERS \u00b7 Visual"
+      },
+      {
+        "number": 6,
+        "title": "Growth vs FLOWERS"
+      },
+      {
+        "number": 7,
+        "title": "Growth vs FLOWERS \u00b7 Visual"
+      },
+      {
+        "number": 8,
+        "title": "Partner Share of FLOWERS"
+      },
+      {
+        "number": 9,
+        "title": "Executive Summary"
+      },
+      {
+        "number": 10,
+        "title": "Partner Performance & Conversion Evolution"
+      },
+      {
+        "number": 11,
+        "title": "Operational Health"
+      },
+      {
+        "number": 12,
+        "title": "Top GMV Stores"
+      },
+      {
+        "number": 13,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "number": 14,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "number": 15,
+        "title": "Action Plan"
+      },
+      {
+        "number": 16,
+        "title": "Operational & Data Review"
+      },
+      {
+        "number": 17,
+        "title": "Operational & Data Review \u00b7 Store Coverage"
+      },
+      {
+        "number": 18,
+        "title": "Discussion"
+      },
+      {
+        "number": 19,
+        "title": "Thank You"
+      },
+      {
+        "number": 20,
+        "title": "APPENDIX \u2014 Store Diagnostics"
+      },
+      {
+        "number": 21,
+        "title": "Store Diagnostics"
+      },
+      {
+        "number": 22,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "file": "PETS_zero.pptx",
+    "source": "Regression zero activity; empty eligible Top GMV cohort",
+    "audit_files_unchanged": 22,
+    "audit_sha256": {
+      "partner_comparisons.csv": "489393f7d8b6787fb263f72428fee74bf1067fcb2b49b8e707a0ee36ffaec6cb",
+      "Classification_Rule_Trace.json": "694a2f84d6cd8371f2ed19bfe70715fa600c276ed0603927d10b72d69f7ce798",
+      "coverage.csv": "566ef2c81e93d5b3bb7c2f6211fda238234f62bb88cc47fe7f44fc78028b152a",
+      "run_audit.json": "a92e19b1f9d7d0b849a0ce07ef0b85a7cee1b7e1da4d3fcdd5f7714fd7c274a9",
+      "reviews.csv": "9427012fd78800bf9fc99b71253eeef8445b26ac8f6db4084fe1a8adccde08c8",
+      "opportunities.csv": "d55bb48a0012dec2f3601789fcedf3b95ba094a6a726d97c41fc8c9d145f03e0",
+      "Beta_Validation_Stores_V2_1.csv": "1f078c82d5cf984ca33d0fbfebc24934aa7a97e3ba5863aac8f0a4f8a422c63a",
+      "metric_records.json": "ff0a6167f4273f7715f3b015837ab5756f9e96fe674a68887f4c5e057403fbb1",
+      "metrics.csv": "9a4865ff0451f7dc2f75e91f00f30c6a5884a23b86bcefb8afc964d8c055108d",
+      "Classification_Schema.json": "c432c608e70115dcf008754798313918c70a224426a1068aff4b17653b216a02",
+      "Beta_Validation_Stores.csv": "eb0a47f5d86252092704299ad5cef700f1ec21970dde22083755998653af6b14",
+      "sbu_history.csv": "8a961f99f7efb4eeb905b4a39ac1c89f7388154fef15bbe1dd34380b3a21fc9d",
+      "Beta_Validation_Schema.json": "571a9dcfd36c7da1523d26281c59b7e8f2de66ba7c302d7236696209052846c1",
+      "Business_Classification.csv": "7e9525ff2968503007fba1e0bba4a42882bb0d3405f5a7c75d97f46d7b1ec267",
+      "Business_Actions.csv": "44f1155a8b8688e2c45a8a6fddd721432e2f8ac0e544f26f82de3f9035584147",
+      "store_history.csv": "89df9bedb58433a6613e195c7a1002860d9b7aff6769dcf507a94d7cd6d47a1c",
+      "Classification_Summary.json": "02f35526f574b97ceb1f0389d893892782bd3fc85d372a14ab8e6a1a52ae41d8",
+      "Beta_Validation_Partner.csv": "b75af51c68627489e527c2b7a10a5f8e12732eb546067060e1435df30cbb94cb",
+      "Business_Classification.json": "4aa21dedf13cfee5a6bb4b9ad8e32350eeabb0f6654fa242999f605ffa1e3334",
+      "monthly.csv": "8ec6ca7078b507d89a414d9621fb8bf32ef0026a93ae288487e745eca2a34823",
+      "stores.csv": "21fedf8ceb273227abff65ab16fff0533fa44d15dcdd5f4b9077f3f2862ac296",
+      "actions.csv": "97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed"
+    },
+    "slides": [
+      {
+        "number": 1,
+        "title": "Partner Business Review"
+      },
+      {
+        "number": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "number": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "number": 4,
+        "title": "Partner vs PETS"
+      },
+      {
+        "number": 5,
+        "title": "Partner vs PETS \u00b7 Visual"
+      },
+      {
+        "number": 6,
+        "title": "Growth vs PETS"
+      },
+      {
+        "number": 7,
+        "title": "Growth vs PETS \u00b7 Visual"
+      },
+      {
+        "number": 8,
+        "title": "Partner Share of PETS"
+      },
+      {
+        "number": 9,
+        "title": "Executive Summary"
+      },
+      {
+        "number": 10,
+        "title": "Partner Performance & Conversion Evolution"
+      },
+      {
+        "number": 11,
+        "title": "Operational Health"
+      },
+      {
+        "number": 12,
+        "title": "Top GMV Stores"
+      },
+      {
+        "number": 13,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "number": 14,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "number": 15,
+        "title": "Action Plan"
+      },
+      {
+        "number": 16,
+        "title": "Operational & Data Review"
+      },
+      {
+        "number": 17,
+        "title": "Discussion"
+      },
+      {
+        "number": 18,
+        "title": "Thank You"
+      },
+      {
+        "number": 19,
+        "title": "APPENDIX \u2014 Store Diagnostics"
+      },
+      {
+        "number": 20,
+        "title": "Store Diagnostics"
+      }
+    ]
+  }
+]

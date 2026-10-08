@@ -1,0 +1,3 @@
+Store ID,Store,Type,Issue,Action,Metric,Known Priority,Owner,Deadline
+PRIVATE-DATA,"Pet supplies branch A, Rustaveli Avenue 15",Data quality,Missing scoring evidence: PNA,"Reconcile current activity, lifecycle, missing inputs and benchmark coverage",,0,,
+PRIVATE-HYGIENE,"Pet supplies branch E, Rustaveli Avenue 15",Opening-hours hygiene,Observed uptime 40.0%; verify configured opening hours,Verify and correct configured store opening hours,Uptime,0,,

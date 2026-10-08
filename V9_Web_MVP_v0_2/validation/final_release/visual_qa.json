@@ -1,0 +1,333 @@
+{
+  "renderer": "LibreOffice",
+  "result": "PASS",
+  "checks": [
+    "Cover and closing match approved structure",
+    "dynamic metadata; long Georgian/Latin title intact",
+    "no unintended clipping, overlap, font degradation or missing glyphs",
+    "transparent PNG icons visible and proportional",
+    "existing review and action pagination unchanged",
+    "share chart 20.0 cm with original X/Y/height",
+    "all required slide categories visually inspected"
+  ],
+  "slides": [
+    {
+      "case": "Actions_6",
+      "page": 1,
+      "title": "Invet Zoo",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-1.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 8,
+      "title": "Invet Zoo Share of PETS",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-8.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 9,
+      "title": "Invet Zoo Performance & Conversion Evolution",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-9.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 13,
+      "title": "Priority Opportunities & Actions · 1/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-13.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 14,
+      "title": "Priority Opportunities & Actions · 2/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-14.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 15,
+      "title": "Priority Opportunities & Actions · 3/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-15.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 16,
+      "title": "Operational & Data Review · 1/5",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-16.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 17,
+      "title": "Operational & Data Review · 2/5",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-17.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 18,
+      "title": "Operational & Data Review · 3/5",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-18.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 19,
+      "title": "Operational & Data Review · 4/5",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-19.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 20,
+      "title": "Operational & Data Review · 5/5",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-20.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 21,
+      "title": "Operational & Data Review · Store Coverage",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-21.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 22,
+      "title": "Discussion",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-22.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 23,
+      "title": "Action Plan · 1/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-23.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 24,
+      "title": "Action Plan · 2/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-24.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 25,
+      "title": "Action Plan · 3/3",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-25.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 26,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-26.png"
+    },
+    {
+      "case": "Actions_6",
+      "page": 27,
+      "title": "Thank You",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Actions_6-27.png"
+    },
+    {
+      "case": "Empty",
+      "page": 1,
+      "title": "PetFood",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-1.png"
+    },
+    {
+      "case": "Empty",
+      "page": 8,
+      "title": "PetFood Share of PETS",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-8.png"
+    },
+    {
+      "case": "Empty",
+      "page": 9,
+      "title": "PetFood Performance & Conversion Evolution",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-9.png"
+    },
+    {
+      "case": "Empty",
+      "page": 13,
+      "title": "Priority Opportunities & Actions",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-13.png"
+    },
+    {
+      "case": "Empty",
+      "page": 14,
+      "title": "Operational & Data Review",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-14.png"
+    },
+    {
+      "case": "Empty",
+      "page": 15,
+      "title": "Discussion",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-15.png"
+    },
+    {
+      "case": "Empty",
+      "page": 16,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-16.png"
+    },
+    {
+      "case": "Empty",
+      "page": 17,
+      "title": "Thank You",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Empty-17.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 1,
+      "title": "PetFood",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-1.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 8,
+      "title": "PetFood Share of FLOWERS",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-8.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 9,
+      "title": "PetFood Performance & Conversion Evolution",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-9.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 13,
+      "title": "Priority Opportunities & Actions",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-13.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 14,
+      "title": "Operational & Data Review",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-14.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 15,
+      "title": "Operational & Data Review · Store Coverage",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-15.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 16,
+      "title": "Discussion",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-16.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 17,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-17.png"
+    },
+    {
+      "case": "FLOWERS_missing",
+      "page": 18,
+      "title": "Thank You",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing-18.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 1,
+      "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-1.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 8,
+      "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Share of PETS",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-8.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 9,
+      "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Performance & Conversion Evolution",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-9.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 13,
+      "title": "Priority Opportunities & Actions",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-13.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 14,
+      "title": "Operational & Data Review · 1/2",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-14.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 15,
+      "title": "Operational & Data Review · 2/2",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-15.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 16,
+      "title": "Discussion",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-16.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 17,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-17.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 18,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-18.png"
+    },
+    {
+      "case": "Long_Mixed_Unicode",
+      "page": 19,
+      "title": "Thank You",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode-19.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 1,
+      "title": "PetFood",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-1.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 8,
+      "title": "PetFood Share of PETS",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-8.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 9,
+      "title": "PetFood Performance & Conversion Evolution",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-9.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 13,
+      "title": "Priority Opportunities & Actions",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-13.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 14,
+      "title": "Operational & Data Review",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-14.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 15,
+      "title": "Discussion",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-15.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 16,
+      "title": "Action Plan",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-16.png"
+    },
+    {
+      "case": "Store_States",
+      "page": 17,
+      "title": "Thank You",
+      "preview": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States-17.png"
+    }
+  ]
+}

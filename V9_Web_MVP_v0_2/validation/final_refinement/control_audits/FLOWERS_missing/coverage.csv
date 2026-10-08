@@ -1,0 +1,4 @@
+Period,Expected Stores,Present Stores,Missing Stores,Missing Store IDs,Missing Store Names,Store Coverage Status
+2026-06-01,2,2,0,,,Complete Store Coverage
+2026-07-01,2,0,2,PRIVATE-DATA | PRIVATE-HYGIENE,"Pet supplies branch A, Rustaveli Avenue 15 | Pet supplies branch E, Rustaveli Avenue 15",Partial Store Coverage
+2026-08-01,2,2,0,,,Complete Store Coverage

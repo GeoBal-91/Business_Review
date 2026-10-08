@@ -1,0 +1,17 @@
+test_logo_reuses_validation_and_reset_clears_sbu (test_ui_state.UIState.test_logo_reuses_validation_and_reset_clears_sbu) ... 2026-09-16 08:54:40.542 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+/Users/giorgibalarjishvili/Documents/Codex/2026-09-15/referenced-chatgpt-conversation-this-is-an-2/work/V9_Web_MVP_v0_1/.venv/lib/python3.12/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_blocking_validation (test_web.WebSmoke.test_blocking_validation) ... ok
+test_catalog (test_web.WebSmoke.test_catalog) ... ok
+test_cleanup_failure_and_timeout (test_web.WebSmoke.test_cleanup_failure_and_timeout) ... ok
+test_generate_parity_isolation_and_cleanup (test_web.WebSmoke.test_generate_parity_isolation_and_cleanup) ... ok
+test_streamlit_flow (test_web.WebSmoke.test_streamlit_flow) ... 2026-09-16 08:55:09.000 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_upload_boundaries (test_web.WebSmoke.test_upload_boundaries) ... ok
+test_valid_metadata (test_web.WebSmoke.test_valid_metadata) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 41.532s
+
+OK

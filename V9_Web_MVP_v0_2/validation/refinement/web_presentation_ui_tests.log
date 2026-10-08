@@ -1,0 +1,60 @@
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_all_selected_actions_and_followup_kpis_survive (test_meeting_workspace.MeetingWorkspace.test_all_selected_actions_and_followup_kpis_survive) ... ok
+test_explicit_locations_unicode_and_ambiguous_metadata (test_meeting_workspace.MeetingWorkspace.test_explicit_locations_unicode_and_ambiguous_metadata) ... ok
+test_flow_non_target_slides_and_all_audit_files_unchanged (test_meeting_workspace.MeetingWorkspace.test_flow_non_target_slides_and_all_audit_files_unchanged) ... ok
+test_meeting_shapes_within_slide_bounds (test_meeting_workspace.MeetingWorkspace.test_meeting_shapes_within_slide_bounds) ... ok
+test_review_population_evidence_actions_types_order_and_summary (test_meeting_workspace.MeetingWorkspace.test_review_population_evidence_actions_types_order_and_summary) ... ok
+test_series_marker_fill_and_outline_exactly_match_line (test_meeting_workspace.MeetingWorkspace.test_series_marker_fill_and_outline_exactly_match_line) ... ok
+test_direct_worker_rejects_missing_name (test_partner_name.PartnerName.test_direct_worker_rejects_missing_name) ... ok
+test_exact_title_templates_and_non_title_preservation (test_partner_name.PartnerName.test_exact_title_templates_and_non_title_preservation) ... ok
+test_normalization_and_invalid_values (test_partner_name.PartnerName.test_normalization_and_invalid_values) ... ok
+test_ui_name_required_and_changes_reuse_validation (test_partner_name.PartnerName.test_ui_name_required_and_changes_reuse_validation) ... 2026-09-22 21:10:10.403 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_worker_names_precedence_and_complete_audit_parity (test_partner_name.PartnerName.test_worker_names_precedence_and_complete_audit_parity) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+test_pair_preserves_unknown_and_true_zero_separately (test_presentation_update.ChartRendering.test_pair_preserves_unknown_and_true_zero_separately) ... ok
+test_signed_pair_uses_series_fills_and_explicit_negative_handling (test_presentation_update.ChartRendering.test_signed_pair_uses_series_fills_and_explicit_negative_handling) ... ok
+test_zero_counts_and_missing_percentage_do_not_get_misleading_axes (test_presentation_update.ChartRendering.test_zero_counts_and_missing_percentage_do_not_get_misleading_axes) ... ok
+test_benchmark_directions_missing_and_incomplete (test_presentation_update.MeetingLayout.test_benchmark_directions_missing_and_incomplete) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+test_cards_values_units_wording_and_geometry (test_presentation_update.MeetingLayout.test_cards_values_units_wording_and_geometry) ... /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+ok
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_combo_charts_have_partner_only_native_data_and_gap_month (test_presentation_update.PresentationUpdate.test_combo_charts_have_partner_only_native_data_and_gap_month) ... ok
+test_exact_comparison_values_and_growth (test_presentation_update.PresentationUpdate.test_exact_comparison_values_and_growth) ... ok
+test_flow_and_original_slides_unchanged (test_presentation_update.PresentationUpdate.test_flow_and_original_slides_unchanged) ... ok
+test_missing_series_and_partial_benchmarks_are_not_zero (test_presentation_update.PresentationUpdate.test_missing_series_and_partial_benchmarks_are_not_zero) ... ok
+test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve (test_presentation_update.PresentationUpdate.test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve) ... ok
+test_operational_preserves_all_text_and_adds_three_charts (test_presentation_update.PresentationUpdate.test_operational_preserves_all_text_and_adds_three_charts) ... ok
+test_render_does_not_mutate_analysis_or_any_audit (test_presentation_update.PresentationUpdate.test_render_does_not_mutate_analysis_or_any_audit) ... ok
+test_logo_reuses_validation_and_reset_clears_sbu (test_ui_state.UIState.test_logo_reuses_validation_and_reset_clears_sbu) ... 2026-09-22 21:11:29.017 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_blocking_validation (test_web.WebSmoke.test_blocking_validation) ... ok
+test_catalog (test_web.WebSmoke.test_catalog) ... ok
+test_cleanup_failure_and_timeout (test_web.WebSmoke.test_cleanup_failure_and_timeout) ... ok
+test_generate_parity_isolation_and_cleanup (test_web.WebSmoke.test_generate_parity_isolation_and_cleanup) ... ok
+test_presentation_version_invalidates_cached_result (test_web.WebSmoke.test_presentation_version_invalidates_cached_result) ... ok
+test_streamlit_flow (test_web.WebSmoke.test_streamlit_flow) ... 2026-09-22 21:11:48.706 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_upload_boundaries (test_web.WebSmoke.test_upload_boundaries) ... ok
+test_valid_metadata (test_web.WebSmoke.test_valid_metadata) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 114.938s
+
+OK

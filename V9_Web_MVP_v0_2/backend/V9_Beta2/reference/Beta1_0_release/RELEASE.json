@@ -1,0 +1,32 @@
+{
+  "version": "V9_Beta1_0",
+  "visible_version": "V9 Beta 1.0",
+  "scope": "Presentation and validation-readiness release",
+  "base_release": "V9_dev6_1_2 (user-uploaded inputs/configuration)",
+  "analytical_engine": "Frozen from supplied Dev6.1.2; inherited audit engine version preserved",
+  "priority_threshold": 5.0,
+  "threshold_status": "provisional; calibrate only after Beta validation",
+  "modified_production_files": [
+    "main.py",
+    "presentation.py",
+    "slides_stores.py"
+  ],
+  "added_production_files": [
+    "beta_presentation.py",
+    "beta_validation.py"
+  ],
+  "tests": {
+    "tests": 181,
+    "passed": 181,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "analytical_csv_files_byte_identical": 100,
+  "metric_record_json_files_byte_identical": 10,
+  "run_audit_analytical_payloads_identical": 10,
+  "rendered_decks": 10,
+  "rendered_slides": 315,
+  "readiness": "Ready for controlled 25–30 real-partner / Account Manager validation",
+  "next_step": "Real-world validation and evidence-led calibration decision; no wider rollout or Dev6.2 work in this release"
+}

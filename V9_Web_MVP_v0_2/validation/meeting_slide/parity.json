@@ -1,0 +1,10 @@
+{
+  "unchanged_other_slides": 18,
+  "analytical_audit_files_unchanged": 22,
+  "normalized_only": [
+    "input_file",
+    "output_file",
+    "subbusiness_file"
+  ],
+  "excluded_web_manifest_reason": "presentation build intentionally changes"
+}

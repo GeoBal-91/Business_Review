@@ -1,0 +1,6 @@
+test_zero_counts_and_missing_percentage_do_not_get_misleading_axes (test_presentation_update.ChartRendering.test_zero_counts_and_missing_percentage_do_not_get_misleading_axes) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.006s
+
+OK

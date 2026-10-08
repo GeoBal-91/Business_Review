@@ -1,0 +1,15 @@
+convert /private/tmp/partner-refinement-sep22/validation/refinement/final/Actions_1.pptx as a Impress document -> /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_1.pdf using filter : impress_pdf_Export
+Overwriting: /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_1.pdf
+Rendered Actions_1
+convert /private/tmp/partner-refinement-sep22/validation/refinement/final/Actions_2.pptx as a Impress document -> /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_2.pdf using filter : impress_pdf_Export
+Overwriting: /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_2.pdf
+Rendered Actions_2
+convert /private/tmp/partner-refinement-sep22/validation/refinement/final/Actions_6.pptx as a Impress document -> /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_6.pdf using filter : impress_pdf_Export
+Overwriting: /private/tmp/partner-refinement-sep22/validation/refinement/previews/Actions_6.pdf
+Rendered Actions_6
+convert /private/tmp/partner-refinement-sep22/validation/refinement/final/FLOWERS_missing.pptx as a Impress document -> /private/tmp/partner-refinement-sep22/validation/refinement/previews/FLOWERS_missing.pdf using filter : impress_pdf_Export
+Overwriting: /private/tmp/partner-refinement-sep22/validation/refinement/previews/FLOWERS_missing.pdf
+Rendered FLOWERS_missing
+convert /private/tmp/partner-refinement-sep22/validation/refinement/final/Empty.pptx as a Impress document -> /private/tmp/partner-refinement-sep22/validation/refinement/previews/Empty.pdf using filter : impress_pdf_Export
+Overwriting: /private/tmp/partner-refinement-sep22/validation/refinement/previews/Empty.pdf
+Rendered Empty

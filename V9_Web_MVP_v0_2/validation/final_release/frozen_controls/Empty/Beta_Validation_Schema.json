@@ -1,0 +1,33 @@
+{
+  "release": "V9_Beta2",
+  "purpose": "Manual Beta research only; no automatic calibration",
+  "missing_values": "Blank analytical cells mean unavailable, not zero. Rates are fractions; scores are 0–100 methodology scores, not percentages.",
+  "opportunity_rank": "Existing displayed AnalysisResult opportunity rank only; blank for unselected stores, including eligible stores beyond the executive limit.",
+  "recommended_action": "Selected action text where displayed, otherwise existing store Recommended Focus; incomplete leading issues are diagnostic only.",
+  "store_manual_expected_values": {
+    "AM_Should_Be_Priority": "Yes / Partly / No",
+    "AM_Rank": "Positive integer; rank among all known stores; blank if not ranked",
+    "AM_Main_Action_KPI_Agree": "Yes / Partly / No",
+    "AM_Action_Relevance_1_5": "1–5; 1 not relevant, 5 highly relevant",
+    "AM_Important_Opportunity_Missed": "Yes / No",
+    "AM_Should_Not_Be_Pitched": "Yes / No",
+    "AM_Comment": "Free text"
+  },
+  "partner_manual_expected_values": {
+    "AM Overall Trust Score 1–5": "1–5; 1 low trust, 5 high trust",
+    "Top Opportunity Alignment": "Yes / Partly / No",
+    "Main Action Alignment": "Yes / Partly / No",
+    "False Positive Count": "Nonnegative integer, AM-assessed",
+    "False Negative Count": "Nonnegative integer, AM-assessed",
+    "Action Focus Useful Yes/No": "Yes / No",
+    "Appendix Navigation Friction 1–5": "1–5; 1 easy, 5 high friction",
+    "Partner-facing Narrative Logical Yes/Partly/No": "Yes / Partly / No",
+    "Notes": "Free text"
+  },
+  "research_notes": [
+    "All AM fields start empty. Save reviewed copies separately before regenerating a run.",
+    "Review false positives, false negatives and scores around 3–7 manually; do not recalibrate automatically.",
+    "Compare by SBU, AOV and volume; the 5.0 threshold and FLOWERS uptime exclusion remain provisional validation questions, not model changes.",
+    "Use stable Store IDs. Similar names are never automatically merged."
+  ]
+}

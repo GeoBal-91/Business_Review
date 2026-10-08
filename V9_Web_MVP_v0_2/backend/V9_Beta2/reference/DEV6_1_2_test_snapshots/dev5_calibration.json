@@ -1,0 +1,185 @@
+{
+  "constants": {
+    "CVR_CONFIDENCE_K": 150,
+    "PNA_CONFIDENCE_K": 30,
+    "CANCELS_CONFIDENCE_K": 10,
+    "UPTIME_TARGET": 0.95,
+    "CVR_WEIGHT": 0.3,
+    "PNA_WEIGHT": 0.3,
+    "CANCELS_WEIGHT": 0.25,
+    "UPTIME_WEIGHT": 0.15,
+    "PNA_BENCHMARK_FLOOR": 0.05,
+    "CANCELS_BENCHMARK_FLOOR": 0.03,
+    "CRITICAL_CVR_RELATIVE_GAP": 0.7,
+    "CRITICAL_CVR_MIN_SESSIONS": 30,
+    "CRITICAL_PNA_RATE": 0.3,
+    "CRITICAL_CANCELS_RATE": 0.2,
+    "CRITICAL_UPTIME_RATE": 0.6,
+    "PEAK_SEVERITY_FLOOR_MULTIPLIER": 0.5,
+    "CLOSED_STORE_MONTHS": 3
+  },
+  "anchors": {
+    "CVR_SEVERITY_ANCHORS": [
+      [
+        0.0,
+        0
+      ],
+      [
+        0.1,
+        10
+      ],
+      [
+        0.2,
+        28
+      ],
+      [
+        0.3,
+        45
+      ],
+      [
+        0.4,
+        58
+      ],
+      [
+        0.5,
+        68
+      ],
+      [
+        0.7,
+        85
+      ],
+      [
+        1.0,
+        100
+      ]
+    ],
+    "PNA_SEVERITY_ANCHORS": [
+      [
+        0.0,
+        0
+      ],
+      [
+        0.2,
+        10
+      ],
+      [
+        0.5,
+        25
+      ],
+      [
+        1.0,
+        50
+      ],
+      [
+        2.0,
+        75
+      ],
+      [
+        3.0,
+        90
+      ],
+      [
+        4.0,
+        100
+      ]
+    ],
+    "CANCELS_SEVERITY_ANCHORS": [
+      [
+        0.0,
+        0
+      ],
+      [
+        0.25,
+        10
+      ],
+      [
+        0.5,
+        25
+      ],
+      [
+        1.0,
+        50
+      ],
+      [
+        1.5,
+        70
+      ],
+      [
+        2.0,
+        85
+      ],
+      [
+        3.0,
+        100
+      ]
+    ],
+    "UPTIME_SEVERITY_ANCHORS": [
+      [
+        0.4,
+        100
+      ],
+      [
+        0.6,
+        75
+      ],
+      [
+        0.75,
+        45
+      ],
+      [
+        0.85,
+        25
+      ],
+      [
+        0.9,
+        10
+      ],
+      [
+        0.95,
+        0
+      ],
+      [
+        1.0,
+        0
+      ]
+    ],
+    "IMPACT_SCORE_ANCHORS": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        10,
+        25
+      ],
+      [
+        25,
+        40
+      ],
+      [
+        50,
+        55
+      ],
+      [
+        100,
+        70
+      ],
+      [
+        200,
+        85
+      ],
+      [
+        400,
+        100
+      ]
+    ]
+  },
+  "source_hashes": {
+    "config.py": "c704f5367eb604cd4cb1bea9372aa967da4d6e9a63425087e89206182272e955",
+    "analysis.py": "e1e554701df62f367cdc96c16804b1bd21d4b84b3b340457473e3e4ada505596"
+  }
+}

@@ -1,0 +1,14 @@
+Matplotlib is building the font cache; this may take a moment.
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_all_selected_actions_and_followup_kpis_survive (test_meeting_workspace.MeetingWorkspace.test_all_selected_actions_and_followup_kpis_survive) ... ok
+test_explicit_locations_unicode_and_ambiguous_metadata (test_meeting_workspace.MeetingWorkspace.test_explicit_locations_unicode_and_ambiguous_metadata) ... ok
+test_flow_non_target_slides_and_all_audit_files_unchanged (test_meeting_workspace.MeetingWorkspace.test_flow_non_target_slides_and_all_audit_files_unchanged) ... ok
+test_meeting_shapes_within_slide_bounds (test_meeting_workspace.MeetingWorkspace.test_meeting_shapes_within_slide_bounds) ... ok
+test_review_population_evidence_actions_types_order_and_summary (test_meeting_workspace.MeetingWorkspace.test_review_population_evidence_actions_types_order_and_summary) ... ok
+test_series_marker_fill_and_outline_exactly_match_line (test_meeting_workspace.MeetingWorkspace.test_series_marker_fill_and_outline_exactly_match_line) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 2.551s
+
+OK

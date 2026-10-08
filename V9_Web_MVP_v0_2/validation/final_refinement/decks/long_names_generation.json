@@ -1,0 +1,43 @@
+{
+  "case": "Long_Mixed_Unicode",
+  "actions": 2,
+  "reviews": 6,
+  "affected": [
+    {
+      "page": 1,
+      "title": "PetFood International · თბილისი / München Business Review"
+    },
+    {
+      "page": 9,
+      "title": "PetFood International · თბილისი / München Performance & Conversion Evolution"
+    },
+    {
+      "page": 13,
+      "title": "Priority Opportunities & Actions"
+    },
+    {
+      "page": 14,
+      "title": "Operational & Data Review · 1/2"
+    },
+    {
+      "page": 15,
+      "title": "Operational & Data Review · 2/2"
+    },
+    {
+      "page": 16,
+      "title": "Discussion"
+    },
+    {
+      "page": 17,
+      "title": "Action Plan"
+    },
+    {
+      "page": 18,
+      "title": "Action Plan"
+    },
+    {
+      "page": 19,
+      "title": "Thank You"
+    }
+  ]
+}

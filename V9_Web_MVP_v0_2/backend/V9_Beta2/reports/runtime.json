@@ -1,0 +1,7 @@
+{
+  "python": "3.14.7",
+  "pandas": "3.0.5",
+  "numpy": "2.5.2",
+  "matplotlib": "3.11.1",
+  "python-pptx": "1.0.2"
+}

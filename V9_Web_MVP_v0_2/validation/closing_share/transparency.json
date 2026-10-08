@@ -1,0 +1,16 @@
+{
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "transparent_pixels": 1324216,
+  "antialiased_pixels": 6064,
+  "opaque_artwork_pixels_unchanged": 242584,
+  "all_neutral_checkerboard_pixels_transparent": true,
+  "original_sha256": "b54f71fa2c15323079cf5446d86755582888b593a44ed5be41e446caa0b4c708",
+  "corrected_sha256": "988d014fc93f9dd0faf1aefcf19de7a189559c5bd6f7aa8d056ee1e320e84c48"
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "case": "Actions_6",
+    "partner_name": "Invet Zoo",
+    "sbu": "PETS",
+    "period": "August 2026",
+    "slides": [
+      {
+        "page": 1,
+        "title": "Invet Zoo"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "Invet Zoo vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "Invet Zoo vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "Invet Zoo Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "Invet Zoo Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "Invet Zoo Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "Invet Zoo Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions · 1/3"
+      },
+      {
+        "page": 14,
+        "title": "Priority Opportunities & Actions · 2/3"
+      },
+      {
+        "page": 15,
+        "title": "Priority Opportunities & Actions · 3/3"
+      },
+      {
+        "page": 16,
+        "title": "Operational & Data Review · 1/5"
+      },
+      {
+        "page": 17,
+        "title": "Operational & Data Review · 2/5"
+      },
+      {
+        "page": 18,
+        "title": "Operational & Data Review · 3/5"
+      },
+      {
+        "page": 19,
+        "title": "Operational & Data Review · 4/5"
+      },
+      {
+        "page": 20,
+        "title": "Operational & Data Review · 5/5"
+      },
+      {
+        "page": 21,
+        "title": "Operational & Data Review · Store Coverage"
+      },
+      {
+        "page": 22,
+        "title": "Discussion"
+      },
+      {
+        "page": 23,
+        "title": "Action Plan · 1/3"
+      },
+      {
+        "page": 24,
+        "title": "Action Plan · 2/3"
+      },
+      {
+        "page": 25,
+        "title": "Action Plan · 3/3"
+      },
+      {
+        "page": 26,
+        "title": "Action Plan"
+      },
+      {
+        "page": 27,
+        "title": "Thank You"
+      },
+      {
+        "page": 28,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 29,
+        "title": "Store Overview"
+      },
+      {
+        "page": 30,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 31,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 32,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 33,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 34,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 35,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 36,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 37,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 38,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Empty",
+    "partner_name": "PetFood",
+    "sbu": "PETS",
+    "period": "August 2026",
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Discussion"
+      },
+      {
+        "page": 16,
+        "title": "Action Plan"
+      },
+      {
+        "page": 17,
+        "title": "Thank You"
+      },
+      {
+        "page": 18,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 19,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "partner_name": "PetFood",
+    "sbu": "FLOWERS",
+    "period": "August 2026",
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood"
+      },
+      {
+        "page": 2,
+        "title": "FLOWERS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "FLOWERS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs FLOWERS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs FLOWERS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs FLOWERS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs FLOWERS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of FLOWERS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review · Store Coverage"
+      },
+      {
+        "page": 16,
+        "title": "Discussion"
+      },
+      {
+        "page": 17,
+        "title": "Action Plan"
+      },
+      {
+        "page": 18,
+        "title": "Thank You"
+      },
+      {
+        "page": 19,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 20,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 21,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "partner_name": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo",
+    "sbu": "PETS",
+    "period": "August 2026",
+    "slides": [
+      {
+        "page": 1,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "პეტფუდი — შინაური ცხოველების კვებისა და ვეტერინარული მომსახურების ცენტრი · München / São Paulo Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review · 1/2"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review · 2/2"
+      },
+      {
+        "page": 16,
+        "title": "Discussion"
+      },
+      {
+        "page": 17,
+        "title": "Action Plan"
+      },
+      {
+        "page": 18,
+        "title": "Action Plan"
+      },
+      {
+        "page": 19,
+        "title": "Thank You"
+      },
+      {
+        "page": 20,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 21,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 22,
+        "title": "Store Diagnostics"
+      }
+    ]
+  },
+  {
+    "case": "Store_States",
+    "partner_name": "PetFood",
+    "sbu": "PETS",
+    "period": "August 2026",
+    "slides": [
+      {
+        "page": 1,
+        "title": "PetFood"
+      },
+      {
+        "page": 2,
+        "title": "PETS Business Development"
+      },
+      {
+        "page": 3,
+        "title": "PETS Performance Trend"
+      },
+      {
+        "page": 4,
+        "title": "PetFood vs PETS"
+      },
+      {
+        "page": 5,
+        "title": "PetFood vs PETS · Visual"
+      },
+      {
+        "page": 6,
+        "title": "PetFood Growth vs PETS"
+      },
+      {
+        "page": 7,
+        "title": "PetFood Growth vs PETS · Visual"
+      },
+      {
+        "page": 8,
+        "title": "PetFood Share of PETS"
+      },
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 10,
+        "title": "Operational Health"
+      },
+      {
+        "page": 11,
+        "title": "Top GMV Stores"
+      },
+      {
+        "page": 12,
+        "title": "How We Prioritize Opportunities"
+      },
+      {
+        "page": 13,
+        "title": "Priority Opportunities & Actions"
+      },
+      {
+        "page": 14,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 15,
+        "title": "Discussion"
+      },
+      {
+        "page": 16,
+        "title": "Action Plan"
+      },
+      {
+        "page": 17,
+        "title": "Thank You"
+      },
+      {
+        "page": 18,
+        "title": "APPENDIX — Store Diagnostics"
+      },
+      {
+        "page": 19,
+        "title": "Store Diagnostics"
+      },
+      {
+        "page": 20,
+        "title": "Store Diagnostics"
+      }
+    ]
+  }
+]

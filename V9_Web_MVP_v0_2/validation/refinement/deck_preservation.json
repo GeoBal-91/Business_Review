@@ -1,0 +1,27 @@
+[
+  {
+    "case": "Actions_1",
+    "unchanged_slide_xml_including_combined_slide": 17,
+    "unchanged_chart_xml_except_requested_marker_style": 13
+  },
+  {
+    "case": "Actions_2",
+    "unchanged_slide_xml_including_combined_slide": 18,
+    "unchanged_chart_xml_except_requested_marker_style": 13
+  },
+  {
+    "case": "Actions_6",
+    "unchanged_slide_xml_including_combined_slide": 29,
+    "unchanged_chart_xml_except_requested_marker_style": 13
+  },
+  {
+    "case": "FLOWERS_missing",
+    "unchanged_slide_xml_including_combined_slide": 19,
+    "unchanged_chart_xml_except_requested_marker_style": 13
+  },
+  {
+    "case": "Empty",
+    "unchanged_slide_xml_including_combined_slide": 17,
+    "unchanged_chart_xml_except_requested_marker_style": 13
+  }
+]

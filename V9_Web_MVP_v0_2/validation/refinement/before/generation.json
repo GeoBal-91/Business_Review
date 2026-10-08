@@ -1,0 +1,160 @@
+[
+  {
+    "case": "Actions_1",
+    "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+    "sbu": "PETS",
+    "selected_actions": 1,
+    "reviews": 3,
+    "review_types": [
+      "Critical observation"
+    ],
+    "slides": 19,
+    "affected": [
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 14,
+        "title": "Action Plan"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review"
+      }
+    ]
+  },
+  {
+    "case": "Actions_2",
+    "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+    "sbu": "PETS",
+    "selected_actions": 2,
+    "reviews": 6,
+    "review_types": [
+      "Critical observation"
+    ],
+    "slides": 21,
+    "affected": [
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 14,
+        "title": "Action Plan"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review · 1/2"
+      },
+      {
+        "page": 16,
+        "title": "Operational & Data Review · 2/2"
+      }
+    ]
+  },
+  {
+    "case": "Actions_6",
+    "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+    "sbu": "PETS",
+    "selected_actions": 6,
+    "reviews": 21,
+    "review_types": [
+      "Availability review",
+      "Critical observation",
+      "Data quality"
+    ],
+    "slides": 36,
+    "affected": [
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 16,
+        "title": "Action Plan · 1/2"
+      },
+      {
+        "page": 17,
+        "title": "Action Plan · 2/2"
+      },
+      {
+        "page": 18,
+        "title": "Operational & Data Review · 1/5"
+      },
+      {
+        "page": 19,
+        "title": "Operational & Data Review · 2/5"
+      },
+      {
+        "page": 20,
+        "title": "Operational & Data Review · 3/5"
+      },
+      {
+        "page": 21,
+        "title": "Operational & Data Review · 4/5"
+      },
+      {
+        "page": 22,
+        "title": "Operational & Data Review · 5/5"
+      },
+      {
+        "page": 23,
+        "title": "Operational & Data Review · Store Coverage"
+      }
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+    "sbu": "FLOWERS",
+    "selected_actions": 0,
+    "reviews": 2,
+    "review_types": [
+      "Data quality",
+      "Opening-hours hygiene"
+    ],
+    "slides": 21,
+    "affected": [
+      {
+        "page": 9,
+        "title": "ყვავილების სახლი Performance & Conversion Evolution"
+      },
+      {
+        "page": 14,
+        "title": "Action Plan"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review"
+      },
+      {
+        "page": 16,
+        "title": "Operational & Data Review · Store Coverage"
+      }
+    ]
+  },
+  {
+    "case": "Empty",
+    "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+    "sbu": "PETS",
+    "selected_actions": 0,
+    "reviews": 0,
+    "review_types": [],
+    "slides": 19,
+    "affected": [
+      {
+        "page": 9,
+        "title": "PetFood Performance & Conversion Evolution"
+      },
+      {
+        "page": 14,
+        "title": "Action Plan"
+      },
+      {
+        "page": 15,
+        "title": "Operational & Data Review"
+      }
+    ]
+  }
+]

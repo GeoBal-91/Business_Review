@@ -1,0 +1,23 @@
+{
+  "version": "V2.1",
+  "engine": "V9_Beta2 (frozen V9_Beta1_1 analytics)",
+  "files": {
+    "stores.csv": "Original engine rows, unchanged",
+    "actions.csv": "Original engine actions, unchanged",
+    "Business_Classification.csv": "Original store fields plus separate V2.1 classification metadata",
+    "Business_Actions.csv": "Selected ACTION rows with evidence-aware wording; same numerical sort keys",
+    "Beta_Validation_Stores_V2_1.csv": "Original Beta feedback columns plus V2.1 fields; manual judgments blank"
+  },
+  "rates": "Fractions",
+  "scores": "Full-precision methodology scores; not percentages",
+  "missing": "Blank CSV / null JSON, never inferred zero",
+  "trace": "Ordered rule entry, evidence-floor, condition, materiality and final outcome for every store",
+  "manual_expected_values": {
+    "AM_Business_Classification_Agree": "Yes / Partly / No",
+    "AM_Action_Reason_Agree": "Yes / Partly / No",
+    "AM_Operational_Driver_Agree": "Yes / Partly / No",
+    "AM_Recovery_Context_Comment": "Free text"
+  },
+  "ranking": "Triage Rank orders ACTION rows with the frozen Priority/Impact/Severity/Store ID keys. Original Opportunity Rank/eligibility remain unchanged.",
+  "scale": "Working review heuristics only, never a scoring or classification modifier"
+}

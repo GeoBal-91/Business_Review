@@ -1,0 +1,121 @@
+[
+  {
+    "case": "Actions_6",
+    "all_slide_xml_and_relationships_identical": true,
+    "audit_files_equal_except_expected_paths_and_presentation_version": 23,
+    "changed_package_parts": [
+      "ppt/embeddings/Microsoft_Excel_Sheet11.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet12.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet13.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet1.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet2.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet3.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet4.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet5.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet6.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet7.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet8.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet9.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet10.xlsx",
+      "ppt/media/image6.png",
+      "ppt/media/image7.png",
+      "ppt/media/image8.png",
+      "ppt/media/image9.png",
+      "ppt/media/image15.png",
+      "ppt/media/image16.png"
+    ]
+  },
+  {
+    "case": "Empty",
+    "all_slide_xml_and_relationships_identical": true,
+    "audit_files_equal_except_expected_paths_and_presentation_version": 23,
+    "changed_package_parts": [
+      "ppt/embeddings/Microsoft_Excel_Sheet11.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet12.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet13.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet1.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet2.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet3.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet4.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet5.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet6.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet7.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet8.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet9.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet10.xlsx",
+      "ppt/media/image6.png",
+      "ppt/media/image7.png"
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "all_slide_xml_and_relationships_identical": true,
+    "audit_files_equal_except_expected_paths_and_presentation_version": 23,
+    "changed_package_parts": [
+      "ppt/embeddings/Microsoft_Excel_Sheet11.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet12.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet13.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet1.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet2.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet3.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet4.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet5.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet6.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet7.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet8.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet9.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet10.xlsx",
+      "ppt/media/image6.png",
+      "ppt/media/image7.png",
+      "ppt/media/image8.png",
+      "ppt/media/image9.png"
+    ]
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "all_slide_xml_and_relationships_identical": true,
+    "audit_files_equal_except_expected_paths_and_presentation_version": 23,
+    "changed_package_parts": [
+      "ppt/embeddings/Microsoft_Excel_Sheet11.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet12.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet13.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet1.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet2.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet3.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet4.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet5.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet6.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet7.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet8.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet9.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet10.xlsx",
+      "ppt/media/image6.png",
+      "ppt/media/image7.png",
+      "ppt/media/image8.png",
+      "ppt/media/image9.png"
+    ]
+  },
+  {
+    "case": "Store_States",
+    "all_slide_xml_and_relationships_identical": true,
+    "audit_files_equal_except_expected_paths_and_presentation_version": 23,
+    "changed_package_parts": [
+      "ppt/embeddings/Microsoft_Excel_Sheet11.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet12.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet13.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet1.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet2.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet3.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet4.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet5.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet6.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet7.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet8.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet9.xlsx",
+      "ppt/embeddings/Microsoft_Excel_Sheet10.xlsx",
+      "ppt/media/image6.png",
+      "ppt/media/image7.png",
+      "ppt/media/image8.png"
+    ]
+  }
+]

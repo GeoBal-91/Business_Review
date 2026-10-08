@@ -1,0 +1,228 @@
+{
+  "result": "PASS",
+  "base": "User-uploaded Dev6.1.2",
+  "datasets": [
+    {
+      "fixture": "Uploaded_Beauty_Partner",
+      "byte_identical_exports": {
+        "opportunities.csv": "ee12499413b20a3fdeaf54a4660e549b60da22d83820c75d1935ccd7c5b6a9b9",
+        "coverage.csv": "5ad7f47d9be70807b794fe5021bbedd77f0f564be87d6aec2af4c358940a9d28",
+        "store_history.csv": "e1496d7b2c5a1f6440184850737a489f0ba2799305734421123846e4e4493701",
+        "actions.csv": "8d9f69cce7568614ac224e0461e9f8bf73b6c834a4a8ddee98db8e2e79646d19",
+        "sbu_history.csv": "8ce78c721867ec8d0aa658395da9530d1e02b7043eadfc382bfa6914d5a6928d",
+        "reviews.csv": "d7c7ef25e0af952f14a3f14eb19e5bfb4ea339df265d4530b52e0db0a2583e3f",
+        "metric_records.json": "8d7bafdab7e66afbd6dbb1b421c9a90f3fb67055b9aa9acdbabf2872823dc438",
+        "partner_comparisons.csv": "b92e574964ba8c22c5aa1106804fcd8d62856e455b9999408d7e6e83f005767c",
+        "metrics.csv": "4759184a4d52a43c93d2141838ccc3e5ae88a0349c7b942f156d223556a3924e",
+        "monthly.csv": "ed3248c6f2558b0b2400d9f926df64290eb36feaaf392e11ddd772daf6cff2d2",
+        "stores.csv": "0211eb86583ec7026868cd2c09e8146f9df9ae43c9491a61896fd20cb83fa10e"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "One_Store_Healthy",
+      "byte_identical_exports": {
+        "opportunities.csv": "d55bb48a0012dec2f3601789fcedf3b95ba094a6a726d97c41fc8c9d145f03e0",
+        "coverage.csv": "81f4bd4c4329423e379698528782b433768ccbd267dab1670901387d54be44ea",
+        "store_history.csv": "5181fdd45dbbfdc74cd3656db0508264a1e0825ef9a3fc4bf8193081126a1cb6",
+        "actions.csv": "97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "b807281efd943a5864b28ac7163821e6dc755db170dbe597caa1e161c544fa13",
+        "metric_records.json": "f9ee34690e384d824ad543c150ae41a00e90f01f1387ad58f2dd921bc5812f7c",
+        "partner_comparisons.csv": "fdf890cc5f7856374635855d3f9b801fc5a844952cee39600d8ae519adbb8beb",
+        "metrics.csv": "4a16deca8943a695d872fdf982d8ed1ca72c3056a9c5f0a1d48378fc3aa453e2",
+        "monthly.csv": "e640b81d334740ffba9c3511653d5ac2f23733214608094acc036fb3025cea8a",
+        "stores.csv": "872afd382a82796287916010ca1f166ca54b2dadcc6352d8b9bfd8194ee385a0"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Four_Opportunities",
+      "byte_identical_exports": {
+        "opportunities.csv": "e63585d4a4fc428b2817904b492a63d14247ef4a370d191d9fa960dc5a112c96",
+        "coverage.csv": "fbc1c08cb8e4d7b4137c6de780e11b9228fbb0f3536f18c023046aac8a4f4be1",
+        "store_history.csv": "24e87acd7eea4c3ba48fac47751b7eedceb71af82863997c4973990033033cae",
+        "actions.csv": "30ac3349d3b8781d2b53052955bef6e5fb9da91d005bffe544b1c5dd4179f6cd",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "8283ee0962ef0ebf3518fdadfc7558fe79d844285027f1c1ea806b16a611e8ab",
+        "metric_records.json": "c52a0e3fbff2585a280c3cceb1372443b51373b8429acd2efd3448fdcf8789cf",
+        "partner_comparisons.csv": "67ea0aa732c0a7c899a14fe8ea8e155cf1eba886639ddd24a0c60752eb077853",
+        "metrics.csv": "61500cb6b9bf06c64add79a8f36175bc0f067bb36a26e608df817abe8f07e92f",
+        "monthly.csv": "fa73ee3a280716f83cb37a3d3688a3f01a22f1a5ba33f4227ce097bebbc02737",
+        "stores.csv": "68484f07cf5d148330bdde48b1eaefdbee9da1e47fefa5ae2ee7168c9a0ee822"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Five_Opportunities",
+      "byte_identical_exports": {
+        "opportunities.csv": "69de35217e9719323c72770a750a1ff5e93319fd36bf030544643fb649c4d8aa",
+        "coverage.csv": "253fe84e9aef8da2a7d104d34d59f01229e66e0987e0a7747b6a5b110f94083e",
+        "store_history.csv": "5da77cbfc1d59e3356338306d2016510d0080559e1ace0b40f0c0b1f8165d327",
+        "actions.csv": "5ff4d0558014dc654f70109558739b3bdc72afb4a7856aea664d7ea691cedb54",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "e36b4784eead29fdfaf2f30082965ef6fd99527b413d239acd663796f6718be5",
+        "metric_records.json": "427dfed321072941df4b8343185fe1b8757d0f62370130c2cb8b4b9fa9eeeaef",
+        "partner_comparisons.csv": "67ea0aa732c0a7c899a14fe8ea8e155cf1eba886639ddd24a0c60752eb077853",
+        "metrics.csv": "90f45072b9c7ac23984a974d309208255529615276400fe3228beadc469f0c0c",
+        "monthly.csv": "c086692949ca86e2099775f79d7615b6e84e4a2e5deb4b174eee04d1a5c5340e",
+        "stores.csv": "54c6886fe2ef9852f5bf4a47362c7f2f22c7bd00a7e2974c2af936e773f3f33d"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Six_Opportunities",
+      "byte_identical_exports": {
+        "opportunities.csv": "6adb601da1d254d1b91830843836c940702b60ab29935e1b4ece00185f00991b",
+        "coverage.csv": "5578e9af27f0d1501e388eca630724c05a9ba7837441970f0511f940c63d4748",
+        "store_history.csv": "c965b60ca42e5df4b07f98840d966544e6f715bf8ae721ec57e34863e716ae5b",
+        "actions.csv": "c7d2d13125be71ab7f724871876c7c95e8f806505f061c9b058ce737c673322e",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "ef94adfc9b8484fc63b4d5d400587ab7596612d981166e0c7685d1e766304eac",
+        "metric_records.json": "b296dcdf39730b1bc824550da68cfd41ac1483e9f6e358cdce4a88d4e987f7b6",
+        "partner_comparisons.csv": "67ea0aa732c0a7c899a14fe8ea8e155cf1eba886639ddd24a0c60752eb077853",
+        "metrics.csv": "0df0267b83434e16031ade7001c79194d7ce1146184aa17d92cb87f35989d509",
+        "monthly.csv": "d569b856e01413bcad17e00176e35eacd9e83cd40fc895e0f2d8dff5a754de8d",
+        "stores.csv": "790f5a4d83621e1345868c441b29482c9c641ba11011d3518f7be6a2e27ada8e"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Zero_Opportunities",
+      "byte_identical_exports": {
+        "opportunities.csv": "d55bb48a0012dec2f3601789fcedf3b95ba094a6a726d97c41fc8c9d145f03e0",
+        "coverage.csv": "130964eee432b137ee57ce6dfc9e6a8bf744a52043e2a4ec487039af6f0abe27",
+        "store_history.csv": "ff4391aa705018f20ab0297304f633bbb2224d9a8147a56fe6cadf28c79863fc",
+        "actions.csv": "97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "b807281efd943a5864b28ac7163821e6dc755db170dbe597caa1e161c544fa13",
+        "metric_records.json": "119dafa462867920dba1a507d4b1edfff85991ad42a935cbf1c37d2c2a34bef6",
+        "partner_comparisons.csv": "fdf890cc5f7856374635855d3f9b801fc5a844952cee39600d8ae519adbb8beb",
+        "metrics.csv": "3ac7c618c4ca3b488f44652f8d1158f9f38ffe44dbc1e3479b602f872ae3455e",
+        "monthly.csv": "208966385745c7785d8e217b6e84365c355e2edf337a8ab29a80b9c3b56dfb33",
+        "stores.csv": "c03275d2cbe57d5219d783b9e9d23fcda62635c736bf8b0fd0e25bf849b0df2b"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Partial_Current_Coverage",
+      "byte_identical_exports": {
+        "opportunities.csv": "d4c737f64bedffa05a7bcdfd7df321b0b8c3421970bdcf7820871f939e1f7bab",
+        "coverage.csv": "d667b864c47f45d2fd0e7d3f8d6e435bbbcc3d045cb93229739a056a6363c33a",
+        "store_history.csv": "87ed6ee2ca555e3855956e96bc000828d47c6b2d87ec0eaa8539337ef798fe2c",
+        "actions.csv": "5eb425076c61c1a6a51fa55a3b26d675cce60069356bcd6f39f56f6b5a4cd4be",
+        "sbu_history.csv": "5ef14b3350ba78ffbcf605e627f3447df0c17c70e1d32785cd3645edb1dd6253",
+        "reviews.csv": "faae1b9e246a7066d215f87a64d07ae03ede0640f3ae1caef173868b5dab8345",
+        "metric_records.json": "93e3a4dd4d0280eba737f26bad17eb8293f59a809d38606557b9daad7dde1b3a",
+        "partner_comparisons.csv": "072a43f096efa8a7ff8ee67bbc4ee66b0e96c4e8b5b656b1b263cdc1469437e8",
+        "metrics.csv": "3809ce262334a649f53eba0de6c1e3e77f82958585758efcf5ee72a8d3e44e26",
+        "monthly.csv": "515eec38c8e82eeca44ee9d06df561e4116ce2f98ce4d9f85100648b954cca12",
+        "stores.csv": "ce54039f71fa02cde15ec078e76484d37ed677f0058f45d9100e52965334d713"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "FLOWERS",
+      "byte_identical_exports": {
+        "opportunities.csv": "186119f1a61fcc63babd6ba2c6600a0988afd184f7ad4e2ac963fcf21d106d39",
+        "coverage.csv": "f3bc36fdf7fc675fd77442aead1d9616362e11564904d69f667075ba386fcb5c",
+        "store_history.csv": "2015718132a440475fff3f3af5f60d072878d6d81ba4d87e82a9f0e269cdac6a",
+        "actions.csv": "8af479788a84b0352580e36e0ca3cc8e358b21289da1c65ebf194799e4ac7647",
+        "sbu_history.csv": "60cb5666a4efd942f096ade9b1f3a8f9482a4f94cb5d7738c873bf2ca23f550b",
+        "reviews.csv": "4476126b4d067cded52078170c381c3e5d3e289d39399b6b65306d6e8d6578ed",
+        "metric_records.json": "9362c731edbe0809d63474c0d9aedb7872eb6bb7052f7a7eb15f138c4f4453cb",
+        "partner_comparisons.csv": "46b462873a0b2a837df5ec9c65c89013380d3312be1720980e0e1f2fe885fa31",
+        "metrics.csv": "8f939f5915fc9f737c839b15b33e74ea33fbdf3cd8a99a32c4cfd3cc5d16079d",
+        "monthly.csv": "cc09bb459423b7bf05cc4429904b808ed26a9d6e73781ba6b0efa7ee3b559d70",
+        "stores.csv": "580df46ec1071fa9205ba56e4f80709738b10bf4454444b3a5df776212938485"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Eighteen_Stores",
+      "byte_identical_exports": {
+        "opportunities.csv": "972c96a65b29e4847e8c9773832aa2480d8ae426aeab706099d16521c17cd3e0",
+        "coverage.csv": "382252329732f7cee93cfd696ea6795c543e7c9a218c960c4b108cbebee7482c",
+        "store_history.csv": "a9535679b2bfd2d358033bc5d42310ca7f00b6c2900684caf1b7cbbc757ddb24",
+        "actions.csv": "ef767569790d8e576268a638ac78d5a52fdd682cbc506da5bd396b1c2e7d7ef3",
+        "sbu_history.csv": "908bf2e9c8a150dacbf285196e663d95a151c547e8baba1a2a4ff71c08313a3c",
+        "reviews.csv": "2f7e173db23c6c6e9266e4d4636e1fa76bb49ede8a5d3cf818bb08c5408cf24f",
+        "metric_records.json": "6a4efcf7f40e7d0a65f6a57ff25a5ba1a5ff06f34a90447682f23f2cd06f5b16",
+        "partner_comparisons.csv": "d9ea02cd216aed4800a5dc124d4d77c203a01758f3d2a58de3470282b8a24e6d",
+        "metrics.csv": "34d4e82a870946060d3de727b9e59df15a9732684eb326e70742b837a9866974",
+        "monthly.csv": "22efb4a2af6a479feae47babbd48031ddef15d9db55c14cca92a82bc23fab0bf",
+        "stores.csv": "aed39a08243e5441cadd069e684579a297dc521ee97bc34b42896f23175b75ce"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    },
+    {
+      "fixture": "Thirty_Stores",
+      "byte_identical_exports": {
+        "opportunities.csv": "972c96a65b29e4847e8c9773832aa2480d8ae426aeab706099d16521c17cd3e0",
+        "coverage.csv": "cd66c3efa252c5505521da81928e83550ea8de10cbfb2c62d8ce0ff5085e3d50",
+        "store_history.csv": "17a9169a083b2de2b351ae20788b0368daf6a7c1d5534d221b7fd06b9223c76b",
+        "actions.csv": "ef767569790d8e576268a638ac78d5a52fdd682cbc506da5bd396b1c2e7d7ef3",
+        "sbu_history.csv": "908bf2e9c8a150dacbf285196e663d95a151c547e8baba1a2a4ff71c08313a3c",
+        "reviews.csv": "cfac7b322140ac5331431c43b7717998af3f54da5a4eeb073dda30a771423d83",
+        "metric_records.json": "779e99d870b114ca2447d9ce4f722e39796f34bf3bb43957a41df6f2c9927b9f",
+        "partner_comparisons.csv": "a9f260792b17d870dbeaa0aaa896f684bdb52b7e80a578634272549eeeba4916",
+        "metrics.csv": "c61e955af25f843160308305109647e14e1e69c40566bdcd8947719712b490ce",
+        "monthly.csv": "2b649db474638c918c99402a65161896f87cd9a61530ce7ebd70b82fe92e7e51",
+        "stores.csv": "f822a878c35fb50bcca4d07b7cff0ca0848fdffc8cee7ddc6b188c06ee8f8934"
+      },
+      "run_audit_analytical_payload_identical": true,
+      "settings_metadata_differences": [
+        "input_file",
+        "subbusiness_file",
+        "output_file"
+      ]
+    }
+  ],
+  "analytical_exports_identical": true,
+  "run_audit_exclusions": "Source code hashes and path-only settings metadata; all analytical content compared exactly."
+}

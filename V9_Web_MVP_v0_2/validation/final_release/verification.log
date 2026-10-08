@@ -1,0 +1,1 @@
+PASS: only cover/closing differ; all five worker decks preserve other slides, exact share-chart width, icons, pagination, and 110/110 audit files vs frozen engine after documented path/config-hash normalization. All backend/assets unchanged.

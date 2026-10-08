@@ -1,0 +1,2 @@
+-r backend/V9_Beta2/requirements.txt
+streamlit==1.62.0

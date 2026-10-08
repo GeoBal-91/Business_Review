@@ -1,0 +1,25 @@
+Period,Comparison,Reference Period,Comparable,Reason,€ GMV Change,# Delivered Orders Change,Sessions Store Change,Number of Total Orders Change,€ AOV Derived Change,% CVR Change,% PNA Orders Change,% Cancels DTP Change,% Uptime Change
+2025-09-01,MoM,2025-08-01,False,Comparison unavailable — period absent,,,,,,,,,
+2025-09-01,YoY,2024-09-01,False,Comparison unavailable — period absent,,,,,,,,,
+2025-10-01,MoM,2025-09-01,True,Comparable store coverage,,,,,,,,,
+2025-10-01,YoY,2024-10-01,False,Comparison unavailable — period absent,,,,,,,,,
+2025-11-01,MoM,2025-10-01,True,Comparable store coverage,,,,,,,,,-0.015983206809293771
+2025-11-01,YoY,2024-11-01,False,Comparison unavailable — period absent,,,,,,,,,
+2025-12-01,MoM,2025-11-01,True,Comparable store coverage,14.11108882984353,2.5,,0.28571428571428581,3.3174539513838655,,0.22222222222222221,-0.14285714285714285,0.013014554811218826
+2025-12-01,YoY,2024-12-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-01-01,MoM,2025-12-01,True,Comparable store coverage,0.18746909048494076,-0.4285714285714286,,-0.22222222222222221,1.0780709083486464,,0.20634920634920634,0,-0.15712237129354012
+2026-01-01,YoY,2025-01-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-02-01,MoM,2026-01-01,True,Comparable store coverage,-0.68438995754581922,0,0.3457446808510638,-0.4285714285714286,-0.68438995754581922,-0.00014717012866874088,-0.42857142857142855,0,0.11638760714254681
+2026-02-01,YoY,2025-02-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-03-01,MoM,2026-02-01,True,Comparable store coverage,-1,-1,-0.094861660079051391,-1,,-0.015810276679841896,,,0.02899193548387069
+2026-03-01,YoY,2025-03-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-04-01,MoM,2026-03-01,True,Comparable store coverage,,,-0.34061135371179041,,,0.026490066225165563,,,-0.010918263986286147
+2026-04-01,YoY,2025-04-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-05-01,MoM,2026-04-01,True,Comparable store coverage,-1,-1,-0.23178807947019864,-1,,-0.026490066225165563,,,-0.040513090229078896
+2026-05-01,YoY,2025-05-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-06-01,MoM,2026-05-01,True,Comparable store coverage,,,0.25862068965517238,,,0,,,0.060302945301542565
+2026-06-01,YoY,2025-06-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-07-01,MoM,2026-06-01,True,Comparable store coverage,,,-0.16438356164383561,,,0.0081967213114754103,,,-0.014148200093501595
+2026-07-01,YoY,2025-07-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-08-01,MoM,2026-07-01,True,Comparable store coverage,7.5970844021719461,4,-0.032786885245901676,4,0.71941688043438923,0.03417616004445679,0,0,0.0097420913199313119
+2026-08-01,YoY,2025-08-01,False,Comparison unavailable — period absent,,,,,,,,,

@@ -1,0 +1,27 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_1.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_1.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_1.pdf
+Rendered Actions_1
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_2.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_2.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_2.pdf
+Rendered Actions_2
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_6.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_6.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_6.pdf
+Rendered Actions_6
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Empty.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Empty.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Empty.pdf
+Rendered Empty
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/FLOWERS_missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/FLOWERS_missing.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/FLOWERS_missing.pdf
+Rendered FLOWERS_missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Missing_Missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Missing_Missing.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Missing_Missing.pdf
+Rendered Missing_Missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Positive_Missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Positive_Missing.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Positive_Missing.pdf
+Rendered Positive_Missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Zero_Missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Missing.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Missing.pdf
+Rendered Zero_Missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Zero_Zero.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Zero.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Zero.pdf
+Rendered Zero_Zero

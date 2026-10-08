@@ -1,0 +1,4 @@
+Period,Expected Stores,Present Stores,Missing Stores,Missing Store IDs,Missing Store Names,Store Coverage Status
+2026-06-01,7,7,0,,,Complete Store Coverage
+2026-07-01,7,6,1,PRIVATE-OLD,"Pet supplies branch D, Rustaveli Avenue 15",Partial Store Coverage
+2026-08-01,9,8,1,PRIVATE-OLD,"Pet supplies branch D, Rustaveli Avenue 15",Partial Store Coverage

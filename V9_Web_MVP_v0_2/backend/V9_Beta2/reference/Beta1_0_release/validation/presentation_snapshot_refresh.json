@@ -1,0 +1,137 @@
+{
+  "changes": [
+    {
+      "snapshot": "dev6_1_presentation_baseline.json",
+      "entry": "config.py",
+      "old": "47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba",
+      "new": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+      "reason": "User-uploaded default SBU is BEAUTY_PERSONAL_CARE; same config copied byte-for-byte."
+    },
+    {
+      "snapshot": "dev6_1_presentation_baseline.json",
+      "entry": "main.py",
+      "old": "96a3034a987ee8babdaa3f165d69bee416d6171edaa3ff953a5508607e03a07d",
+      "new": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_presentation_baseline.json",
+      "entry": "tests/test_integration.py",
+      "old": "4a87602c202f100de88a97216f59fc941a56a79320e875fe07fc291e966a6a82",
+      "new": "a44681785183866b404eae09262c9978afa4d50d5d29243a0da2e45713e0ecf6",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_presentation_baseline.json",
+      "entry": "tests/test_hardening.py",
+      "old": "7c3de4cca7c952ae394dea9d8b4ec067ee8c4959e1cf735a7966ce72a70b28bc",
+      "new": "051282dd2035cd6660becb2e4953cda7e2d8a49ce955fb3e4d3a350b34aee212",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "config.py",
+      "old": "47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba",
+      "new": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+      "reason": "User-uploaded default SBU is BEAUTY_PERSONAL_CARE; same config copied byte-for-byte."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "main.py",
+      "old": "96a3034a987ee8babdaa3f165d69bee416d6171edaa3ff953a5508607e03a07d",
+      "new": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "tests/test_hardening.py",
+      "old": "7c3de4cca7c952ae394dea9d8b4ec067ee8c4959e1cf735a7966ce72a70b28bc",
+      "new": "051282dd2035cd6660becb2e4953cda7e2d8a49ce955fb3e4d3a350b34aee212",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "tests/test_integration.py",
+      "old": "4a87602c202f100de88a97216f59fc941a56a79320e875fe07fc291e966a6a82",
+      "new": "a44681785183866b404eae09262c9978afa4d50d5d29243a0da2e45713e0ecf6",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "tests/test_presentation_patch.py",
+      "old": "6a4ee7e57770eb329804df8a2f5e9263705eb20f236bcba5aa7608c4b9e49bc7",
+      "new": "a71f8d27a9aa716d2d93a7609c281d040ec00e7db4f68668162696d297a88a1b",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "presentation.py",
+      "old": "24637659b19ad6b61c50142cd408fe80953ededff3bd1ec4c1e1dfa319335716",
+      "new": "d1229bd38ce071f4cc2faee8ec52ba939a09ad07551ae0cedc4d2cd4067940c9",
+      "reason": "Beta presentation/CLI/additive export interface or presentation-only test expectations."
+    },
+    {
+      "snapshot": "dev6_1_1_frozen_baseline.json",
+      "entry": "analytical_exports",
+      "reason": "Input/config changed in user upload; compare uploaded inputs against untouched Dev6.1.2. Original golden exports retained."
+    },
+    {
+      "snapshot": "dev6_1_presentation_baseline.json",
+      "entry": "recommendation_slide_xml_sha256",
+      "old": [
+        "76a95aea20e8226d9525694ae9f6ec0b40d00b757424f1734ab1677857e4ee1a"
+      ],
+      "new": [
+        "d60a2634ee53471d73d461299210723ea23bd710ade9bc85094c3e0ebb765b23"
+      ],
+      "reason": "Old Recommendations replaced by one four-item Priority Opportunities & Actions page; exact action/input rows unchanged."
+    }
+  ],
+  "presentation_test_updates": [
+    {
+      "file": "tests/test_hardening.py",
+      "function": "test_standard_default_paired_unmarked_and_challenger_exported",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_integration.py",
+      "function": "test_stress_deck_contains_every_action_and_unknown_store",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_integration.py",
+      "function": "test_cohort_metadata_matches_rendering",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_presentation_hardening.py",
+      "function": "test_guard_does_not_hide_separate_store_diagnostics",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_presentation_navigation.py",
+      "function": "test_appendix_after_thank_you_and_every_diagnostic_retained",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_presentation_navigation.py",
+      "function": "test_guide_immediately_after_cover_with_identical_visual_content",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_presentation_navigation.py",
+      "function": "test_guide_after_fallback_cover_when_market_period_unavailable",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    },
+    {
+      "file": "tests/test_presentation_patch.py",
+      "function": "test_recommendations_content_and_layout_xml_unchanged",
+      "reason": "Requested presentation title, wording, navigation or merged-section snapshot; numerical assertions preserved."
+    }
+  ],
+  "analytical_fixtures_unchanged": [
+    "tests/dev5_calibration.json",
+    "tests/dev6_golden.json"
+  ],
+  "user_upload_input_change": "Default SBU BEAUTY_PERSONAL_CARE and partner_data.xlsx supplied by user; scoring/config constants otherwise unchanged."
+}

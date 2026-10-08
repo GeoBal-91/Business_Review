@@ -1,0 +1,26 @@
+{
+  "source": "PETS regression fixture; real bundled PETS benchmark; not real PetFood results",
+  "worker": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/web/worker.py",
+  "slides": [
+    "Partner Business Review",
+    "PETS Business Development",
+    "PETS Performance Trend",
+    "Partner vs PETS",
+    "Partner vs PETS \u00b7 Visual",
+    "Growth vs PETS",
+    "Growth vs PETS \u00b7 Visual",
+    "Partner Share of PETS",
+    "Partner Performance & Conversion Evolution",
+    "Operational Health",
+    "Top GMV Stores",
+    "How We Prioritize Opportunities",
+    "Priority Opportunities & Actions",
+    "Action Plan",
+    "Operational & Data Review",
+    "Discussion",
+    "Thank You",
+    "APPENDIX \u2014 Store Diagnostics",
+    "Store Diagnostics"
+  ],
+  "combined_slide": 9
+}

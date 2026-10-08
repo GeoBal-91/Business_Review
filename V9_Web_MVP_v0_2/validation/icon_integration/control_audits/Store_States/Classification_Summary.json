@@ -1,0 +1,47 @@
+{
+  "known_stores": 2,
+  "business_classification_counts": {
+    "ACTION": 0,
+    "MONITOR": 0,
+    "HEALTHY": 0,
+    "UNCLASSIFIED": 2
+  },
+  "action_reason_counts": {
+    "BASE_PRIORITY": 0,
+    "SINGLE_STORE_OVERRIDE": 0,
+    "MULTI_KPI_ESCALATION": 0,
+    "SEVERE_PRIMARY_CORROBORATION": 0,
+    "BUSINESS_MATERIALITY_OVERRIDE": 0
+  },
+  "healthy_tolerance_count": 0,
+  "low_scale_action_count": 0,
+  "ultra_low_scale_action_count": 0,
+  "human_review_required_count": 2,
+  "unclassified_count": 2,
+  "version": "V9_Beta2",
+  "calibration_rules": "V2.1",
+  "sbu": "PETS",
+  "reporting_period": "2026-08",
+  "operating_commercial_stores": 0,
+  "selected_triage_actions": 0,
+  "base_priority_threshold": 5.0,
+  "threshold_status": "Provisional",
+  "interpretation_settings": {
+    "healthy_priority_below": 1.0,
+    "healthy_cvr_gap_pp": 1.0,
+    "healthy_pna_gap_pp": 0.5,
+    "healthy_cancels_gap_pp": 0.5,
+    "healthy_uptime_min": 0.93,
+    "low_delivered_max": 10,
+    "low_attempts_max": 10,
+    "ultra_delivered_max": 2,
+    "ultra_attempts_max": 3
+  },
+  "input_hashes": {
+    "partner": "e2cad2222a77510bd94ba008b7df7dd0c211ffd6e2a6fc304c8686479116957f",
+    "SBU": "126b90a0b3daedf780105a50e8717afddca3089ca069fb9a6b0f6f32972b0b5b"
+  },
+  "current_coverage_complete": true,
+  "materiality_note": "Share/top-two materiality is not assessed under partial current coverage",
+  "heuristics_status": "Healthy tolerance / scale defaults are isolated working assumptions, pending exact real-case fixture replay"
+}

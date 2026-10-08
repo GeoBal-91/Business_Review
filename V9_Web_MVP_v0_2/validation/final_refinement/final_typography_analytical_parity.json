@@ -1,0 +1,41 @@
+{
+  "cases": [
+    {
+      "case": "Actions_1",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Actions_2",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Actions_6",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "FLOWERS_missing",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Empty",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Zero_Missing",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Missing_Missing",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Zero_Zero",
+      "retained_analytical_files_match": 22
+    },
+    {
+      "case": "Positive_Missing",
+      "retained_analytical_files_match": 22
+    }
+  ],
+  "normalization": "Only temporary file paths and source workbook container hashes; source workbooks were reserialized for regeneration. All analytical values unchanged."
+}

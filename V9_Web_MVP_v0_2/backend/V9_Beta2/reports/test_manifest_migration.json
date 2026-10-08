@@ -1,0 +1,224 @@
+[
+  {
+    "manifest": "dev6_1_presentation_baseline.json",
+    "file": "store_status.py",
+    "old": "18dc83f21aaa381dfc355a41b8826329bdfaa943a69d5d26ebcf4f33fcc9f63f",
+    "new": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124"
+  },
+  {
+    "manifest": "dev6_1_presentation_baseline.json",
+    "file": "data_pipeline.py",
+    "old": "7452734bdc8558de64a1edc70ddea7db23a68735dc3d0c92a014fc4784d80f0c",
+    "new": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e"
+  },
+  {
+    "manifest": "dev6_1_presentation_baseline.json",
+    "file": "config.py",
+    "old": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+    "new": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678"
+  },
+  {
+    "manifest": "dev6_1_presentation_baseline.json",
+    "file": "main.py",
+    "old": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+    "new": "dd7f68f2aa5e631e331c959d82dac26781e563abbbde700aa8ff8d34c899972a"
+  },
+  {
+    "manifest": "dev6_1_presentation_baseline.json",
+    "file": "tests/test_regression.py",
+    "old": "aacbdc93c680040a2244b0449ec262564bb1d0e96875b2ed0b633ca4402f7a24",
+    "new": "9f5a1a74ac5a3c71ea181bb3c1f77462022c9af8980b71dd339027d8c34f6f37"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "store_status.py",
+    "old": "18dc83f21aaa381dfc355a41b8826329bdfaa943a69d5d26ebcf4f33fcc9f63f",
+    "new": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "data_pipeline.py",
+    "old": "7452734bdc8558de64a1edc70ddea7db23a68735dc3d0c92a014fc4784d80f0c",
+    "new": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "config.py",
+    "old": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+    "new": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "main.py",
+    "old": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+    "new": "dd7f68f2aa5e631e331c959d82dac26781e563abbbde700aa8ff8d34c899972a"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "tests/test_regression.py",
+    "old": "aacbdc93c680040a2244b0449ec262564bb1d0e96875b2ed0b633ca4402f7a24",
+    "new": "9f5a1a74ac5a3c71ea181bb3c1f77462022c9af8980b71dd339027d8c34f6f37"
+  },
+  {
+    "manifest": "dev6_1_1_frozen_baseline.json",
+    "file": "presentation_polish.py",
+    "old": "7f20120334eafbbc5deb20c6f89a68cce4ebe1e31f5cc964b9f6a7e912e9f2da",
+    "new": "a548e6940d0036be924c5c68c6c20b76ac8986084ce1c745f60560fd04c8c1de"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "store_status.py",
+    "old": "18dc83f21aaa381dfc355a41b8826329bdfaa943a69d5d26ebcf4f33fcc9f63f",
+    "new": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "data_pipeline.py",
+    "old": "7452734bdc8558de64a1edc70ddea7db23a68735dc3d0c92a014fc4784d80f0c",
+    "new": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "config.py",
+    "old": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+    "new": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "presentation_polish.py",
+    "old": "7f20120334eafbbc5deb20c6f89a68cce4ebe1e31f5cc964b9f6a7e912e9f2da",
+    "new": "a548e6940d0036be924c5c68c6c20b76ac8986084ce1c745f60560fd04c8c1de"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "presentation_hardening.py",
+    "old": "063a7c801b4b87047ef1c6f2eda266655d45af3bf8c3d128f1a033e1d7711425",
+    "new": "01052ab4e651210cec49983bfc77075b07541351b1955a576f48f1e6e4290073"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "partner_data.xlsx",
+    "old": "1fd107a64ceba0f02445e92e3f42ba75cc2bebc346de3f668c70553cea1dfc56",
+    "new": "e2ae7958610a2445dcfadeeea3a051a969e1ce0ccb797e224cfedaaacb98deb0"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "subbusiness_unit_data.xlsx",
+    "old": "6e811276adc45277f49e8f4fef2ce0cfd9d8c6aa3c565aa1b7c1fc4068383d61",
+    "new": "126b90a0b3daedf780105a50e8717afddca3089ca069fb9a6b0f6f32972b0b5b"
+  },
+  {
+    "manifest": "beta_baseline.json",
+    "file": "tests/test_regression.py",
+    "old": "aacbdc93c680040a2244b0449ec262564bb1d0e96875b2ed0b633ca4402f7a24",
+    "new": "9f5a1a74ac5a3c71ea181bb3c1f77462022c9af8980b71dd339027d8c34f6f37"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "config.py",
+    "old": "4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c",
+    "new": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "presentation_polish.py",
+    "old": "7f20120334eafbbc5deb20c6f89a68cce4ebe1e31f5cc964b9f6a7e912e9f2da",
+    "new": "a548e6940d0036be924c5c68c6c20b76ac8986084ce1c745f60560fd04c8c1de"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "main.py",
+    "old": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+    "new": "dd7f68f2aa5e631e331c959d82dac26781e563abbbde700aa8ff8d34c899972a"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "subbusiness_unit_data.xlsx",
+    "old": "6e811276adc45277f49e8f4fef2ce0cfd9d8c6aa3c565aa1b7c1fc4068383d61",
+    "new": "126b90a0b3daedf780105a50e8717afddca3089ca069fb9a6b0f6f32972b0b5b"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "beta_validation.py",
+    "old": "a1daaf5097b53a53f4b5250eb0079599ddf54a0ebafb001287dd66f89c0d0e95",
+    "new": "50b88cf0be8544d308d41c0ec4142ae728a2ea1f6c6a8a2db728dcd406d39699"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "data_pipeline.py",
+    "old": "7452734bdc8558de64a1edc70ddea7db23a68735dc3d0c92a014fc4784d80f0c",
+    "new": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "beta_presentation.py",
+    "old": "2ec508df12230570b2312240963928d9986ee5f46951cee24b3def82b576b5a7",
+    "new": "1a9ea75820841d01e098593b85fe9878b301cb1cf4d63b3d8ebdafd362a9bbb3"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "store_status.py",
+    "old": "18dc83f21aaa381dfc355a41b8826329bdfaa943a69d5d26ebcf4f33fcc9f63f",
+    "new": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "presentation_hardening.py",
+    "old": "063a7c801b4b87047ef1c6f2eda266655d45af3bf8c3d128f1a033e1d7711425",
+    "new": "01052ab4e651210cec49983bfc77075b07541351b1955a576f48f1e6e4290073"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "partner_data.xlsx",
+    "old": "1fd107a64ceba0f02445e92e3f42ba75cc2bebc346de3f668c70553cea1dfc56",
+    "new": "e2ae7958610a2445dcfadeeea3a051a969e1ce0ccb797e224cfedaaacb98deb0"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/beta_baseline.json",
+    "old": "dff44fa0580583e1079c1702d55bc2e0008849e7b546a8f6deeb876fe764b6ad",
+    "new": "19b37eff8271db54ad9c1b24dd7be52c0e56906e1695b50595b570f8f652d841"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/dev6_1_1_frozen_baseline.json",
+    "old": "843c365d42dc8577d968621cd22a35fe56826da17b6e8fc737aff83d475eb889",
+    "new": "2fb7b9e8005e90b66572019c59980930b2536ec23a5f3ae5766db486e062c6ce"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/test_beta_validation.py",
+    "old": "ff18f5b711928356a6de63596427d28863bccf61ddf18c5423c6d3ee16e79620",
+    "new": "52f0ba44a8b08c902f1adacbdbd6530177f0baa09e17c0c00dff3f6b5bbaef76"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/test_regression.py",
+    "old": "aacbdc93c680040a2244b0449ec262564bb1d0e96875b2ed0b633ca4402f7a24",
+    "new": "9f5a1a74ac5a3c71ea181bb3c1f77462022c9af8980b71dd339027d8c34f6f37"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/test_beta_presentation.py",
+    "old": "07f64825926b3cc4c057d7f7b0f54a4470eb619bb8adf7f3ee3634f1dc98d78f",
+    "new": "d7fa61c89031b29b1315c60a420208fd25ed10ceadf2189e72b4283a311480a4"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/dev6_1_presentation_baseline.json",
+    "old": "563f6430831b13d90f712122bb418f83c1c5fb81abc7179e1468ba73470960d6",
+    "new": "64a78d71f97c3c58a1f05b45e3e0c1f72313bfc23a0c2e046783adc0d399cd05"
+  },
+  {
+    "manifest": "beta1_0_frozen_files.json",
+    "file": "tests/test_presentation_hardening.py",
+    "old": "d001d35a6f3b12db8322c7bee698684eb2b4a412e4043271f72962b852f45823",
+    "new": "72b846ec66ae484c7669c2be3445de1ec6c33781ed1392f6051784101e96127c"
+  },
+  {
+    "manifest": "dev6_golden.json",
+    "file": "store_status.py",
+    "old": "18dc83f21aaa381dfc355a41b8826329bdfaa943a69d5d26ebcf4f33fcc9f63f",
+    "new": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124"
+  }
+]

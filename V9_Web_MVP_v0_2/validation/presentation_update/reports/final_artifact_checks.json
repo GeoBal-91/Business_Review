@@ -1,0 +1,42 @@
+[
+  {
+    "file": "FLOWERS_partial_missing.pptx",
+    "sha256": "6708dd1c2191c0688f3820e2b56c02981173c575b93f53d0151fa33ad6cde6e9",
+    "package_findings": [],
+    "layout_findings": [],
+    "slides": 22,
+    "flow_passed": true
+  },
+  {
+    "file": "JEWELRY.pptx",
+    "sha256": "016ce1b23521ee3be41d906b976ff8821ff214bc7b0f008e9a1ab2af2c479a4d",
+    "package_findings": [],
+    "layout_findings": [],
+    "slides": 20,
+    "flow_passed": true
+  },
+  {
+    "file": "JEWELRY_web_download.pptx",
+    "sha256": "a3e1ac5b01e353da71f09ebbc5fe0f89ca2b19d2961969a54e833ffdac00d7d8",
+    "package_findings": [],
+    "layout_findings": [],
+    "slides": 20,
+    "flow_passed": true
+  },
+  {
+    "file": "PETS.pptx",
+    "sha256": "c0dabf3b1faff536f0b8ea46e91211a5ada5ebef9c1b5ef0b3c70aa63cb1117b",
+    "package_findings": [],
+    "layout_findings": [],
+    "slides": 20,
+    "flow_passed": true
+  },
+  {
+    "file": "PETS_zero.pptx",
+    "sha256": "48854959358ed975d5ecc3a6fa30cb52b4795f81ac70150ec04f50295442da33",
+    "package_findings": [],
+    "layout_findings": [],
+    "slides": 20,
+    "flow_passed": true
+  }
+]

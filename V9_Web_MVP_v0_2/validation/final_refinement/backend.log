@@ -1,0 +1,26 @@
+Matplotlib is building the font cache; this may take a moment.
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+............................................./Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+.................................................../Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+.........................................................../Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+............/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/.venv/lib/python3.14/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+................................./Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/.venv/lib/python3.14/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+................................................../Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+...................................................
+----------------------------------------------------------------------
+Ran 301 tests in 57.046s
+
+OK
+Audit output: /var/folders/w5/t2_86l616cvbs8hvdl5f_jl80000gn/T/tmpford5s5m/Beta_audit
+Stores: 1; opportunities: 0; review items: 0
+V2.1 classification: {'ACTION': 0, 'MONITOR': 0, 'HEALTHY': 1, 'UNCLASSIFIED': 0}
+Audit output: /var/folders/w5/t2_86l616cvbs8hvdl5f_jl80000gn/T/tmpx12llv60/test_audit

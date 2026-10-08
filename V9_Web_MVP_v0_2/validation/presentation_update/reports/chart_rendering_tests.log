@@ -1,0 +1,7 @@
+test_pair_preserves_unknown_and_true_zero_separately (test_presentation_update.ChartRendering.test_pair_preserves_unknown_and_true_zero_separately) ... ok
+test_signed_pair_uses_series_fills_and_explicit_negative_handling (test_presentation_update.ChartRendering.test_signed_pair_uses_series_fills_and_explicit_negative_handling) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.010s
+
+OK

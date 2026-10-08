@@ -1,0 +1,528 @@
+{
+  "version": "V9_dev6_1",
+  "reporting_period": "2026-08",
+  "benchmark_period": "2026-08",
+  "conversion_contract": "Official reported CVR; partner/SBU aggregate weighted by sessions",
+  "priority_model": "paired",
+  "priority_threshold": 5.0,
+  "threshold_status": "Provisional; requires business ranking calibration",
+  "exposure_definition": "Conservative maximum of overlapping metric exposure proxies; not incremental orders or a financial forecast",
+  "sbu": "PETS",
+  "known_stores": 9,
+  "status_counts": {
+    "Active": 8,
+    "Unknown": 1
+  },
+  "incomplete_assessments": 2,
+  "eligible_opportunities": 6,
+  "displayed_opportunities": 6,
+  "primary_actions": 6,
+  "review_items": 21,
+  "partner_median_gmv": 4000.0,
+  "input_hashes": {
+    "partner": "b985ceef1c5cb826ebaa8649aa78557593361159ebae561413a475690bc38ebc",
+    "SBU": "126b90a0b3daedf780105a50e8717afddca3089ca069fb9a6b0f6f32972b0b5b"
+  },
+  "data_quality_counts": {
+    "error": 0,
+    "warning": 43,
+    "info": 9
+  },
+  "store_coverage": [
+    {
+      "Period": "2026-06-01 00:00:00",
+      "Expected Stores": 7,
+      "Present Stores": 7,
+      "Missing Stores": 0,
+      "Missing Store IDs": "",
+      "Missing Store Names": "",
+      "Store Coverage Status": "Complete Store Coverage"
+    },
+    {
+      "Period": "2026-07-01 00:00:00",
+      "Expected Stores": 7,
+      "Present Stores": 6,
+      "Missing Stores": 1,
+      "Missing Store IDs": "PRIVATE-OLD",
+      "Missing Store Names": "Pet supplies branch D, Rustaveli Avenue 15",
+      "Store Coverage Status": "Partial Store Coverage"
+    },
+    {
+      "Period": "2026-08-01 00:00:00",
+      "Expected Stores": 9,
+      "Present Stores": 8,
+      "Missing Stores": 1,
+      "Missing Store IDs": "PRIVATE-OLD",
+      "Missing Store Names": "Pet supplies branch D, Rustaveli Avenue 15",
+      "Store Coverage Status": "Partial Store Coverage"
+    }
+  ],
+  "benchmark_note": "SBU membership/self-inclusion is not identifiable from aggregate input",
+  "prior_model_note": "Original TC51–TC100 fixtures and Dev4 source were not available; no historical pass-rate claim",
+  "settings": {
+    "partner_sbu": "PETS",
+    "input_file": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/Actions_6_input.xlsx",
+    "subbusiness_file": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/backend/V9_Beta2/subbusiness_unit_data.xlsx",
+    "output_file": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/backend/V9_Beta2/Partner_Business_Review_V9_Beta2.pptx",
+    "cvr_mode": "reported",
+    "percentage_units": "fraction",
+    "priority_model": "paired",
+    "min_priority": 5.0,
+    "flowers_uptime_excluded": true,
+    "reporting_period": null,
+    "max_benchmark_lag_months": 0,
+    "allow_partial_period": false,
+    "allow_partitioned_rows": false,
+    "as_of_date": null,
+    "trend_months": 12,
+    "top_opportunities": 6,
+    "uptime_history_months": 6,
+    "uptime_min_healthy_months": 2
+  },
+  "issues": [
+    {
+      "level": "warning",
+      "code": "missing_count",
+      "source": "partner",
+      "message": "Number of Pna Orders is missing; retained as unknown",
+      "store_id": "PRIVATE-MISSING",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-0",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-1",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-2",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-3",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-4",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-06"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-07"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.450000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.220000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-ID-5",
+      "period": "2026-08"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % CVR=0.400000; # Delivered Orders/Sessions Store=0.166667. Using explicit reported conversion contract.",
+      "store_id": "PRIVATE-AVAIL",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % PNA Orders=0.080000; Number of Pna Orders/Number of Total Orders=0.000000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-AVAIL",
+      "period": "2026-08"
+    },
+    {
+      "level": "warning",
+      "code": "rate_reconciliation",
+      "source": "partner",
+      "message": "Source % Cancels DTP=0.025000; Number of Canceled Orders Due to Partner/Number of Total Orders=0.000000. Count-derived rate is used; reconcile source scope.",
+      "store_id": "PRIVATE-AVAIL",
+      "period": "2026-08"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.264049; # Delivered Orders/Sessions Store=0.258708. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-08"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.261508; # Delivered Orders/Sessions Store=0.255297. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-07"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.253376; # Delivered Orders/Sessions Store=0.245685. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-06"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.254496; # Delivered Orders/Sessions Store=0.247939. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-05"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.251198; # Delivered Orders/Sessions Store=0.243833. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-04"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.243067; # Delivered Orders/Sessions Store=0.237307. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-03"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.231658; # Delivered Orders/Sessions Store=0.225036. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-02"
+    },
+    {
+      "level": "info",
+      "code": "rate_reconciliation",
+      "source": "SBU",
+      "message": "Source % CVR=0.209759; # Delivered Orders/Sessions Store=0.202869. Using explicit reported conversion contract.",
+      "store_id": "PETS",
+      "period": "2026-01"
+    },
+    {
+      "level": "warning",
+      "code": "session_coverage",
+      "source": "SBU",
+      "message": "Positive order activity with zero recorded sessions; conversion assessment unavailable",
+      "store_id": "PETS",
+      "period": "2025-12"
+    },
+    {
+      "level": "warning",
+      "code": "session_coverage",
+      "source": "SBU",
+      "message": "Positive order activity with zero recorded sessions; conversion assessment unavailable",
+      "store_id": "PETS",
+      "period": "2025-11"
+    },
+    {
+      "level": "warning",
+      "code": "session_coverage",
+      "source": "SBU",
+      "message": "Positive order activity with zero recorded sessions; conversion assessment unavailable",
+      "store_id": "PETS",
+      "period": "2025-10"
+    },
+    {
+      "level": "warning",
+      "code": "session_coverage",
+      "source": "SBU",
+      "message": "Positive order activity with zero recorded sessions; conversion assessment unavailable",
+      "store_id": "PETS",
+      "period": "2025-09"
+    }
+  ],
+  "source_hashes": {
+    "analysis.py": "7d6faba3bbd92ebbaf6bdfcbfb40a41e0a40d5fefdc01015275ae28840cd455b",
+    "beta_presentation.py": "4739b0a8a3c2ec5ce581b91ccf50f35e388455464d75eb1b3522904136c280b3",
+    "beta_validation.py": "50b88cf0be8544d308d41c0ec4142ae728a2ea1f6c6a8a2db728dcd406d39699",
+    "business_classification.py": "b8a0537cce0ee6841435f96ccd410e0c9d29f4c9f1d9047210592e3fe2acdf29",
+    "config.py": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678",
+    "coverage_guard.py": "010a3f9bd6bcd7a7abdb91248e22f650a49dd4b373cd61990dc8ac2e0f1a7819",
+    "data_pipeline.py": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e",
+    "diagnostics.py": "1731e869b59a19d29fb3e9e0b297d27afb0729804258b925231761dbbd11fab5",
+    "formatting.py": "762cfc9bcbeef2a0a2152e21b3be2d40f86fedf81bbc06be41b50c23636d6c1f",
+    "main.py": "dd7f68f2aa5e631e331c959d82dac26781e563abbbde700aa8ff8d34c899972a",
+    "main_v2_1.py": "bdb96dba39e298d8050160050f291db52216c3f45fc6b7a82618b6ac69b61e34",
+    "ppt_core.py": "25c77e7665a6477e6fbfab0ab02af9ab815d6f8977a678118826469ad13e3464",
+    "presentation.py": "95d961f1e3015f897bc73b71dbe62341e6e7ab2c441532b5d4ed7f7234ab4416",
+    "presentation_hardening.py": "01052ab4e651210cec49983bfc77075b07541351b1955a576f48f1e6e4290073",
+    "presentation_polish.py": "a548e6940d0036be924c5c68c6c20b76ac8986084ce1c745f60560fd04c8c1de",
+    "sbu_catalog.py": "7c9484e990a8ae2024204ce2d35ec9c7c9da0fd5ce71ea906e9ee8967cf43173",
+    "scoring.py": "902b8dcbe73d547613d0b2a0d411d286f3a667aaa775fa2da8d121ca3ff32aa8",
+    "slides_market.py": "c5eb9b8f4a27122585fbe72a19cd32924eba759a5f1a1e80b41a252cccc4eb79",
+    "slides_partner.py": "0417b4281fcb76cad82cedc6c1820e90904c16e3ca415a7af96e101ae7b62efa",
+    "slides_stores.py": "4b118c80dc63247f5655828809e1cdde5756b0b9e951f599ac27546aaf7c8355",
+    "store_status.py": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124",
+    "theme.py": "94d6f7a2ffc1fbb7281367812ce4c43a9dc1aeab1a75b1b7479a2fd1ad6059a5",
+    "triage_config.py": "d81933908220bf233eab5ada4c8a3db31c120775a3f7ab3a591771e3f5988a3c",
+    "triage_exports.py": "51b173008438c2f1a2bc03f3c4fe0130d3359d00bd452b62b6611e3fc7c29a6c",
+    "triage_presentation.py": "428d4e311e48635e228e001bcf12e71bce2cd3b8dd74f124d3ab62ec59f0690d",
+    "validate.py": "dcd3ea89b87efe4aa1f2a6e96ace278c77f86dfe620084b37092f8c47b9fa5df"
+  }
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "file": "Partner_Business_Review_V9_Beta1_0.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 43,
+    "seconds": 66.28
+  },
+  {
+    "file": "V9_Beta1_0_Eighteen_Stores.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 43,
+    "seconds": 63.72
+  },
+  {
+    "file": "V9_Beta1_0_FLOWERS.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 21,
+    "seconds": 29.91,
+    "pptx_sha256": "7aaa326b370bc0a80e146b780a4eda0859594da8238471d1a9f804e077fbdc76"
+  },
+  {
+    "file": "V9_Beta1_0_Five_Opportunities.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 28,
+    "seconds": 37.15,
+    "pptx_sha256": "249b2b9bc9d0810e9e8a4acca2374ed923e57c1946467fe1e0f0f8e59950762b"
+  },
+  {
+    "file": "V9_Beta1_0_Four_Opportunities.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 24,
+    "seconds": 35.42
+  },
+  {
+    "file": "V9_Beta1_0_One_Store_Healthy.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 21,
+    "seconds": 31.12
+  },
+  {
+    "file": "V9_Beta1_0_Partial_Current_Coverage.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 25,
+    "seconds": 31.12,
+    "pptx_sha256": "b64ea3b3b8976ec2e4e516cf1ea85445e8a58ce0c1364175601dc4bd0c316ec1"
+  },
+  {
+    "file": "V9_Beta1_0_Six_Opportunities.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 29,
+    "seconds": 45.43
+  },
+  {
+    "file": "V9_Beta1_0_Thirty_Stores.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 59,
+    "seconds": 75.63
+  },
+  {
+    "file": "V9_Beta1_0_Zero_Opportunities.pptx",
+    "render_slides.py": 0,
+    "slides_test.py": 0,
+    "rendered_slides": 22,
+    "seconds": 33.17
+  }
+]

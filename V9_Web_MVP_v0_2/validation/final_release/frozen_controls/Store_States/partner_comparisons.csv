@@ -1,0 +1,9 @@
+Period,Comparison,Reference Period,Comparable,Reason,€ GMV Change,# Delivered Orders Change,Sessions Store Change,Number of Total Orders Change,€ AOV Derived Change,% CVR Change,% PNA Orders Change,% Cancels DTP Change,% Uptime Change
+2026-05-01,MoM,2026-04-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-05-01,YoY,2025-05-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-06-01,MoM,2026-05-01,True,Comparable store coverage,-1,-1,-1,-1,,,,,-0.94999999999999996
+2026-06-01,YoY,2025-06-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-07-01,MoM,2026-06-01,True,Comparable store coverage,,,,,,,,,0.47499999999999998
+2026-07-01,YoY,2025-07-01,False,Comparison unavailable — period absent,,,,,,,,,
+2026-08-01,MoM,2026-07-01,True,Comparable store coverage,-1,-1,-1,-1,,,,,0.42500000000000004
+2026-08-01,YoY,2025-08-01,False,Comparison unavailable — period absent,,,,,,,,,

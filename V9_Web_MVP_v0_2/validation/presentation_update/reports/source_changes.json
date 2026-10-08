@@ -1,0 +1,13 @@
+{
+  "modified": [
+    "README.md",
+    "web/worker.py"
+  ],
+  "added": [
+    "PRESENTATION_UPDATE_REPORT.md",
+    "tests/build_web_presentation_examples.py",
+    "tests/presentation_update_fixtures.py",
+    "tests/test_presentation_update.py",
+    "web/presentation_update.py"
+  ]
+}

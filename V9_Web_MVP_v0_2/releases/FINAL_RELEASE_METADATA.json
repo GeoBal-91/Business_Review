@@ -1,0 +1,31 @@
+{
+  "zip": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/releases/V9_Web_MVP_v0_2_FINAL_2026-10-06.zip",
+  "zip_sha256": "15bbe725b315d0345af61177280fe78de7359906456fc5986a09e28d3e35929f",
+  "source_manifest_sha256": "f38fbad827be93840bacc66830ec037a0f78d718d95d3c2d0b697d9cfd713b04",
+  "packaged_files": 96,
+  "python": "3.14.7 (v3.14.7:823f0323ee6, Aug  5 2026, 07:07:01) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "dependency_lock_differences": [
+    {
+      "package": "altair",
+      "historical_lock": "6.2.2",
+      "tested": "6.3.0"
+    },
+    {
+      "package": "contourpy",
+      "historical_lock": "1.4.0",
+      "tested": "1.3.3"
+    },
+    {
+      "package": "fonttools",
+      "historical_lock": "4.65.0",
+      "tested": "4.63.0"
+    },
+    {
+      "package": "lxml",
+      "historical_lock": "6.1.3",
+      "tested": "6.1.2"
+    }
+  ],
+  "archive_integrity": "PASS",
+  "manifest_integrity": "PASS"
+}

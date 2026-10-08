@@ -1,0 +1,74 @@
+[
+  {
+    "fixture": "One_Store_Healthy",
+    "file": "V9_Beta1_0_One_Store_Healthy.pptx",
+    "slides": 21,
+    "stores": 1,
+    "opportunities": 0,
+    "reviews": 0
+  },
+  {
+    "fixture": "Four_Opportunities",
+    "file": "V9_Beta1_0_Four_Opportunities.pptx",
+    "slides": 24,
+    "stores": 4,
+    "opportunities": 4,
+    "reviews": 5
+  },
+  {
+    "fixture": "Five_Opportunities",
+    "file": "V9_Beta1_0_Five_Opportunities.pptx",
+    "slides": 28,
+    "stores": 5,
+    "opportunities": 5,
+    "reviews": 6
+  },
+  {
+    "fixture": "Six_Opportunities",
+    "file": "V9_Beta1_0_Six_Opportunities.pptx",
+    "slides": 29,
+    "stores": 6,
+    "opportunities": 6,
+    "reviews": 7
+  },
+  {
+    "fixture": "Zero_Opportunities",
+    "file": "V9_Beta1_0_Zero_Opportunities.pptx",
+    "slides": 22,
+    "stores": 2,
+    "opportunities": 0,
+    "reviews": 0
+  },
+  {
+    "fixture": "Partial_Current_Coverage",
+    "file": "V9_Beta1_0_Partial_Current_Coverage.pptx",
+    "slides": 25,
+    "stores": 2,
+    "opportunities": 1,
+    "reviews": 1
+  },
+  {
+    "fixture": "FLOWERS",
+    "file": "V9_Beta1_0_FLOWERS.pptx",
+    "slides": 21,
+    "stores": 1,
+    "opportunities": 1,
+    "reviews": 2
+  },
+  {
+    "fixture": "Eighteen_Stores",
+    "file": "V9_Beta1_0_Eighteen_Stores.pptx",
+    "slides": 43,
+    "stores": 18,
+    "opportunities": 6,
+    "reviews": 9
+  },
+  {
+    "fixture": "Thirty_Stores",
+    "file": "V9_Beta1_0_Thirty_Stores.pptx",
+    "slides": 59,
+    "stores": 30,
+    "opportunities": 6,
+    "reviews": 11
+  }
+]

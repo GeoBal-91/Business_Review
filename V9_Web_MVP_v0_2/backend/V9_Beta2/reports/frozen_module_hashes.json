@@ -1,0 +1,152 @@
+[
+  {
+    "file": "analysis.py",
+    "baseline_sha256": "7d6faba3bbd92ebbaf6bdfcbfb40a41e0a40d5fefdc01015275ae28840cd455b",
+    "beta2_sha256": "7d6faba3bbd92ebbaf6bdfcbfb40a41e0a40d5fefdc01015275ae28840cd455b",
+    "byte_identical": true
+  },
+  {
+    "file": "beta_presentation.py",
+    "baseline_sha256": "2ec508df12230570b2312240963928d9986ee5f46951cee24b3def82b576b5a7",
+    "beta2_sha256": "4739b0a8a3c2ec5ce581b91ccf50f35e388455464d75eb1b3522904136c280b3",
+    "byte_identical": false
+  },
+  {
+    "file": "beta_validation.py",
+    "baseline_sha256": "a1daaf5097b53a53f4b5250eb0079599ddf54a0ebafb001287dd66f89c0d0e95",
+    "beta2_sha256": "50b88cf0be8544d308d41c0ec4142ae728a2ea1f6c6a8a2db728dcd406d39699",
+    "byte_identical": false
+  },
+  {
+    "file": "business_classification.py",
+    "baseline_sha256": "4c01bbd09c6793d9690410a3c8fca6f6e5a1e42a4d06a50bc21e15cef44bc5c5",
+    "beta2_sha256": "b8a0537cce0ee6841435f96ccd410e0c9d29f4c9f1d9047210592e3fe2acdf29",
+    "byte_identical": false
+  },
+  {
+    "file": "config.py",
+    "baseline_sha256": "fcd99003b6364213700b2ecf368a9f915bae014218fd435e28ae1f450b975b7a",
+    "beta2_sha256": "8a5a1ec46c5a85b6b1862eb27f487bbcce5158c9646f924d0614b987dde2a678",
+    "byte_identical": false
+  },
+  {
+    "file": "coverage_guard.py",
+    "baseline_sha256": "010a3f9bd6bcd7a7abdb91248e22f650a49dd4b373cd61990dc8ac2e0f1a7819",
+    "beta2_sha256": "010a3f9bd6bcd7a7abdb91248e22f650a49dd4b373cd61990dc8ac2e0f1a7819",
+    "byte_identical": true
+  },
+  {
+    "file": "data_pipeline.py",
+    "baseline_sha256": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e",
+    "beta2_sha256": "07ee42f82d46c1e38409ef30703e9968cca95ab4a667c6cc1f0f17420a373b9e",
+    "byte_identical": true
+  },
+  {
+    "file": "diagnostics.py",
+    "baseline_sha256": "1731e869b59a19d29fb3e9e0b297d27afb0729804258b925231761dbbd11fab5",
+    "beta2_sha256": "1731e869b59a19d29fb3e9e0b297d27afb0729804258b925231761dbbd11fab5",
+    "byte_identical": true
+  },
+  {
+    "file": "formatting.py",
+    "baseline_sha256": "762cfc9bcbeef2a0a2152e21b3be2d40f86fedf81bbc06be41b50c23636d6c1f",
+    "beta2_sha256": "762cfc9bcbeef2a0a2152e21b3be2d40f86fedf81bbc06be41b50c23636d6c1f",
+    "byte_identical": true
+  },
+  {
+    "file": "main.py",
+    "baseline_sha256": "0ff324221dd09a47f07760dd3ed460e45598051ece91b28e706ee30ab94de532",
+    "beta2_sha256": "dd7f68f2aa5e631e331c959d82dac26781e563abbbde700aa8ff8d34c899972a",
+    "byte_identical": false
+  },
+  {
+    "file": "main_v2_1.py",
+    "baseline_sha256": "0524a6bb08bfcf2d08e08f4a26dea0d01bd2b377cbb416c7abab1e3a5b627ef7",
+    "beta2_sha256": "bdb96dba39e298d8050160050f291db52216c3f45fc6b7a82618b6ac69b61e34",
+    "byte_identical": false
+  },
+  {
+    "file": "ppt_core.py",
+    "baseline_sha256": "25c77e7665a6477e6fbfab0ab02af9ab815d6f8977a678118826469ad13e3464",
+    "beta2_sha256": "25c77e7665a6477e6fbfab0ab02af9ab815d6f8977a678118826469ad13e3464",
+    "byte_identical": true
+  },
+  {
+    "file": "presentation.py",
+    "baseline_sha256": "d1229bd38ce071f4cc2faee8ec52ba939a09ad07551ae0cedc4d2cd4067940c9",
+    "beta2_sha256": "95d961f1e3015f897bc73b71dbe62341e6e7ab2c441532b5d4ed7f7234ab4416",
+    "byte_identical": false
+  },
+  {
+    "file": "presentation_hardening.py",
+    "baseline_sha256": "063a7c801b4b87047ef1c6f2eda266655d45af3bf8c3d128f1a033e1d7711425",
+    "beta2_sha256": "01052ab4e651210cec49983bfc77075b07541351b1955a576f48f1e6e4290073",
+    "byte_identical": false
+  },
+  {
+    "file": "presentation_polish.py",
+    "baseline_sha256": "7f20120334eafbbc5deb20c6f89a68cce4ebe1e31f5cc964b9f6a7e912e9f2da",
+    "beta2_sha256": "a548e6940d0036be924c5c68c6c20b76ac8986084ce1c745f60560fd04c8c1de",
+    "byte_identical": false
+  },
+  {
+    "file": "scoring.py",
+    "baseline_sha256": "902b8dcbe73d547613d0b2a0d411d286f3a667aaa775fa2da8d121ca3ff32aa8",
+    "beta2_sha256": "902b8dcbe73d547613d0b2a0d411d286f3a667aaa775fa2da8d121ca3ff32aa8",
+    "byte_identical": true
+  },
+  {
+    "file": "slides_market.py",
+    "baseline_sha256": "c5eb9b8f4a27122585fbe72a19cd32924eba759a5f1a1e80b41a252cccc4eb79",
+    "beta2_sha256": "c5eb9b8f4a27122585fbe72a19cd32924eba759a5f1a1e80b41a252cccc4eb79",
+    "byte_identical": true
+  },
+  {
+    "file": "slides_partner.py",
+    "baseline_sha256": "0417b4281fcb76cad82cedc6c1820e90904c16e3ca415a7af96e101ae7b62efa",
+    "beta2_sha256": "0417b4281fcb76cad82cedc6c1820e90904c16e3ca415a7af96e101ae7b62efa",
+    "byte_identical": true
+  },
+  {
+    "file": "slides_stores.py",
+    "baseline_sha256": "4b118c80dc63247f5655828809e1cdde5756b0b9e951f599ac27546aaf7c8355",
+    "beta2_sha256": "4b118c80dc63247f5655828809e1cdde5756b0b9e951f599ac27546aaf7c8355",
+    "byte_identical": true
+  },
+  {
+    "file": "store_status.py",
+    "baseline_sha256": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124",
+    "beta2_sha256": "ab016f99fe1b9fa6435995d4d40c6fae98ab063bb930e84c9856feda62155124",
+    "byte_identical": true
+  },
+  {
+    "file": "theme.py",
+    "baseline_sha256": "94d6f7a2ffc1fbb7281367812ce4c43a9dc1aeab1a75b1b7479a2fd1ad6059a5",
+    "beta2_sha256": "94d6f7a2ffc1fbb7281367812ce4c43a9dc1aeab1a75b1b7479a2fd1ad6059a5",
+    "byte_identical": true
+  },
+  {
+    "file": "triage_config.py",
+    "baseline_sha256": "d81933908220bf233eab5ada4c8a3db31c120775a3f7ab3a591771e3f5988a3c",
+    "beta2_sha256": "d81933908220bf233eab5ada4c8a3db31c120775a3f7ab3a591771e3f5988a3c",
+    "byte_identical": true
+  },
+  {
+    "file": "triage_exports.py",
+    "baseline_sha256": "c849ef99449fb866bd8a5e1670da1b70fae4cf9f2e03f0e527940be125987793",
+    "beta2_sha256": "51b173008438c2f1a2bc03f3c4fe0130d3359d00bd452b62b6611e3fc7c29a6c",
+    "byte_identical": false
+  },
+  {
+    "file": "triage_presentation.py",
+    "baseline_sha256": "5ffc85407859efae3bc18688bd528e3f93d88b764f668cad28327c80de7b4106",
+    "beta2_sha256": "428d4e311e48635e228e001bcf12e71bce2cd3b8dd74f124d3ab62ec59f0690d",
+    "byte_identical": false
+  },
+  {
+    "file": "validate.py",
+    "baseline_sha256": "dcd3ea89b87efe4aa1f2a6e96ace278c77f86dfe620084b37092f8c47b9fa5df",
+    "beta2_sha256": "dcd3ea89b87efe4aa1f2a6e96ace278c77f86dfe620084b37092f8c47b9fa5df",
+    "byte_identical": true
+  }
+]

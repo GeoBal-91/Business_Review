@@ -1,0 +1,14 @@
+{
+  "source": "/Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2",
+  "actual_worker_generated": true,
+  "slide_xml_identical_to_inspected_deck": 38,
+  "chart_xml_identical_to_inspected_deck": 13,
+  "installed_files": [
+    "web/presentation_update.py",
+    "web/meeting_workspace.py",
+    "web/version.py",
+    "tests/test_meeting_workspace.py",
+    "tests/refinement_fixtures.py",
+    "PRESENTATION_REFINEMENT_REPORT.md"
+  ]
+}

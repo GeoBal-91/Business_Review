@@ -1,0 +1,12 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_1.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_1.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_1.pdf
+Rendered Actions_1
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_2.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_2.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_2.pdf
+Rendered Actions_2
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Actions_6.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_6.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Actions_6.pdf
+Rendered Actions_6
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/decks/Zero_Zero.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Zero.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_refinement/previews/Zero_Zero.pdf
+Rendered Zero_Zero

@@ -1,0 +1,34 @@
+[
+  {
+    "case": "Actions_6",
+    "audit_files_equal": 23,
+    "normalization": [
+      "temporary file paths",
+      "presentation version"
+    ]
+  },
+  {
+    "case": "Empty",
+    "audit_files_equal": 23,
+    "normalization": [
+      "temporary file paths",
+      "presentation version"
+    ]
+  },
+  {
+    "case": "FLOWERS_missing",
+    "audit_files_equal": 23,
+    "normalization": [
+      "temporary file paths",
+      "presentation version"
+    ]
+  },
+  {
+    "case": "Long_Mixed_Unicode",
+    "audit_files_equal": 23,
+    "normalization": [
+      "temporary file paths",
+      "presentation version"
+    ]
+  }
+]

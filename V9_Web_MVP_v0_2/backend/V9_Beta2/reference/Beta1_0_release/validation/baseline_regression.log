@@ -1,0 +1,183 @@
+test_missing_rate_confidence_not_presented_as_percent (test_hardening.CVRContract.test_missing_rate_confidence_not_presented_as_percent) ... ok
+test_missing_reported_column_rejected (test_hardening.CVRContract.test_missing_reported_column_rejected) ... ok
+test_missing_reported_incomplete (test_hardening.CVRContract.test_missing_reported_incomplete) ... ok
+test_partner_reported_weighted (test_hardening.CVRContract.test_partner_reported_weighted) ... ok
+test_proxy_never_substitutes (test_hardening.CVRContract.test_proxy_never_substitutes) ... ok
+test_sbu_reported_weighted (test_hardening.CVRContract.test_sbu_reported_weighted) ... ok
+test_store_observation_retained_with_zero_sessions (test_hardening.CVRContract.test_store_observation_retained_with_zero_sessions) ... ok
+test_store_scoring_uses_reported (test_hardening.CVRContract.test_store_scoring_uses_reported) ... ok
+test_coverage_counts_and_names_exported (test_hardening.CoverageSafety.test_coverage_counts_and_names_exported) ... ok
+test_coverage_does_not_change_store_scores (test_hardening.CoverageSafety.test_coverage_does_not_change_store_scores) ... ok
+test_future_stores_not_expected_before_first_observation (test_hardening.CoverageSafety.test_future_stores_not_expected_before_first_observation) ... ok
+test_missing_current_unknown (test_hardening.CoverageSafety.test_missing_current_unknown) ... ok
+test_no_false_growth_in_full_deck (test_hardening.CoverageSafety.test_no_false_growth_in_full_deck) ... ok
+test_previous_period_partial_also_suppressed (test_hardening.CoverageSafety.test_previous_period_partial_also_suppressed) ... ok
+test_raw_totals_retained_both_comparisons_suppressed (test_hardening.CoverageSafety.test_raw_totals_retained_both_comparisons_suppressed) ... ok
+test_80_store_scores_flags_actions_rank_against_dev6 (test_hardening.Dev6GoldenCompatibility.test_80_store_scores_flags_actions_rank_against_dev6) ... ok
+test_untouched_scoring_and_lifecycle_source (test_hardening.Dev6GoldenCompatibility.test_untouched_scoring_and_lifecycle_source) ... ok
+test_active_complete_dashboard (test_hardening.DiagnosticStates.test_active_complete_dashboard) ... ok
+test_closed_dashboard (test_hardening.DiagnosticStates.test_closed_dashboard) ... ok
+test_critical_dashboard_raw_denominator_not_material (test_hardening.DiagnosticStates.test_critical_dashboard_raw_denominator_not_material) ... ok
+test_flowers_hygiene_dashboard (test_hardening.DiagnosticStates.test_flowers_hygiene_dashboard) ... ok
+test_incomplete_uses_known_issue (test_hardening.DiagnosticStates.test_incomplete_uses_known_issue) ... ok
+test_main_differs_from_largest_exposure (test_hardening.DiagnosticStates.test_main_differs_from_largest_exposure) ... ok
+test_main_differs_from_worst (test_hardening.DiagnosticStates.test_main_differs_from_worst) ... ok
+test_material_priority_dashboard (test_hardening.DiagnosticStates.test_material_priority_dashboard) ... ok
+test_no_activity_keeps_zero_and_review (test_hardening.DiagnosticStates.test_no_activity_keeps_zero_and_review) ... ok
+test_trend_available_and_no_fabricated_missing_points (test_hardening.DiagnosticStates.test_trend_available_and_no_fabricated_missing_points) ... ok
+test_trend_unavailable (test_hardening.DiagnosticStates.test_trend_unavailable) ... ok
+test_unknown_dashboard (test_hardening.DiagnosticStates.test_unknown_dashboard) ... ok
+test_partial_period_and_challenger_every_slide (test_hardening.PresentationQualifications.test_partial_period_and_challenger_every_slide) ... ok
+test_standard_default_paired_unmarked_and_challenger_exported (test_hardening.PresentationQualifications.test_standard_default_paired_unmarked_and_challenger_exported) ... ok
+test_cohort_metadata_matches_rendering (test_integration.Integration.test_cohort_metadata_matches_rendering) ... ok
+test_critical_flags_do_not_add_score (test_integration.Integration.test_critical_flags_do_not_add_score) ... ok
+test_empty_action_exports_have_schema (test_integration.Integration.test_empty_action_exports_have_schema) ... ok
+test_full_precision_exports_and_strict_json (test_integration.Integration.test_full_precision_exports_and_strict_json) ... ok
+test_import_does_not_execute_pipeline (test_integration.Integration.test_import_does_not_execute_pipeline) ... ok
+test_stale_no_common_period_deck (test_integration.Integration.test_stale_no_common_period_deck) ... ok
+test_stress_deck_contains_every_action_and_unknown_store (test_integration.Integration.test_stress_deck_contains_every_action_and_unknown_store) ... ok
+test_complete_comparisons_keep_normal_interpretation (test_presentation_hardening.AggregateCoverage.test_complete_comparisons_keep_normal_interpretation) ... ok
+test_display_guard_preserves_all_complete_formatter_branches (test_presentation_hardening.AggregateCoverage.test_display_guard_preserves_all_complete_formatter_branches) ... ok
+test_guard_does_not_hide_separate_store_diagnostics (test_presentation_hardening.AggregateCoverage.test_guard_does_not_hide_separate_store_diagnostics) ... ok
+test_historical_gap_does_not_suppress_complete_current (test_presentation_hardening.AggregateCoverage.test_historical_gap_does_not_suppress_complete_current) ... ok
+test_partial_all_current_benchmark_slides_suppress_direction (test_presentation_hardening.AggregateCoverage.test_partial_all_current_benchmark_slides_suppress_direction) ... ok
+test_partial_executive_keeps_raw_current_and_sbu_values (test_presentation_hardening.AggregateCoverage.test_partial_executive_keeps_raw_current_and_sbu_values) ... ok
+test_partial_operational_keeps_raw_rates_and_references (test_presentation_hardening.AggregateCoverage.test_partial_operational_keeps_raw_rates_and_references) ... ok
+test_partial_partner_table_all_five_raw_pairs_retained (test_presentation_hardening.AggregateCoverage.test_partial_partner_table_all_five_raw_pairs_retained) ... ok
+test_all_bundled_analytical_exports_byte_identical (test_presentation_hardening.FrozenAnalyticalRelease.test_all_bundled_analytical_exports_byte_identical) ... /workspace/scratch/7af76724d1ef/beta1_0_work/venv/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+FAIL
+test_analytical_files_and_all_98_test_definitions_byte_identical (test_presentation_hardening.FrozenAnalyticalRelease.test_analytical_files_and_all_98_test_definitions_byte_identical) ... FAIL
+test_empty_recommendations_has_no_fake_focus_metrics (test_presentation_hardening.RecommendationsUX.test_empty_recommendations_has_no_fake_focus_metrics) ... ok
+test_execution_reminder_present_without_forecasts_or_dates (test_presentation_hardening.RecommendationsUX.test_execution_reminder_present_without_forecasts_or_dates) ... ok
+test_focus_one_store_and_duplicate_records_uses_distinct_ids (test_presentation_hardening.RecommendationsUX.test_focus_one_store_and_duplicate_records_uses_distinct_ids) ... ok
+test_focus_uses_highest_ranked_displayed_kpi_and_actual_range (test_presentation_hardening.RecommendationsUX.test_focus_uses_highest_ranked_displayed_kpi_and_actual_range) ... ok
+test_ranked_business_content_preserved_in_order (test_presentation_hardening.RecommendationsUX.test_ranked_business_content_preserved_in_order) ... ok
+test_rendering_does_not_mutate_actions_reviews_or_full_precision (test_presentation_hardening.RecommendationsUX.test_rendering_does_not_mutate_actions_reviews_or_full_precision) ... ok
+test_review_count_is_separate_and_limited_to_displayed_stores (test_presentation_hardening.RecommendationsUX.test_review_count_is_separate_and_limited_to_displayed_stores) ... ok
+test_fewer_than_six_valid_rows_and_share (test_presentation_hardening.TopGMVEligibility.test_fewer_than_six_valid_rows_and_share) ... ok
+test_infinite_values_excluded_at_presentation_boundary (test_presentation_hardening.TopGMVEligibility.test_infinite_values_excluded_at_presentation_boundary) ... /workspace/scratch/7af76724d1ef/beta1_0_work/baseline/tests/test_presentation_hardening.py:106: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'inf' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  a.stores.loc[a.stores['Store ID']=='A',G]=np.inf
+ok
+test_missing_current_gmv_not_zero_imputed (test_presentation_hardening.TopGMVEligibility.test_missing_current_gmv_not_zero_imputed) ... ok
+test_no_valid_current_rows_has_explicit_empty_display (test_presentation_hardening.TopGMVEligibility.test_no_valid_current_rows_has_explicit_empty_display) ... /workspace/scratch/7af76724d1ef/beta1_0_work/venv/lib/python3.14/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+ok
+test_noncurrent_or_unobserved_records_excluded (test_presentation_hardening.TopGMVEligibility.test_noncurrent_or_unobserved_records_excluded) ... ok
+test_observed_zero_gmv_remains_eligible (test_presentation_hardening.TopGMVEligibility.test_observed_zero_gmv_remains_eligible) ... ok
+test_one_current_plus_one_missing_store (test_presentation_hardening.TopGMVEligibility.test_one_current_plus_one_missing_store) ... ok
+test_unknown_current_status_not_ranked (test_presentation_hardening.TopGMVEligibility.test_unknown_current_status_not_ranked) ... ok
+test_valid_order_deterministic_and_capped_at_six (test_presentation_hardening.TopGMVEligibility.test_valid_order_deterministic_and_capped_at_six) ... ok
+test_appendix_after_thank_you_and_every_diagnostic_retained (test_presentation_navigation.NavigationAndCohort.test_appendix_after_thank_you_and_every_diagnostic_retained) ... ok
+test_cohort_note_dynamic_counts_and_nonassessed_categories (test_presentation_navigation.NavigationAndCohort.test_cohort_note_dynamic_counts_and_nonassessed_categories) ... ok
+test_cohort_note_repeats_on_each_legend_continuation (test_presentation_navigation.NavigationAndCohort.test_cohort_note_repeats_on_each_legend_continuation) ... ok
+test_empty_matrix_cohort_note_preserves_inactive_evidence (test_presentation_navigation.NavigationAndCohort.test_empty_matrix_cohort_note_preserves_inactive_evidence) ... ok
+test_guide_after_fallback_cover_when_market_period_unavailable (test_presentation_navigation.NavigationAndCohort.test_guide_after_fallback_cover_when_market_period_unavailable) ... ok
+test_guide_immediately_after_cover_with_identical_visual_content (test_presentation_navigation.NavigationAndCohort.test_guide_immediately_after_cover_with_identical_visual_content) ... ok
+test_matrix_note_counts_no_activity_separately (test_presentation_navigation.NavigationAndCohort.test_matrix_note_counts_no_activity_separately) ... ok
+test_five_and_six_focus_panel_uses_each_displayed_group (test_presentation_navigation.RecommendationPagination.test_five_and_six_focus_panel_uses_each_displayed_group) ... ok
+test_four_actions_fit_one_slide_with_all_business_fields (test_presentation_navigation.RecommendationPagination.test_four_actions_fit_one_slide_with_all_business_fields) ... ok
+test_requested_group_sizes_and_original_order (test_presentation_navigation.RecommendationPagination.test_requested_group_sizes_and_original_order) ... ok
+test_frozen_source_files_byte_identical (test_presentation_patch.FrozenDev61.test_frozen_source_files_byte_identical) ... FAIL
+test_recommendations_content_and_layout_xml_unchanged (test_presentation_patch.FrozenDev61.test_recommendations_content_and_layout_xml_unchanged) ... ok
+test_rendering_does_not_modify_numerical_records_or_actions (test_presentation_patch.FrozenDev61.test_rendering_does_not_modify_numerical_records_or_actions) ... ok
+test_dynamic_actual_benchmark_month (test_presentation_patch.MethodologyGuide.test_dynamic_actual_benchmark_month) ... ok
+test_guide_retains_flowers_uptime_caveat_and_challenger_meaning (test_presentation_patch.MethodologyGuide.test_guide_retains_flowers_uptime_caveat_and_challenger_meaning) ... ok
+test_missing_benchmark_is_explicit (test_presentation_patch.MethodologyGuide.test_missing_benchmark_is_explicit) ... ok
+test_complete_current_coverage_preserves_direction (test_presentation_patch.PartnerCVRCoverage.test_complete_current_coverage_preserves_direction) ... ok
+test_historical_gap_does_not_suppress_complete_current_comparison (test_presentation_patch.PartnerCVRCoverage.test_historical_gap_does_not_suppress_complete_current_comparison) ... ok
+test_incomplete_current_coverage_suppresses_direction_keeps_raw_rates (test_presentation_patch.PartnerCVRCoverage.test_incomplete_current_coverage_suppresses_direction_keeps_raw_rates) ... ok
+test_deterministic_color_mapping_independent_of_input_order (test_presentation_patch.StoreMatrix.test_deterministic_color_mapping_independent_of_input_order) ... ok
+test_each_plotted_store_gets_distinct_color (test_presentation_patch.StoreMatrix.test_each_plotted_store_gets_distinct_color) ... ok
+test_full_store_legend_readable_across_continuations (test_presentation_patch.StoreMatrix.test_full_store_legend_readable_across_continuations) ... ok
+test_xy_reference_lines_and_no_point_labels (test_presentation_patch.StoreMatrix.test_xy_reference_lines_and_no_point_labels) ... ok
+test_concentration_uses_displayed_gmv_and_total_partner_gmv (test_presentation_patch.TopGMV.test_concentration_uses_displayed_gmv_and_total_partner_gmv) ... ok
+test_existing_top_gmv_ranking_and_rows_retained (test_presentation_patch.TopGMV.test_existing_top_gmv_ranking_and_rows_retained) ... ok
+test_fewer_than_six_and_single_store (test_presentation_patch.TopGMV.test_fewer_than_six_and_single_store) ... ok
+test_partial_coverage_not_claimed_as_total_gmv_share (test_presentation_patch.TopGMV.test_partial_coverage_not_claimed_as_total_gmv_share) ... ok
+test_zero_missing_or_empty_gmv_not_fabricated (test_presentation_patch.TopGMV.test_zero_missing_or_empty_gmv_not_fabricated) ... /workspace/scratch/7af76724d1ef/beta1_0_work/venv/lib/python3.14/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+ok
+test_activity_closure_conflict_not_hard_zero (test_regression.AuditFixes.test_activity_closure_conflict_not_hard_zero) ... ok
+test_challenger_and_paired_both_zero_floor (test_regression.AuditFixes.test_challenger_and_paired_both_zero_floor) ... ok
+test_closed_excluded_from_operating_uptime (test_regression.AuditFixes.test_closed_excluded_from_operating_uptime) ... ok
+test_commercial_status_independent_of_uptime (test_regression.AuditFixes.test_commercial_status_independent_of_uptime) ... ok
+test_current_month_requires_opt_in (test_regression.AuditFixes.test_current_month_requires_opt_in) ... ok
+test_december_january_consecutive (test_regression.AuditFixes.test_december_january_consecutive) ... ok
+test_duplicate_grain_rejected (test_regression.AuditFixes.test_duplicate_grain_rejected) ... ok
+test_explicit_conversion_contracts (test_regression.AuditFixes.test_explicit_conversion_contracts) ... ok
+test_explicit_percentage_units (test_regression.AuditFixes.test_explicit_percentage_units) ... ok
+test_exposure_not_added (test_regression.AuditFixes.test_exposure_not_added) ... ok
+test_flowers_action_follows_eligible_cvr_and_toggle (test_regression.AuditFixes.test_flowers_action_follows_eligible_cvr_and_toggle) ... ok
+test_history_baseline_restoration_monotonic (test_regression.AuditFixes.test_history_baseline_restoration_monotonic) ... ok
+test_inferred_closure_needs_history (test_regression.AuditFixes.test_inferred_closure_needs_history) ... ok
+test_invalid_counts_and_dates_rejected (test_regression.AuditFixes.test_invalid_counts_and_dates_rejected) ... ok
+test_missing_activity_not_zero (test_regression.AuditFixes.test_missing_activity_not_zero) ... ok
+test_missing_benchmark_incomplete_no_renormalization (test_regression.AuditFixes.test_missing_benchmark_incomplete_no_renormalization) ... ok
+test_missing_cohort_uptime_not_healthy_average (test_regression.AuditFixes.test_missing_cohort_uptime_not_healthy_average) ... ok
+test_missing_latest_retained (test_regression.AuditFixes.test_missing_latest_retained) ... ok
+test_missing_numerator_incomplete (test_regression.AuditFixes.test_missing_numerator_incomplete) ... ok
+test_month_formats (test_regression.AuditFixes.test_month_formats) ... ok
+test_partition_opt_in_preserves_missing (test_regression.AuditFixes.test_partition_opt_in_preserves_missing) ... ok
+test_partner_average_cannot_mask_store_action (test_regression.AuditFixes.test_partner_average_cannot_mask_store_action) ... ok
+test_reported_cvr_session_weighted (test_regression.AuditFixes.test_reported_cvr_session_weighted) ... ok
+test_rounding_is_presentation_only (test_regression.AuditFixes.test_rounding_is_presentation_only) ... ok
+test_row_order_and_gmv_invariance (test_regression.AuditFixes.test_row_order_and_gmv_invariance) ... ok
+test_stale_benchmark_policy (test_regression.AuditFixes.test_stale_benchmark_policy) ... ok
+test_all_curve_anchors_midpoints_and_clamps (test_regression.KeepUnchanged.test_all_curve_anchors_midpoints_and_clamps) ... ok
+test_confirmed_closed_and_inactive_zero (test_regression.KeepUnchanged.test_confirmed_closed_and_inactive_zero) ... ok
+test_count_first_pna_cancels_aov (test_regression.KeepUnchanged.test_count_first_pna_cancels_aov) ... ok
+test_critical_thresholds_raw_and_separate (test_regression.KeepUnchanged.test_critical_thresholds_raw_and_separate) ... ok
+test_denominator_specific_shrinkage (test_regression.KeepUnchanged.test_denominator_specific_shrinkage) ... ok
+test_dominant_kpi_protection (test_regression.KeepUnchanged.test_dominant_kpi_protection) ... ok
+test_flowers_exclusion_and_shared_sbu_calibration (test_regression.KeepUnchanged.test_flowers_exclusion_and_shared_sbu_calibration) ... ok
+test_frozen_dev5_constants (test_regression.KeepUnchanged.test_frozen_dev5_constants) ... ok
+test_honest_top_gmv_title (test_regression.KeepUnchanged.test_honest_top_gmv_title) ... ok
+test_missing_calendar_month_not_closed (test_regression.KeepUnchanged.test_missing_calendar_month_not_closed) ... ok
+test_reopened_store_active (test_regression.KeepUnchanged.test_reopened_store_active) ... ok
+test_short_ranked_list_and_all_actions (test_regression.KeepUnchanged.test_short_ranked_list_and_all_actions) ... ok
+test_shrinkage_grid_matches_dev5 (test_regression.KeepUnchanged.test_shrinkage_grid_matches_dev5) ... ok
+test_two_zero_months_not_closed (test_regression.KeepUnchanged.test_two_zero_months_not_closed) ... ok
+test_zero_delivered_is_active_with_attempts (test_regression.KeepUnchanged.test_zero_delivered_is_active_with_attempts) ... ok
+test_zero_delivered_is_active_with_sessions (test_regression.KeepUnchanged.test_zero_delivered_is_active_with_sessions) ... ok
+
+======================================================================
+FAIL: test_all_bundled_analytical_exports_byte_identical (test_presentation_hardening.FrozenAnalyticalRelease.test_all_bundled_analytical_exports_byte_identical)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/7af76724d1ef/beta1_0_work/baseline/tests/test_presentation_hardening.py", line 217, in test_all_bundled_analytical_exports_byte_identical
+    self.assertEqual(hashlib.sha256((Path(tmp)/name).read_bytes()).hexdigest(),digest,name)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: '8d9f69cce7568614ac224e0461e9f8bf73b6c834a4a8ddee98db8e2e79646d19' != '97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed'
+- 8d9f69cce7568614ac224e0461e9f8bf73b6c834a4a8ddee98db8e2e79646d19
++ 97e0c3c072ade1be3c42c77a0f9a5677cbcf12579f4c345de515e19daa01a9ed
+ : actions.csv
+
+======================================================================
+FAIL: test_analytical_files_and_all_98_test_definitions_byte_identical (test_presentation_hardening.FrozenAnalyticalRelease.test_analytical_files_and_all_98_test_definitions_byte_identical)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/7af76724d1ef/beta1_0_work/baseline/tests/test_presentation_hardening.py", line 205, in test_analytical_files_and_all_98_test_definitions_byte_identical
+    self.assertEqual(hashlib.sha256((root/name).read_bytes()).hexdigest(),digest,name)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: '4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c' != '47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba'
+- 4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c
++ 47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba
+ : config.py
+
+======================================================================
+FAIL: test_frozen_source_files_byte_identical (test_presentation_patch.FrozenDev61.test_frozen_source_files_byte_identical)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/7af76724d1ef/beta1_0_work/baseline/tests/test_presentation_patch.py", line 192, in test_frozen_source_files_byte_identical
+    self.assertEqual(hashlib.sha256((root / name).read_bytes()).hexdigest(), digest, name)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: '4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c' != '47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba'
+- 4429c63a3c0aeb0d5a6d88669bd96d1fff7bf25caec4c0ca61a270f1dfe9485c
++ 47dde1e212e14d83d593017050e21efccaff549b47762384c0b1296e012cc9ba
+ : config.py
+
+----------------------------------------------------------------------
+Ran 134 tests in 84.494s
+
+FAILED (failures=3)

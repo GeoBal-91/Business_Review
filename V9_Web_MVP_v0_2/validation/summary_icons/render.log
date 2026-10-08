@@ -1,0 +1,4 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/summary_icons/decks/Actions_6.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/summary_icons/previews/Actions_6.pdf using filter : impress_pdf_Export
+Rendered Actions_6
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/summary_icons/decks/Empty.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/summary_icons/previews/Empty.pdf using filter : impress_pdf_Export
+Rendered Empty

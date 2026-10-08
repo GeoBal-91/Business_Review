@@ -1,0 +1,38 @@
+[
+  {
+    "file": "V9_Beta2_JEWELRY.pptx",
+    "slides": 21,
+    "source": "provided partner workbook",
+    "generated": true,
+    "package_findings": 0,
+    "layout_findings": 0,
+    "rendered": true
+  },
+  {
+    "file": "V9_Beta2_SUPERMARKET_synthetic.pptx",
+    "slides": 21,
+    "source": "synthetic partner; NEW production benchmark",
+    "generated": true,
+    "package_findings": 0,
+    "layout_findings": 0,
+    "rendered": true
+  },
+  {
+    "file": "V9_Beta2_FLOWERS_synthetic.pptx",
+    "slides": 21,
+    "source": "synthetic partner; NEW production benchmark",
+    "generated": true,
+    "package_findings": 0,
+    "layout_findings": 0,
+    "rendered": true
+  },
+  {
+    "file": "V9_Beta2_PHARMACY_abc_presentation_replay.pptx",
+    "slides": 22,
+    "source": "real abc deck; Top GMV slide replay only. Raw input workbook unavailable. Other analytics retained from source deck.",
+    "generated": true,
+    "package_findings": 0,
+    "layout_findings": 0,
+    "rendered": true
+  }
+]

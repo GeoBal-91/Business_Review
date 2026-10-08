@@ -1,0 +1,50 @@
+{
+  "audit_parity": [
+    {
+      "case": "Actions_1",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Actions_2",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Actions_6",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "FLOWERS_missing",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Empty",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Zero_Missing",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Missing_Missing",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Zero_Zero",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    },
+    {
+      "case": "Positive_Missing",
+      "audit_files_equal": 22,
+      "identical_input_bytes": true
+    }
+  ],
+  "external_frozen_files_unchanged": 308
+}

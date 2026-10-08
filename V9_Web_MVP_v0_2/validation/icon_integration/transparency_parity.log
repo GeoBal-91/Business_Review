@@ -1,0 +1,1 @@
+PASS: all 5 decks preserve every slide XML/relationship, layout, pagination, text and fonts. All 23 audit entries per deck unchanged except paths/presentation version.

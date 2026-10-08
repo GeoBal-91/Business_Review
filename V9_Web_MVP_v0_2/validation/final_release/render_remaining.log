@@ -1,0 +1,6 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/decks/FLOWERS_missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/FLOWERS_missing.pdf using filter : impress_pdf_Export
+Rendered FLOWERS_missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/decks/Long_Mixed_Unicode.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Long_Mixed_Unicode.pdf using filter : impress_pdf_Export
+Rendered Long_Mixed_Unicode
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/decks/Store_States.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/final_release/previews/Store_States.pdf using filter : impress_pdf_Export
+Rendered Store_States

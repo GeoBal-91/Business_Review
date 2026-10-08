@@ -1,0 +1,18 @@
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+test_combo_charts_have_partner_only_native_data_and_gap_month (test_presentation_update.PresentationUpdate.test_combo_charts_have_partner_only_native_data_and_gap_month) ... ok
+test_exact_comparison_values_and_growth (test_presentation_update.PresentationUpdate.test_exact_comparison_values_and_growth) ... ok
+test_flow_and_original_slides_unchanged (test_presentation_update.PresentationUpdate.test_flow_and_original_slides_unchanged) ... ok
+test_missing_series_and_partial_benchmarks_are_not_zero (test_presentation_update.PresentationUpdate.test_missing_series_and_partial_benchmarks_are_not_zero) ... ok
+test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve (test_presentation_update.PresentationUpdate.test_native_workbooks_keep_missing_cells_and_hyperlinks_resolve) ... ok
+test_operational_preserves_all_text_and_adds_three_charts (test_presentation_update.PresentationUpdate.test_operational_preserves_all_text_and_adds_three_charts) ... ok
+test_render_does_not_mutate_analysis_or_any_audit (test_presentation_update.PresentationUpdate.test_render_does_not_mutate_analysis_or_any_audit) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 5.913s
+
+OK

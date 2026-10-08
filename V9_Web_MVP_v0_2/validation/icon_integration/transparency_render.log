@@ -1,0 +1,15 @@
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/Actions_6.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Actions_6.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Actions_6.pdf
+Rendered Actions_6
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/Empty.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Empty.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Empty.pdf
+Rendered Empty
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/FLOWERS_missing.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/FLOWERS_missing.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/FLOWERS_missing.pdf
+Rendered FLOWERS_missing
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/Long_Mixed_Unicode.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Long_Mixed_Unicode.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Long_Mixed_Unicode.pdf
+Rendered Long_Mixed_Unicode
+convert /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/decks/Store_States.pptx as a Impress document -> /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Store_States.pdf using filter : impress_pdf_Export
+Overwriting: /Users/giorgibalarjishvili/Desktop/V9_Web_MVP_v0_2/validation/icon_integration/previews/Store_States.pdf
+Rendered Store_States

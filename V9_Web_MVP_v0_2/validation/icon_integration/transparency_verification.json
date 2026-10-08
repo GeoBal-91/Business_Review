@@ -1,0 +1,146 @@
+{
+  "icon_agreed_action.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1006776,
+    "partial_alpha_pixels": 2778,
+    "unchanged_core_pixels": 558361,
+    "preserved_internal_light_pixels": 274738,
+    "original_sha256": "e94b1915e284124946aa6344da8535746a8e672659f9a2755978c12c7215409d",
+    "corrected_sha256": "e724bb93cbcd1f8011e6fa5cc9f01683f556afd49d9e4d6097dfe2a6c245b6e9",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_availability_review.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 932157,
+    "partial_alpha_pixels": 3256,
+    "unchanged_core_pixels": 632843,
+    "preserved_internal_light_pixels": 52297,
+    "original_sha256": "800724797956b233ee200fb8172843f1e53bd9b8ceaac561525db8fb86cfbe75",
+    "corrected_sha256": "c22df16ef634deb5008ae26d73d33f31b364df565d153522c382ae6b79874484",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_critical_observation.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1112242,
+    "partial_alpha_pixels": 2999,
+    "unchanged_core_pixels": 453398,
+    "preserved_internal_light_pixels": 26210,
+    "original_sha256": "888ce2f511a175b6c7b951751354b5e166df9543de5819d157bef704de166648",
+    "corrected_sha256": "ea1276499ac4b3f3355ccdec42b3f20bfe60411fe1b0bbe4efe7e435e7d7c49d",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_data_quality.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 903437,
+    "partial_alpha_pixels": 3320,
+    "unchanged_core_pixels": 661801,
+    "preserved_internal_light_pixels": 278040,
+    "original_sha256": "85cf42fbf5af4de6eddd5d73c48ae18f37fdac0eb19fc9d368b9186d9839a14d",
+    "corrected_sha256": "cfbc283a9221e9aaeca78df236f53eb48aab2c80d85b95f820591304a98e481a",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_next_checkin.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 881042,
+    "partial_alpha_pixels": 3695,
+    "unchanged_core_pixels": 683539,
+    "preserved_internal_light_pixels": 322333,
+    "original_sha256": "0b37990d4c0b6631a5fa990b96d5a15ecb1258f6e9e7b77356c8ad087bee5503",
+    "corrected_sha256": "36f36caf86bbd14f9446dfdf15d31a9e5784d82f98d3fdba57883ed17db91f16",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_opening_hours.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 906453,
+    "partial_alpha_pixels": 2919,
+    "unchanged_core_pixels": 658699,
+    "preserved_internal_light_pixels": 274258,
+    "original_sha256": "db8caedf63eb1dad8cd47717c9136d02caabd60beb1834e10c0662bdf4c66a29",
+    "corrected_sha256": "d323354c8d6b04f1ecdf5a7fbcc4313ce364c149c656df7159bf18bd9c477930",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_priority_action.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1281487,
+    "partial_alpha_pixels": 5665,
+    "unchanged_core_pixels": 280686,
+    "preserved_internal_light_pixels": 0,
+    "original_sha256": "9ec10b6df8c45825578cd9d3c7082aeb0aa364d4b2317038122c9f83694ea429",
+    "corrected_sha256": "1fd4b80b2a42ed04164e5afa3c062ec640822f638b4927a0457149482c4d8924",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  },
+  "icon_store_review.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 807453,
+    "partial_alpha_pixels": 3709,
+    "unchanged_core_pixels": 756800,
+    "preserved_internal_light_pixels": 168409,
+    "original_sha256": "c1f6b459f5a0539626f284a06812570591625ffda2a45dfba01e3dae24176123",
+    "corrected_sha256": "c8febcd0d5216b200ecdb369a91eac4dfe0fd78855626321ddff727800169e39",
+    "all_fully_opaque_artwork_pixels_rgb_unchanged": true,
+    "partial_edge_pixels_have_no_neutral_background_color": true
+  }
+}
